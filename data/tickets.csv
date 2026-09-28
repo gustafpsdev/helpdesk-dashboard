@@ -1,0 +1,1501 @@
+id,aberto_em,fechado_em,categoria,prioridade,unidade,status,sla_horas,tempo_resolucao_h,sla_cumprido
+CH-01197,2026-03-24 17:56,2026-03-25 01:26,Acesso,Média,Loja Jundiaí,Resolvido,24,7.5,sim
+CH-00309,2026-03-27 14:12,,Hardware,Baixa,Loja Campinas,Aberto,72,,
+CH-00610,2026-03-29 08:29,2026-03-31 20:05,Software/Office,Baixa,Estilo,Resolvido,72,59.6,sim
+CH-00045,2026-03-30 16:43,2026-03-31 09:13,Acesso,Média,Financeiro,Resolvido,24,16.5,sim
+CH-00904,2026-04-02 11:44,2026-04-02 13:08,Software/Office,Crítica,Loja Centro,Resolvido,4,1.4,sim
+CH-00850,2026-04-03 13:15,2026-04-05 11:27,Outros,Média,Fábrica,Resolvido,24,46.2,nao
+CH-00479,2026-04-05 10:28,2026-04-07 10:22,Rede,Baixa,Expedição,Resolvido,72,47.9,sim
+CH-00227,2026-04-05 14:15,2026-04-06 00:09,Outros,Média,Marketing,Resolvido,24,9.9,sim
+CH-00978,2026-04-05 17:50,,Hardware,Alta,RH,Aberto,8,,
+CH-00203,2026-04-06 09:27,2026-04-06 20:03,Impressão,Média,Loja Shopping,Resolvido,24,10.6,sim
+CH-00512,2026-04-06 11:24,2026-04-07 02:48,Hardware,Média,Loja Shopping,Resolvido,24,15.4,sim
+CH-01043,2026-04-06 15:18,2026-04-07 03:06,Impressão,Média,Fábrica,Resolvido,24,11.8,sim
+CH-00031,2026-04-07 17:36,,Acesso,Baixa,Marketing,Aberto,72,,
+CH-00842,2026-04-08 16:04,2026-04-08 19:46,Rede,Crítica,Loja Centro,Resolvido,4,3.7,sim
+CH-01069,2026-04-09 09:24,2026-04-09 10:42,Software/Office,Alta,RH,Resolvido,8,1.3,sim
+CH-00552,2026-04-10 11:41,2026-04-10 21:05,Hardware,Alta,Financeiro,Resolvido,8,9.4,nao
+CH-01305,2026-04-11 11:17,2026-04-16 14:29,Software/Office,Baixa,Loja Shopping,Resolvido,72,123.2,nao
+CH-00589,2026-04-11 12:26,2026-04-11 13:38,Hardware,Crítica,RH,Resolvido,4,1.2,sim
+CH-00949,2026-04-11 13:00,2026-04-11 14:36,Rede,Alta,Loja Shopping,Resolvido,8,1.6,sim
+CH-00946,2026-04-12 08:00,2026-04-14 09:18,Rede,Baixa,Loja Centro,Resolvido,72,49.3,sim
+CH-01415,2026-04-12 14:02,,Acesso,Baixa,Loja Sul,Em andamento,72,,
+CH-01353,2026-04-13 13:19,2026-04-13 16:49,Acesso,Alta,Loja Shopping,Resolvido,8,3.5,sim
+CH-00953,2026-04-13 17:28,2026-04-14 01:34,Outros,Média,Loja Jundiaí,Resolvido,24,8.1,sim
+CH-01491,2026-04-14 17:03,,Rede,Baixa,Loja Sul,Aberto,72,,
+CH-00239,2026-04-15 12:29,2026-04-15 17:05,Software/Office,Alta,Loja Jundiaí,Resolvido,8,4.6,sim
+CH-00709,2026-04-15 14:43,2026-04-15 18:07,Hardware,Alta,Marketing,Resolvido,8,3.4,sim
+CH-00051,2026-04-16 11:30,2026-04-16 15:36,Software/Office,Alta,Loja Centro,Resolvido,8,4.1,sim
+CH-00442,2026-04-17 10:03,2026-04-19 16:03,Impressão,Baixa,Loja Sul,Resolvido,72,54.0,sim
+CH-01293,2026-04-17 11:28,2026-04-18 03:22,Software/Office,Média,Fábrica,Resolvido,24,15.9,sim
+CH-01383,2026-04-17 13:36,2026-04-17 20:48,Hardware,Alta,Loja Sul,Resolvido,8,7.2,sim
+CH-00389,2026-04-18 08:10,2026-04-19 07:16,Rede,Baixa,Loja Jundiaí,Resolvido,72,23.1,sim
+CH-00969,2026-04-18 10:16,2026-04-19 16:58,Impressão,Média,Financeiro,Resolvido,24,30.7,nao
+CH-01385,2026-04-18 11:37,2026-04-18 20:13,Rede,Média,Fábrica,Resolvido,24,8.6,sim
+CH-00753,2026-04-19 08:53,2026-04-19 16:17,Acesso,Alta,Marketing,Resolvido,8,7.4,sim
+CH-00471,2026-04-19 17:37,2026-04-19 21:07,Hardware,Crítica,Loja Sul,Resolvido,4,3.5,sim
+CH-01390,2026-04-20 09:21,2026-04-23 03:33,Impressão,Baixa,Loja Shopping,Resolvido,72,66.2,sim
+CH-01331,2026-04-20 09:33,2026-04-20 15:51,Software/Office,Média,Loja Sul,Resolvido,24,6.3,sim
+CH-00511,2026-04-20 13:25,2026-04-21 01:49,Acesso,Média,Marketing,Resolvido,24,12.4,sim
+CH-00986,2026-04-20 15:50,2026-04-28 10:38,Impressão,Baixa,Financeiro,Resolvido,72,186.8,nao
+CH-01364,2026-04-20 17:05,2026-04-21 03:17,Software/Office,Média,Loja Centro,Resolvido,24,10.2,sim
+CH-01286,2026-04-21 08:48,,Hardware,Baixa,Marketing,Aberto,72,,
+CH-00037,2026-04-21 13:37,2026-04-21 18:01,Outros,Média,Loja Centro,Resolvido,24,4.4,sim
+CH-01318,2026-04-22 08:39,,Impressão,Baixa,Comercial,Aberto,72,,
+CH-01098,2026-04-22 10:09,2026-04-23 01:45,Software/Office,Média,Comercial,Resolvido,24,15.6,sim
+CH-00773,2026-04-22 10:17,2026-04-23 05:17,Acesso,Média,Fábrica,Resolvido,24,19.0,sim
+CH-01046,2026-04-22 11:59,2026-04-22 14:29,Software/Office,Alta,Loja Jundiaí,Resolvido,8,2.5,sim
+CH-00381,2026-04-22 12:25,2026-04-23 05:19,Acesso,Média,Fábrica,Resolvido,24,16.9,sim
+CH-00089,2026-04-23 10:30,2026-04-23 19:24,Outros,Média,Loja Shopping,Resolvido,24,8.9,sim
+CH-01422,2026-04-23 10:34,2026-04-24 06:52,Hardware,Média,Marketing,Resolvido,24,20.3,sim
+CH-01060,2026-04-23 10:56,2026-04-23 14:20,Hardware,Crítica,Loja Centro,Resolvido,4,3.4,sim
+CH-00341,2026-04-23 13:09,2026-04-24 20:27,Software/Office,Baixa,Financeiro,Resolvido,72,31.3,sim
+CH-00038,2026-04-23 13:13,2026-04-24 20:25,Rede,Baixa,Estilo,Resolvido,72,31.2,sim
+CH-00041,2026-04-23 15:14,2026-04-28 09:50,Hardware,Baixa,Loja Campinas,Resolvido,72,114.6,nao
+CH-00475,2026-04-23 15:14,2026-04-24 04:32,Hardware,Baixa,Marketing,Resolvido,72,13.3,sim
+CH-00575,2026-04-24 10:03,2026-04-25 01:33,Hardware,Média,Fábrica,Resolvido,24,15.5,sim
+CH-00937,2026-04-24 10:17,,Software/Office,Alta,Financeiro,Em andamento,8,,
+CH-00889,2026-04-24 11:03,2026-04-24 23:15,Acesso,Média,Loja Sul,Resolvido,24,12.2,sim
+CH-00509,2026-04-24 15:23,2026-04-27 10:59,Software/Office,Baixa,Fábrica,Resolvido,72,67.6,sim
+CH-00432,2026-04-25 10:31,2026-04-26 04:01,Rede,Média,Financeiro,Resolvido,24,17.5,sim
+CH-00418,2026-04-25 10:42,2026-04-25 17:36,Software/Office,Alta,RH,Resolvido,8,6.9,sim
+CH-01408,2026-04-25 14:44,,Software/Office,Média,Estilo,Em andamento,24,,
+CH-00364,2026-04-26 15:46,2026-04-28 02:22,Rede,Baixa,Financeiro,Resolvido,72,34.6,sim
+CH-00888,2026-04-27 13:27,2026-04-27 19:21,Impressão,Média,Marketing,Resolvido,24,5.9,sim
+CH-00449,2026-04-27 17:53,2026-04-27 22:47,Hardware,Alta,Loja Shopping,Resolvido,8,4.9,sim
+CH-00430,2026-04-28 11:54,2026-04-30 10:24,Software/Office,Baixa,Loja Shopping,Resolvido,72,46.5,sim
+CH-01025,2026-04-28 13:45,2026-04-29 01:21,Hardware,Média,Financeiro,Resolvido,24,11.6,sim
+CH-00691,2026-04-28 14:09,2026-04-28 16:27,Impressão,Alta,Fábrica,Resolvido,8,2.3,sim
+CH-01198,2026-04-29 09:19,2026-05-06 08:25,Acesso,Baixa,Loja Campinas,Resolvido,72,167.1,nao
+CH-00385,2026-04-29 10:04,2026-04-29 16:16,Acesso,Média,Loja Campinas,Resolvido,24,6.2,sim
+CH-00761,2026-04-29 11:15,2026-04-30 02:57,Acesso,Baixa,Loja Campinas,Resolvido,72,15.7,sim
+CH-01107,2026-04-29 11:44,2026-04-29 15:02,Outros,Crítica,Estilo,Resolvido,4,3.3,sim
+CH-01227,2026-04-29 15:11,2026-04-30 06:23,Impressão,Média,Loja Jundiaí,Resolvido,24,15.2,sim
+CH-00901,2026-04-29 16:52,2026-05-01 09:46,Hardware,Média,Financeiro,Resolvido,24,40.9,nao
+CH-00395,2026-04-29 17:25,2026-04-30 10:49,Hardware,Média,Loja Centro,Resolvido,24,17.4,sim
+CH-00607,2026-04-29 17:46,,Acesso,Alta,Loja Centro,Aberto,8,,
+CH-01409,2026-04-30 08:40,2026-05-01 20:40,Rede,Baixa,Fábrica,Resolvido,72,36.0,sim
+CH-01431,2026-04-30 11:55,2026-05-01 03:25,Hardware,Média,RH,Resolvido,24,15.5,sim
+CH-00891,2026-05-01 09:01,2026-05-02 00:43,Impressão,Alta,Loja Shopping,Resolvido,8,15.7,nao
+CH-01393,2026-05-01 10:33,2026-05-01 13:21,Hardware,Alta,Comercial,Resolvido,8,2.8,sim
+CH-00679,2026-05-01 11:27,2026-05-03 16:09,Hardware,Média,Fábrica,Resolvido,24,52.7,nao
+CH-00710,2026-05-01 11:53,,Acesso,Média,Loja Shopping,Em andamento,24,,
+CH-00665,2026-05-01 14:21,,Rede,Baixa,Loja Shopping,Em andamento,72,,
+CH-00606,2026-05-01 15:08,2026-05-06 07:26,Impressão,Baixa,Comercial,Resolvido,72,112.3,nao
+CH-01010,2026-05-01 17:34,2026-05-02 11:28,Software/Office,Baixa,Loja Sul,Resolvido,72,17.9,sim
+CH-01020,2026-05-02 09:23,,Hardware,Alta,Fábrica,Em andamento,8,,
+CH-00950,2026-05-02 11:26,2026-05-03 09:56,Software/Office,Média,Loja Shopping,Resolvido,24,22.5,sim
+CH-01094,2026-05-02 17:00,2026-05-03 07:12,Hardware,Média,Fábrica,Resolvido,24,14.2,sim
+CH-00009,2026-05-02 17:56,2026-05-04 09:32,Impressão,Baixa,Loja Campinas,Resolvido,72,39.6,sim
+CH-00064,2026-05-03 08:48,2026-05-05 19:54,Hardware,Baixa,Loja Centro,Resolvido,72,59.1,sim
+CH-00635,2026-05-03 09:43,2026-05-03 13:19,Impressão,Alta,Marketing,Resolvido,8,3.6,sim
+CH-00689,2026-05-03 11:46,2026-05-03 13:40,Hardware,Crítica,Loja Sul,Resolvido,4,1.9,sim
+CH-00256,2026-05-04 08:48,2026-05-05 00:30,Outros,Média,Comercial,Resolvido,24,15.7,sim
+CH-01032,2026-05-04 10:32,2026-05-04 23:38,Impressão,Média,Loja Centro,Resolvido,24,13.1,sim
+CH-01150,2026-05-04 14:43,2026-05-05 19:55,Software/Office,Baixa,Comercial,Resolvido,72,29.2,sim
+CH-01410,2026-05-04 14:52,2026-05-05 00:10,Rede,Média,Expedição,Resolvido,24,9.3,sim
+CH-01108,2026-05-04 14:55,2026-05-04 19:07,Rede,Alta,Loja Campinas,Resolvido,8,4.2,sim
+CH-00151,2026-05-04 15:28,2026-05-05 00:34,Software/Office,Média,Loja Shopping,Resolvido,24,9.1,sim
+CH-01078,2026-05-05 08:55,,Impressão,Baixa,Financeiro,Aberto,72,,
+CH-01479,2026-05-05 10:20,2026-05-05 21:50,Impressão,Alta,Fábrica,Resolvido,8,11.5,nao
+CH-00265,2026-05-05 10:36,2026-05-10 09:36,Software/Office,Baixa,Loja Campinas,Resolvido,72,119.0,nao
+CH-01246,2026-05-05 15:07,2026-05-06 01:01,Software/Office,Média,Loja Shopping,Resolvido,24,9.9,sim
+CH-00806,2026-05-05 15:43,2026-05-06 00:49,Acesso,Média,Loja Campinas,Resolvido,24,9.1,sim
+CH-00739,2026-05-05 15:48,2026-05-05 20:00,Hardware,Média,RH,Resolvido,24,4.2,sim
+CH-00232,2026-05-05 17:07,2026-05-06 06:25,Hardware,Média,Financeiro,Resolvido,24,13.3,sim
+CH-00180,2026-05-05 17:52,2026-05-06 10:34,Acesso,Baixa,Financeiro,Resolvido,72,16.7,sim
+CH-00853,2026-05-06 08:27,,Hardware,Baixa,Comercial,Em andamento,72,,
+CH-00496,2026-05-06 08:46,2026-05-07 00:46,Acesso,Alta,Loja Centro,Resolvido,8,16.0,nao
+CH-00524,2026-05-06 10:25,2026-05-08 23:49,Software/Office,Baixa,Financeiro,Resolvido,72,61.4,sim
+CH-00006,2026-05-06 11:55,2026-05-06 17:13,Hardware,Alta,Loja Shopping,Resolvido,8,5.3,sim
+CH-00403,2026-05-06 13:40,,Hardware,Baixa,Loja Centro,Em andamento,72,,
+CH-01212,2026-05-07 08:40,,Acesso,Média,Comercial,Aberto,24,,
+CH-01319,2026-05-07 09:03,2026-05-07 12:15,Software/Office,Alta,Comercial,Resolvido,8,3.2,sim
+CH-01354,2026-05-07 09:08,2026-05-08 20:44,Hardware,Baixa,Loja Centro,Resolvido,72,35.6,sim
+CH-01109,2026-05-07 09:58,,Software/Office,Baixa,Loja Sul,Em andamento,72,,
+CH-00154,2026-05-07 10:02,2026-05-08 22:08,Software/Office,Baixa,Estilo,Resolvido,72,36.1,sim
+CH-00081,2026-05-07 11:07,2026-05-09 08:13,Hardware,Baixa,Marketing,Resolvido,72,45.1,sim
+CH-00963,2026-05-07 12:38,2026-05-08 09:32,Acesso,Baixa,Loja Campinas,Resolvido,72,20.9,sim
+CH-00133,2026-05-07 14:06,2026-05-07 20:12,Software/Office,Média,Loja Jundiaí,Resolvido,24,6.1,sim
+CH-00568,2026-05-07 16:27,2026-05-07 17:27,Acesso,Crítica,Loja Campinas,Resolvido,4,1.0,sim
+CH-00344,2026-05-07 17:16,,Acesso,Média,Marketing,Aberto,24,,
+CH-01189,2026-05-07 17:59,2026-05-08 04:47,Hardware,Média,Loja Shopping,Resolvido,24,10.8,sim
+CH-00578,2026-05-08 11:32,,Impressão,Média,Fábrica,Aberto,24,,
+CH-00499,2026-05-08 12:49,2026-05-09 00:13,Rede,Média,Estilo,Resolvido,24,11.4,sim
+CH-00487,2026-05-09 10:57,2026-05-11 21:33,Impressão,Média,RH,Resolvido,24,58.6,nao
+CH-00473,2026-05-09 13:32,2026-05-09 20:56,Impressão,Alta,Loja Sul,Resolvido,8,7.4,sim
+CH-01309,2026-05-09 17:09,2026-05-10 03:57,Hardware,Baixa,Estilo,Resolvido,72,10.8,sim
+CH-01102,2026-05-10 08:09,2026-05-11 04:27,Outros,Média,Estilo,Resolvido,24,20.3,sim
+CH-01381,2026-05-10 09:29,,Impressão,Baixa,Loja Centro,Em andamento,72,,
+CH-01294,2026-05-10 10:13,2026-05-11 11:25,Rede,Baixa,Estilo,Resolvido,72,25.2,sim
+CH-01021,2026-05-10 11:24,,Hardware,Baixa,Loja Shopping,Aberto,72,,
+CH-01119,2026-05-10 11:47,,Hardware,Média,Marketing,Em andamento,24,,
+CH-00369,2026-05-10 14:36,2026-05-10 19:12,Acesso,Média,Loja Shopping,Resolvido,24,4.6,sim
+CH-00678,2026-05-10 17:10,2026-05-13 03:04,Software/Office,Baixa,Comercial,Resolvido,72,57.9,sim
+CH-00241,2026-05-11 08:28,2026-05-11 09:16,Impressão,Crítica,Loja Centro,Resolvido,4,0.8,sim
+CH-00895,2026-05-11 08:35,2026-05-13 00:41,Hardware,Média,Loja Campinas,Resolvido,24,40.1,nao
+CH-00368,2026-05-11 11:12,2026-05-14 03:18,Hardware,Baixa,Loja Centro,Resolvido,72,64.1,sim
+CH-00380,2026-05-11 12:55,2026-05-12 23:25,Impressão,Baixa,Fábrica,Resolvido,72,34.5,sim
+CH-01347,2026-05-11 14:51,2026-05-11 16:51,Acesso,Alta,Financeiro,Resolvido,8,2.0,sim
+CH-01466,2026-05-11 14:51,2026-05-11 18:21,Acesso,Crítica,Marketing,Resolvido,4,3.5,sim
+CH-01053,2026-05-11 16:39,2026-05-12 00:09,Software/Office,Alta,Loja Campinas,Resolvido,8,7.5,sim
+CH-00682,2026-05-11 17:24,2026-05-13 08:12,Acesso,Baixa,Loja Jundiaí,Resolvido,72,38.8,sim
+CH-00622,2026-05-12 12:01,2026-05-13 08:43,Impressão,Média,Expedição,Resolvido,24,20.7,sim
+CH-01401,2026-05-12 12:59,2026-05-12 19:35,Acesso,Média,Loja Sul,Resolvido,24,6.6,sim
+CH-01369,2026-05-12 13:32,2026-05-13 09:38,Software/Office,Média,Loja Shopping,Resolvido,24,20.1,sim
+CH-00285,2026-05-12 14:58,,Acesso,Média,Loja Jundiaí,Aberto,24,,
+CH-00667,2026-05-12 15:45,2026-05-12 20:45,Acesso,Média,Fábrica,Resolvido,24,5.0,sim
+CH-01045,2026-05-12 16:39,2026-05-14 15:51,Acesso,Média,RH,Resolvido,24,47.2,nao
+CH-01075,2026-05-13 09:18,2026-05-13 11:18,Impressão,Alta,Loja Centro,Resolvido,8,2.0,sim
+CH-00690,2026-05-13 11:06,2026-05-14 09:24,Software/Office,Baixa,Loja Centro,Resolvido,72,22.3,sim
+CH-00778,2026-05-13 11:17,2026-05-15 08:05,Software/Office,Baixa,Loja Centro,Resolvido,72,44.8,sim
+CH-00892,2026-05-13 11:21,2026-05-15 07:51,Software/Office,Média,Loja Centro,Resolvido,24,44.5,nao
+CH-00282,2026-05-13 11:42,2026-05-14 03:06,Software/Office,Média,Expedição,Resolvido,24,15.4,sim
+CH-01336,2026-05-13 14:49,2026-05-15 11:49,Rede,Baixa,Expedição,Resolvido,72,45.0,sim
+CH-00129,2026-05-13 15:04,,Outros,Baixa,Loja Campinas,Em andamento,72,,
+CH-01136,2026-05-13 17:07,2026-05-16 07:25,Hardware,Baixa,Comercial,Resolvido,72,62.3,sim
+CH-01169,2026-05-14 09:03,,Hardware,Crítica,Loja Centro,Em andamento,4,,
+CH-00080,2026-05-14 09:25,2026-05-15 02:13,Outros,Média,Comercial,Resolvido,24,16.8,sim
+CH-00431,2026-05-14 11:00,2026-05-17 00:06,Acesso,Média,Financeiro,Resolvido,24,61.1,nao
+CH-00772,2026-05-14 11:01,2026-05-16 05:31,Rede,Média,Loja Campinas,Resolvido,24,42.5,nao
+CH-00065,2026-05-14 11:29,2026-05-14 13:47,Software/Office,Alta,Loja Sul,Resolvido,8,2.3,sim
+CH-00136,2026-05-14 12:36,2026-05-15 03:00,Impressão,Média,Fábrica,Resolvido,24,14.4,sim
+CH-00570,2026-05-14 14:27,2026-05-15 00:39,Acesso,Média,Fábrica,Resolvido,24,10.2,sim
+CH-01299,2026-05-14 14:31,2026-05-15 04:55,Hardware,Alta,Comercial,Resolvido,8,14.4,nao
+CH-01007,2026-05-15 09:31,2026-05-16 19:07,Software/Office,Média,Loja Jundiaí,Resolvido,24,33.6,nao
+CH-00300,2026-05-15 11:13,2026-05-15 14:37,Impressão,Alta,Comercial,Resolvido,8,3.4,sim
+CH-00119,2026-05-15 11:56,2026-05-15 13:44,Hardware,Crítica,Estilo,Resolvido,4,1.8,sim
+CH-00749,2026-05-15 14:25,2026-05-17 19:13,Acesso,Média,Financeiro,Resolvido,24,52.8,nao
+CH-01414,2026-05-15 14:27,2026-05-16 04:03,Rede,Baixa,Loja Jundiaí,Resolvido,72,13.6,sim
+CH-00803,2026-05-15 15:02,2026-05-16 06:26,Acesso,Alta,Loja Sul,Resolvido,8,15.4,nao
+CH-00792,2026-05-15 16:27,2026-05-18 00:27,Hardware,Média,Marketing,Resolvido,24,56.0,nao
+CH-00343,2026-05-16 08:53,2026-05-16 11:23,Hardware,Alta,Comercial,Resolvido,8,2.5,sim
+CH-00681,2026-05-16 10:48,2026-05-17 01:00,Software/Office,Média,Loja Shopping,Resolvido,24,14.2,sim
+CH-00076,2026-05-16 11:20,2026-05-17 05:32,Software/Office,Média,Loja Centro,Resolvido,24,18.2,sim
+CH-01148,2026-05-16 13:44,2026-05-17 02:14,Software/Office,Média,RH,Resolvido,24,12.5,sim
+CH-01042,2026-05-17 13:32,2026-05-18 03:20,Hardware,Baixa,Comercial,Resolvido,72,13.8,sim
+CH-00191,2026-05-17 13:41,2026-05-18 03:11,Acesso,Média,Fábrica,Resolvido,24,13.5,sim
+CH-00847,2026-05-17 16:18,2026-05-18 21:06,Rede,Baixa,RH,Resolvido,72,28.8,sim
+CH-00912,2026-05-17 16:37,,Rede,Média,Loja Shopping,Aberto,24,,
+CH-00886,2026-05-17 17:54,2026-05-18 12:30,Hardware,Média,RH,Resolvido,24,18.6,sim
+CH-01438,2026-05-18 10:14,2026-05-18 16:02,Impressão,Alta,Loja Centro,Resolvido,8,5.8,sim
+CH-00113,2026-05-18 12:20,2026-05-18 13:20,Software/Office,Crítica,Loja Shopping,Resolvido,4,1.0,sim
+CH-01283,2026-05-18 16:01,,Hardware,Baixa,Fábrica,Aberto,72,,
+CH-00448,2026-05-18 17:54,2026-05-19 11:06,Rede,Média,Fábrica,Resolvido,24,17.2,sim
+CH-00642,2026-05-19 09:41,2026-05-21 00:29,Hardware,Baixa,Financeiro,Resolvido,72,38.8,sim
+CH-00143,2026-05-19 12:18,2026-05-20 06:12,Hardware,Média,Loja Centro,Resolvido,24,17.9,sim
+CH-00956,2026-05-19 13:41,2026-05-20 08:29,Outros,Média,Expedição,Resolvido,24,18.8,sim
+CH-00438,2026-05-19 17:44,,Rede,Média,Comercial,Em andamento,24,,
+CH-00086,2026-05-20 08:10,2026-05-20 14:40,Rede,Alta,Loja Shopping,Resolvido,8,6.5,sim
+CH-00266,2026-05-20 09:32,2026-05-20 15:02,Impressão,Média,RH,Resolvido,24,5.5,sim
+CH-00620,2026-05-20 09:52,,Software/Office,Média,RH,Aberto,24,,
+CH-00357,2026-05-20 09:54,2026-05-20 11:36,Hardware,Alta,Financeiro,Resolvido,8,1.7,sim
+CH-00474,2026-05-20 10:11,2026-05-21 06:29,Outros,Média,RH,Resolvido,24,20.3,sim
+CH-00301,2026-05-20 11:52,2026-05-20 22:10,Software/Office,Média,Loja Centro,Resolvido,24,10.3,sim
+CH-00973,2026-05-20 11:59,2026-05-20 23:11,Software/Office,Baixa,Loja Shopping,Resolvido,72,11.2,sim
+CH-01113,2026-05-20 12:25,2026-05-22 06:25,Acesso,Média,Loja Centro,Resolvido,24,42.0,nao
+CH-00157,2026-05-20 13:19,,Impressão,Média,Fábrica,Em andamento,24,,
+CH-00470,2026-05-20 16:12,2026-05-24 04:18,Software/Office,Baixa,Comercial,Resolvido,72,84.1,nao
+CH-00010,2026-05-20 16:34,2026-05-21 13:22,Impressão,Média,Loja Centro,Resolvido,24,20.8,sim
+CH-00484,2026-05-20 17:52,2026-05-20 22:22,Acesso,Alta,Loja Campinas,Resolvido,8,4.5,sim
+CH-00603,2026-05-21 08:42,2026-05-21 10:24,Hardware,Crítica,Loja Shopping,Resolvido,4,1.7,sim
+CH-00585,2026-05-21 08:48,2026-05-22 05:06,Software/Office,Alta,Comercial,Resolvido,8,20.3,nao
+CH-00482,2026-05-21 10:16,,Hardware,Média,Expedição,Em andamento,24,,
+CH-01111,2026-05-21 11:20,2026-05-23 17:20,Acesso,Média,Marketing,Resolvido,24,54.0,nao
+CH-00804,2026-05-21 13:05,2026-05-21 19:35,Acesso,Alta,Financeiro,Resolvido,8,6.5,sim
+CH-01068,2026-05-21 14:15,2026-05-22 01:33,Software/Office,Média,Loja Centro,Resolvido,24,11.3,sim
+CH-00334,2026-05-22 14:01,2026-05-23 09:43,Software/Office,Média,Comercial,Resolvido,24,19.7,sim
+CH-00315,2026-05-22 14:39,2026-05-26 03:57,Acesso,Baixa,Fábrica,Resolvido,72,85.3,nao
+CH-00676,2026-05-22 17:14,,Acesso,Média,Expedição,Aberto,24,,
+CH-00508,2026-05-23 09:07,,Hardware,Média,Fábrica,Em andamento,24,,
+CH-01140,2026-05-23 12:59,2026-05-24 02:53,Acesso,Média,Fábrica,Resolvido,24,13.9,sim
+CH-00280,2026-05-23 14:50,2026-05-24 05:56,Hardware,Média,Loja Centro,Resolvido,24,15.1,sim
+CH-00184,2026-05-23 15:23,2026-05-25 11:17,Rede,Baixa,Loja Jundiaí,Resolvido,72,43.9,sim
+CH-00495,2026-05-24 08:51,2026-05-25 06:15,Acesso,Média,Financeiro,Resolvido,24,21.4,sim
+CH-00714,2026-05-24 09:02,,Software/Office,Baixa,Comercial,Aberto,72,,
+CH-00970,2026-05-24 09:49,2026-05-24 20:49,Rede,Média,Fábrica,Resolvido,24,11.0,sim
+CH-00599,2026-05-24 10:11,2026-05-25 14:41,Rede,Baixa,Comercial,Resolvido,72,28.5,sim
+CH-01453,2026-05-24 11:25,2026-05-24 15:07,Software/Office,Alta,Loja Sul,Resolvido,8,3.7,sim
+CH-00464,2026-05-24 11:39,2026-05-24 18:45,Acesso,Média,Loja Sul,Resolvido,24,7.1,sim
+CH-01423,2026-05-24 12:14,,Impressão,Média,Loja Centro,Aberto,24,,
+CH-00604,2026-05-24 12:39,2026-05-24 17:33,Hardware,Alta,Estilo,Resolvido,8,4.9,sim
+CH-00481,2026-05-24 14:01,2026-05-25 05:01,Acesso,Média,Loja Centro,Resolvido,24,15.0,sim
+CH-00811,2026-05-24 14:18,2026-05-25 00:36,Impressão,Alta,Comercial,Resolvido,8,10.3,nao
+CH-00036,2026-05-24 15:35,2026-05-24 17:29,Rede,Alta,Estilo,Resolvido,8,1.9,sim
+CH-00547,2026-05-24 16:09,2026-05-26 13:27,Impressão,Média,Comercial,Resolvido,24,45.3,nao
+CH-01012,2026-05-24 16:16,2026-05-24 23:46,Hardware,Alta,Loja Centro,Resolvido,8,7.5,sim
+CH-00015,2026-05-24 16:58,2026-05-24 18:16,Acesso,Alta,Loja Campinas,Resolvido,8,1.3,sim
+CH-01496,2026-05-25 09:31,2026-05-26 00:55,Hardware,Média,Fábrica,Resolvido,24,15.4,sim
+CH-01449,2026-05-25 10:06,2026-05-26 06:12,Acesso,Média,Estilo,Resolvido,24,20.1,sim
+CH-00713,2026-05-25 10:45,2026-05-25 17:45,Hardware,Média,Loja Campinas,Resolvido,24,7.0,sim
+CH-01301,2026-05-25 12:33,2026-06-02 02:21,Rede,Baixa,Fábrica,Resolvido,72,181.8,nao
+CH-00325,2026-05-25 13:33,2026-05-29 22:03,Hardware,Baixa,Financeiro,Resolvido,72,104.5,nao
+CH-00061,2026-05-25 15:58,2026-05-25 20:04,Rede,Média,Loja Campinas,Resolvido,24,4.1,sim
+CH-01323,2026-05-26 08:19,2026-05-26 11:43,Rede,Alta,Loja Sul,Resolvido,8,3.4,sim
+CH-00288,2026-05-26 10:21,2026-05-30 15:51,Hardware,Baixa,Loja Centro,Resolvido,72,101.5,nao
+CH-00885,2026-05-26 11:42,2026-05-27 02:54,Hardware,Média,Loja Sul,Resolvido,24,15.2,sim
+CH-00712,2026-05-26 12:14,2026-05-27 06:08,Rede,Alta,RH,Resolvido,8,17.9,nao
+CH-00292,2026-05-26 12:58,2026-05-26 19:10,Hardware,Média,Loja Campinas,Resolvido,24,6.2,sim
+CH-01131,2026-05-26 13:33,2026-05-27 06:45,Hardware,Média,Estilo,Resolvido,24,17.2,sim
+CH-01023,2026-05-26 14:11,2026-05-27 12:23,Acesso,Média,Expedição,Resolvido,24,22.2,sim
+CH-00762,2026-05-26 16:20,2026-05-28 03:26,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,35.1,sim
+CH-00213,2026-05-26 16:21,2026-05-27 12:39,Software/Office,Média,Loja Shopping,Resolvido,24,20.3,sim
+CH-00255,2026-05-26 16:31,2026-05-27 13:13,Acesso,Alta,Comercial,Resolvido,8,20.7,nao
+CH-00359,2026-05-26 16:44,,Software/Office,Baixa,Fábrica,Em andamento,72,,
+CH-00694,2026-05-26 16:54,2026-05-27 06:30,Software/Office,Média,Fábrica,Resolvido,24,13.6,sim
+CH-01493,2026-05-26 17:31,2026-05-27 03:43,Acesso,Média,Loja Jundiaí,Resolvido,24,10.2,sim
+CH-00355,2026-05-27 08:05,2026-05-27 19:59,Software/Office,Baixa,Fábrica,Resolvido,72,11.9,sim
+CH-00672,2026-05-27 08:24,2026-05-28 17:42,Acesso,Baixa,Fábrica,Resolvido,72,33.3,sim
+CH-00417,2026-05-27 08:54,2026-05-28 21:42,Rede,Média,Loja Jundiaí,Resolvido,24,36.8,nao
+CH-00264,2026-05-27 13:01,,Rede,Média,Fábrica,Aberto,24,,
+CH-01147,2026-05-27 13:27,2026-05-27 18:27,Outros,Média,Loja Jundiaí,Resolvido,24,5.0,sim
+CH-00613,2026-05-27 13:53,2026-05-28 11:05,Software/Office,Média,Loja Jundiaí,Resolvido,24,21.2,sim
+CH-00596,2026-05-27 17:57,2026-05-28 06:15,Hardware,Média,Loja Campinas,Resolvido,24,12.3,sim
+CH-01114,2026-05-28 08:05,,Acesso,Alta,Expedição,Em andamento,8,,
+CH-00600,2026-05-28 10:12,2026-05-28 21:42,Software/Office,Baixa,Loja Shopping,Resolvido,72,11.5,sim
+CH-01058,2026-05-28 10:36,2026-05-29 07:06,Software/Office,Média,Loja Shopping,Resolvido,24,20.5,sim
+CH-01490,2026-05-28 14:12,2026-06-03 16:24,Software/Office,Baixa,Loja Sul,Resolvido,72,146.2,nao
+CH-01080,2026-05-28 14:22,2026-05-28 19:58,Rede,Alta,Estilo,Resolvido,8,5.6,sim
+CH-01011,2026-05-28 17:44,2026-05-31 02:38,Software/Office,Baixa,Expedição,Resolvido,72,56.9,sim
+CH-00535,2026-05-29 09:18,2026-05-29 12:12,Hardware,Crítica,Loja Sul,Resolvido,4,2.9,sim
+CH-01168,2026-05-29 10:38,2026-05-31 03:20,Acesso,Baixa,Loja Centro,Resolvido,72,40.7,sim
+CH-00507,2026-05-29 11:15,2026-06-02 13:57,Hardware,Baixa,Marketing,Resolvido,72,98.7,nao
+CH-01036,2026-05-29 13:00,2026-05-29 13:54,Rede,Crítica,Expedição,Resolvido,4,0.9,sim
+CH-00641,2026-05-29 14:53,,Acesso,Média,Loja Sul,Em andamento,24,,
+CH-00735,2026-05-29 16:39,2026-05-30 11:33,Hardware,Alta,Loja Centro,Resolvido,8,18.9,nao
+CH-00153,2026-05-29 17:30,2026-06-03 23:24,Hardware,Baixa,Fábrica,Resolvido,72,125.9,nao
+CH-01093,2026-05-30 09:06,2026-06-01 20:42,Hardware,Baixa,Fábrica,Resolvido,72,59.6,sim
+CH-00720,2026-05-30 09:34,2026-06-02 03:34,Acesso,Baixa,RH,Resolvido,72,66.0,sim
+CH-01143,2026-05-30 10:12,2026-05-31 21:54,Acesso,Média,Loja Campinas,Resolvido,24,35.7,nao
+CH-00959,2026-05-30 10:13,2026-06-01 04:37,Hardware,Baixa,Loja Jundiaí,Resolvido,72,42.4,sim
+CH-00386,2026-05-30 11:53,2026-05-31 01:35,Impressão,Baixa,Loja Jundiaí,Resolvido,72,13.7,sim
+CH-01358,2026-05-30 12:19,2026-05-31 07:07,Impressão,Média,Loja Jundiaí,Resolvido,24,18.8,sim
+CH-00545,2026-05-30 14:22,2026-05-31 03:28,Software/Office,Baixa,Loja Campinas,Resolvido,72,13.1,sim
+CH-01179,2026-05-30 14:40,2026-05-31 06:16,Outros,Média,RH,Resolvido,24,15.6,sim
+CH-01225,2026-05-30 14:58,2026-06-01 11:40,Impressão,Baixa,Loja Shopping,Resolvido,72,44.7,sim
+CH-01211,2026-05-30 15:28,2026-05-31 09:16,Hardware,Média,Fábrica,Resolvido,24,17.8,sim
+CH-01322,2026-05-30 16:09,2026-05-31 04:15,Acesso,Média,Loja Jundiaí,Resolvido,24,12.1,sim
+CH-00023,2026-05-30 16:28,2026-06-01 05:52,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,37.4,sim
+CH-01054,2026-05-30 16:45,2026-06-06 19:33,Hardware,Baixa,Loja Jundiaí,Resolvido,72,170.8,nao
+CH-00569,2026-05-30 17:47,2026-05-31 02:29,Acesso,Média,Fábrica,Resolvido,24,8.7,sim
+CH-00750,2026-05-31 11:38,2026-05-31 14:20,Impressão,Alta,Loja Shopping,Resolvido,8,2.7,sim
+CH-00741,2026-05-31 13:01,2026-06-03 01:13,Hardware,Média,Fábrica,Resolvido,24,60.2,nao
+CH-00955,2026-05-31 14:13,2026-05-31 20:01,Hardware,Alta,Loja Sul,Resolvido,8,5.8,sim
+CH-00930,2026-05-31 14:18,2026-06-01 04:00,Impressão,Média,Loja Jundiaí,Resolvido,24,13.7,sim
+CH-00402,2026-05-31 14:36,,Hardware,Baixa,Loja Jundiaí,Em andamento,72,,
+CH-00770,2026-05-31 15:09,2026-06-02 22:03,Impressão,Baixa,Loja Jundiaí,Resolvido,72,54.9,sim
+CH-00278,2026-05-31 16:11,2026-06-01 14:05,Software/Office,Média,Marketing,Resolvido,24,21.9,sim
+CH-00067,2026-05-31 17:44,2026-06-01 10:44,Impressão,Média,Marketing,Resolvido,24,17.0,sim
+CH-01234,2026-06-01 10:42,2026-06-01 20:12,Impressão,Média,Loja Jundiaí,Resolvido,24,9.5,sim
+CH-01455,2026-06-01 10:43,2026-06-02 02:31,Software/Office,Média,Financeiro,Resolvido,24,15.8,sim
+CH-00340,2026-06-01 12:29,2026-06-01 19:05,Acesso,Média,Marketing,Resolvido,24,6.6,sim
+CH-01171,2026-06-01 12:45,2026-06-01 18:09,Software/Office,Média,Loja Centro,Resolvido,24,5.4,sim
+CH-00030,2026-06-01 13:15,2026-06-02 05:15,Software/Office,Média,Marketing,Resolvido,24,16.0,sim
+CH-00491,2026-06-01 13:26,2026-06-02 05:32,Acesso,Média,Loja Campinas,Resolvido,24,16.1,sim
+CH-00624,2026-06-01 13:35,2026-06-02 06:41,Hardware,Média,Loja Sul,Resolvido,24,17.1,sim
+CH-01433,2026-06-01 14:40,2026-06-07 15:40,Impressão,Baixa,Loja Jundiaí,Resolvido,72,145.0,nao
+CH-01065,2026-06-01 15:14,2026-06-02 06:56,Rede,Média,Fábrica,Resolvido,24,15.7,sim
+CH-00948,2026-06-01 16:25,,Rede,Média,Loja Centro,Aberto,24,,
+CH-01330,2026-06-01 16:35,2026-06-02 08:35,Rede,Baixa,Comercial,Resolvido,72,16.0,sim
+CH-00339,2026-06-01 17:06,2026-06-02 05:36,Rede,Média,Loja Jundiaí,Resolvido,24,12.5,sim
+CH-01061,2026-06-02 09:00,2026-06-05 03:48,Hardware,Baixa,Estilo,Resolvido,72,66.8,sim
+CH-00767,2026-06-02 09:41,2026-06-03 13:47,Hardware,Baixa,Loja Sul,Resolvido,72,28.1,sim
+CH-00655,2026-06-02 13:03,2026-06-02 18:51,Rede,Média,Fábrica,Resolvido,24,5.8,sim
+CH-00451,2026-06-02 13:21,2026-06-02 19:21,Acesso,Alta,Loja Centro,Resolvido,8,6.0,sim
+CH-01249,2026-06-02 13:32,2026-06-03 08:08,Hardware,Média,Loja Jundiaí,Resolvido,24,18.6,sim
+CH-01302,2026-06-02 13:59,2026-06-05 01:41,Rede,Média,Loja Sul,Resolvido,24,59.7,nao
+CH-00796,2026-06-02 14:45,2026-06-03 05:45,Impressão,Baixa,Loja Campinas,Resolvido,72,15.0,sim
+CH-01049,2026-06-02 15:17,,Hardware,Crítica,RH,Aberto,4,,
+CH-00049,2026-06-02 15:50,,Software/Office,Média,Loja Campinas,Aberto,24,,
+CH-01265,2026-06-02 16:17,2026-06-03 08:47,Software/Office,Baixa,Estilo,Resolvido,72,16.5,sim
+CH-01452,2026-06-02 17:38,,Hardware,Baixa,Fábrica,Aberto,72,,
+CH-00242,2026-06-03 08:08,2026-06-04 03:26,Software/Office,Média,Loja Centro,Resolvido,24,19.3,sim
+CH-01476,2026-06-03 08:18,2026-06-03 13:24,Rede,Alta,Fábrica,Resolvido,8,5.1,sim
+CH-00027,2026-06-03 08:37,2026-06-03 18:13,Software/Office,Média,Loja Centro,Resolvido,24,9.6,sim
+CH-00450,2026-06-03 10:33,2026-06-04 21:21,Rede,Baixa,Loja Shopping,Resolvido,72,34.8,sim
+CH-01120,2026-06-03 11:12,,Software/Office,Baixa,Fábrica,Aberto,72,,
+CH-00719,2026-06-03 13:05,2026-06-03 14:17,Hardware,Crítica,Fábrica,Resolvido,4,1.2,sim
+CH-01359,2026-06-03 14:17,2026-06-03 15:47,Software/Office,Crítica,Fábrica,Resolvido,4,1.5,sim
+CH-00053,2026-06-03 16:29,2026-06-06 04:11,Impressão,Baixa,RH,Resolvido,72,59.7,sim
+CH-01271,2026-06-04 09:20,2026-06-05 22:14,Outros,Baixa,RH,Resolvido,72,36.9,sim
+CH-00001,2026-06-04 09:43,2026-06-04 12:13,Software/Office,Crítica,Loja Shopping,Resolvido,4,2.5,sim
+CH-01085,2026-06-04 10:07,,Impressão,Média,Loja Centro,Aberto,24,,
+CH-00567,2026-06-04 12:50,2026-06-04 18:02,Acesso,Média,Loja Sul,Resolvido,24,5.2,sim
+CH-00019,2026-06-04 13:01,2026-06-04 20:49,Acesso,Média,Loja Jundiaí,Resolvido,24,7.8,sim
+CH-00446,2026-06-04 13:48,2026-06-05 11:54,Impressão,Baixa,Loja Campinas,Resolvido,72,22.1,sim
+CH-00705,2026-06-04 13:57,2026-06-04 16:57,Outros,Alta,RH,Resolvido,8,3.0,sim
+CH-01429,2026-06-05 09:41,2026-06-06 23:41,Hardware,Baixa,Fábrica,Resolvido,72,38.0,sim
+CH-00745,2026-06-05 09:48,,Rede,Média,Loja Centro,Aberto,24,,
+CH-00107,2026-06-05 12:29,2026-06-06 07:29,Software/Office,Média,Fábrica,Resolvido,24,19.0,sim
+CH-00957,2026-06-05 13:21,2026-06-08 04:21,Acesso,Baixa,RH,Resolvido,72,63.0,sim
+CH-00577,2026-06-05 14:32,,Hardware,Baixa,Fábrica,Aberto,72,,
+CH-01392,2026-06-05 15:11,2026-06-07 09:47,Hardware,Baixa,Comercial,Resolvido,72,42.6,sim
+CH-00704,2026-06-06 09:41,2026-06-07 01:17,Software/Office,Alta,Estilo,Resolvido,8,15.6,nao
+CH-00163,2026-06-06 11:19,,Software/Office,Baixa,RH,Em andamento,72,,
+CH-00126,2026-06-06 13:01,2026-06-06 16:01,Hardware,Crítica,RH,Resolvido,4,3.0,sim
+CH-01276,2026-06-06 13:30,2026-06-08 23:24,Software/Office,Média,Fábrica,Resolvido,24,57.9,nao
+CH-01232,2026-06-06 15:41,2026-06-09 21:41,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,78.0,nao
+CH-00382,2026-06-06 15:58,2026-06-07 22:16,Hardware,Baixa,Loja Shopping,Resolvido,72,30.3,sim
+CH-01292,2026-06-07 08:31,2026-06-14 01:13,Acesso,Baixa,Loja Sul,Resolvido,72,160.7,nao
+CH-01087,2026-06-07 08:36,2026-06-07 14:42,Hardware,Alta,Loja Centro,Resolvido,8,6.1,sim
+CH-00333,2026-06-07 13:37,,Rede,Baixa,Financeiro,Aberto,72,,
+CH-00329,2026-06-07 15:23,2026-06-07 18:59,Acesso,Crítica,Comercial,Resolvido,4,3.6,sim
+CH-01459,2026-06-07 15:53,2026-06-08 05:59,Software/Office,Baixa,Comercial,Resolvido,72,14.1,sim
+CH-01192,2026-06-07 16:23,2026-06-08 06:53,Software/Office,Média,Loja Shopping,Resolvido,24,14.5,sim
+CH-01355,2026-06-07 16:36,2026-06-09 00:54,Rede,Baixa,Financeiro,Resolvido,72,32.3,sim
+CH-00202,2026-06-07 17:22,2026-06-08 08:28,Hardware,Média,Loja Campinas,Resolvido,24,15.1,sim
+CH-00250,2026-06-07 17:45,2026-06-13 10:57,Hardware,Baixa,Loja Sul,Resolvido,72,137.2,nao
+CH-00185,2026-06-08 09:01,2026-06-08 20:01,Acesso,Média,Fábrica,Resolvido,24,11.0,sim
+CH-00088,2026-06-08 09:14,,Hardware,Média,Loja Shopping,Aberto,24,,
+CH-00468,2026-06-08 11:45,2026-06-09 07:27,Rede,Média,Loja Jundiaí,Resolvido,24,19.7,sim
+CH-01439,2026-06-08 12:21,2026-06-09 03:15,Rede,Média,Loja Centro,Resolvido,24,14.9,sim
+CH-00852,2026-06-08 13:33,2026-06-13 09:27,Software/Office,Baixa,Loja Sul,Resolvido,72,115.9,nao
+CH-01239,2026-06-08 16:18,2026-06-10 14:36,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,46.3,sim
+CH-00768,2026-06-08 16:29,2026-06-09 12:59,Software/Office,Média,Loja Campinas,Resolvido,24,20.5,sim
+CH-00795,2026-06-08 17:43,2026-06-08 21:55,Outros,Alta,Loja Campinas,Resolvido,8,4.2,sim
+CH-00936,2026-06-08 17:46,2026-06-10 18:34,Software/Office,Baixa,Loja Centro,Resolvido,72,48.8,sim
+CH-00328,2026-06-09 09:57,2026-06-09 17:57,Acesso,Média,Loja Shopping,Resolvido,24,8.0,sim
+CH-00562,2026-06-09 12:05,2026-06-10 11:23,Rede,Baixa,Loja Centro,Resolvido,72,23.3,sim
+CH-00574,2026-06-09 15:39,2026-06-09 21:21,Acesso,Alta,Loja Sul,Resolvido,8,5.7,sim
+CH-00989,2026-06-09 15:57,2026-06-12 07:51,Impressão,Baixa,Loja Centro,Resolvido,72,63.9,sim
+CH-00366,2026-06-10 09:04,2026-06-10 14:16,Software/Office,Crítica,Loja Jundiaí,Resolvido,4,5.2,nao
+CH-01062,2026-06-10 10:26,,Rede,Baixa,Expedição,Em andamento,72,,
+CH-00653,2026-06-10 11:31,2026-06-10 15:43,Hardware,Média,Comercial,Resolvido,24,4.2,sim
+CH-01420,2026-06-10 11:37,2026-06-10 15:43,Hardware,Alta,Loja Campinas,Resolvido,8,4.1,sim
+CH-00400,2026-06-10 12:29,2026-06-13 01:11,Rede,Baixa,Loja Shopping,Resolvido,72,60.7,sim
+CH-00976,2026-06-10 14:28,2026-06-10 21:16,Hardware,Alta,RH,Resolvido,8,6.8,sim
+CH-00808,2026-06-11 08:21,,Software/Office,Média,Fábrica,Em andamento,24,,
+CH-00007,2026-06-11 09:38,2026-06-11 17:56,Rede,Média,Loja Centro,Resolvido,24,8.3,sim
+CH-01280,2026-06-11 11:56,2026-06-12 02:20,Software/Office,Média,Loja Jundiaí,Resolvido,24,14.4,sim
+CH-01403,2026-06-11 12:30,,Software/Office,Baixa,RH,Em andamento,72,,
+CH-01230,2026-06-11 16:32,2026-06-12 04:02,Rede,Média,Loja Sul,Resolvido,24,11.5,sim
+CH-00813,2026-06-11 17:27,2026-06-12 04:09,Hardware,Média,Loja Campinas,Resolvido,24,10.7,sim
+CH-00240,2026-06-12 09:02,2026-06-13 03:20,Impressão,Média,Loja Shopping,Resolvido,24,18.3,sim
+CH-01056,2026-06-12 10:18,2026-06-14 18:54,Outros,Baixa,Loja Centro,Resolvido,72,56.6,sim
+CH-00865,2026-06-12 11:15,2026-06-14 10:03,Software/Office,Média,Marketing,Resolvido,24,46.8,nao
+CH-00977,2026-06-12 13:01,2026-06-13 05:31,Hardware,Média,Loja Campinas,Resolvido,24,16.5,sim
+CH-00097,2026-06-12 14:21,,Acesso,Baixa,Comercial,Em andamento,72,,
+CH-00347,2026-06-12 15:56,2026-06-13 07:20,Acesso,Média,Expedição,Resolvido,24,15.4,sim
+CH-00056,2026-06-12 16:31,2026-06-13 07:49,Acesso,Baixa,Comercial,Resolvido,72,15.3,sim
+CH-01287,2026-06-13 08:14,2026-06-13 20:56,Acesso,Baixa,Loja Jundiaí,Resolvido,72,12.7,sim
+CH-00317,2026-06-13 08:54,2026-06-14 17:42,Rede,Média,Financeiro,Resolvido,24,32.8,nao
+CH-00336,2026-06-13 08:58,2026-06-18 10:40,Outros,Baixa,Loja Centro,Resolvido,72,121.7,nao
+CH-01044,2026-06-13 09:55,2026-06-15 11:07,Software/Office,Baixa,Loja Centro,Resolvido,72,49.2,sim
+CH-00526,2026-06-13 10:08,2026-06-13 14:26,Impressão,Média,Loja Centro,Resolvido,24,4.3,sim
+CH-00942,2026-06-13 10:10,2026-06-13 17:10,Software/Office,Média,Loja Sul,Resolvido,24,7.0,sim
+CH-00166,2026-06-13 10:17,2026-06-15 20:59,Hardware,Baixa,Comercial,Resolvido,72,58.7,sim
+CH-00514,2026-06-13 10:36,2026-06-13 18:36,Software/Office,Média,Comercial,Resolvido,24,8.0,sim
+CH-01048,2026-06-13 13:45,2026-06-13 18:15,Software/Office,Média,Loja Shopping,Resolvido,24,4.5,sim
+CH-00155,2026-06-13 14:49,2026-06-13 21:07,Acesso,Alta,Loja Campinas,Resolvido,8,6.3,sim
+CH-00172,2026-06-14 08:39,2026-06-14 15:51,Software/Office,Média,Financeiro,Resolvido,24,7.2,sim
+CH-01291,2026-06-14 09:14,,Rede,Média,Loja Sul,Em andamento,24,,
+CH-00279,2026-06-14 09:52,2026-06-16 11:28,Acesso,Baixa,Loja Campinas,Resolvido,72,49.6,sim
+CH-00906,2026-06-14 11:40,2026-06-14 12:22,Hardware,Crítica,Loja Jundiaí,Resolvido,4,0.7,sim
+CH-00522,2026-06-14 12:38,2026-06-14 16:38,Hardware,Alta,Loja Shopping,Resolvido,8,4.0,sim
+CH-01256,2026-06-14 13:07,2026-06-14 20:37,Software/Office,Alta,Loja Shopping,Resolvido,8,7.5,sim
+CH-01365,2026-06-14 13:28,2026-06-16 12:16,Hardware,Baixa,Loja Shopping,Resolvido,72,46.8,sim
+CH-00338,2026-06-14 13:59,2026-06-15 07:41,Hardware,Média,Loja Jundiaí,Resolvido,24,17.7,sim
+CH-00815,2026-06-14 14:05,,Acesso,Média,Loja Sul,Em andamento,24,,
+CH-01278,2026-06-14 15:20,2026-06-15 12:14,Hardware,Baixa,RH,Resolvido,72,20.9,sim
+CH-00935,2026-06-14 15:22,2026-06-15 00:40,Acesso,Média,Financeiro,Resolvido,24,9.3,sim
+CH-00297,2026-06-14 15:36,2026-06-14 18:00,Rede,Crítica,Loja Centro,Resolvido,4,2.4,sim
+CH-01261,2026-06-14 15:44,2026-06-15 10:02,Acesso,Média,Comercial,Resolvido,24,18.3,sim
+CH-01183,2026-06-14 16:42,2026-06-14 21:30,Hardware,Média,Loja Sul,Resolvido,24,4.8,sim
+CH-00321,2026-06-14 16:49,2026-06-15 08:19,Impressão,Baixa,Loja Campinas,Resolvido,72,15.5,sim
+CH-00047,2026-06-15 10:12,2026-06-17 12:36,Rede,Média,Loja Campinas,Resolvido,24,50.4,nao
+CH-01300,2026-06-15 14:18,2026-06-17 01:36,Software/Office,Média,Loja Campinas,Resolvido,24,35.3,nao
+CH-00917,2026-06-15 16:22,2026-06-15 20:52,Rede,Alta,RH,Resolvido,8,4.5,sim
+CH-00919,2026-06-15 16:32,2026-06-15 19:32,Rede,Alta,Expedição,Resolvido,8,3.0,sim
+CH-01073,2026-06-15 16:56,2026-06-18 08:14,Hardware,Baixa,Loja Jundiaí,Resolvido,72,63.3,sim
+CH-00005,2026-06-15 17:56,2026-06-17 21:20,Hardware,Baixa,Loja Jundiaí,Resolvido,72,51.4,sim
+CH-01233,2026-06-16 09:03,2026-06-16 22:09,Impressão,Média,Fábrica,Resolvido,24,13.1,sim
+CH-01121,2026-06-16 09:44,2026-06-18 02:20,Rede,Média,Loja Shopping,Resolvido,24,40.6,nao
+CH-00757,2026-06-16 10:31,2026-06-16 21:37,Hardware,Média,Comercial,Resolvido,24,11.1,sim
+CH-01172,2026-06-16 11:10,2026-06-17 08:46,Acesso,Baixa,Loja Sul,Resolvido,72,21.6,sim
+CH-00560,2026-06-16 11:13,2026-06-18 21:19,Acesso,Baixa,Loja Shopping,Resolvido,72,58.1,sim
+CH-00883,2026-06-16 11:14,,Rede,Alta,Fábrica,Em andamento,8,,
+CH-00554,2026-06-16 11:33,2026-06-16 13:51,Rede,Crítica,Loja Jundiaí,Resolvido,4,2.3,sim
+CH-00816,2026-06-16 11:33,2026-06-18 06:03,Rede,Baixa,Financeiro,Resolvido,72,42.5,sim
+CH-00197,2026-06-16 11:51,2026-06-17 00:09,Impressão,Média,Fábrica,Resolvido,24,12.3,sim
+CH-00360,2026-06-16 12:08,2026-06-17 05:14,Rede,Média,Loja Centro,Resolvido,24,17.1,sim
+CH-01205,2026-06-16 14:04,,Software/Office,Média,RH,Em andamento,24,,
+CH-00087,2026-06-16 14:17,2026-06-16 19:23,Impressão,Média,Loja Sul,Resolvido,24,5.1,sim
+CH-00275,2026-06-16 14:21,2026-06-16 21:03,Software/Office,Alta,Loja Jundiaí,Resolvido,8,6.7,sim
+CH-00868,2026-06-16 14:43,2026-06-17 00:31,Hardware,Média,Loja Jundiaí,Resolvido,24,9.8,sim
+CH-00876,2026-06-16 14:44,2026-06-18 09:38,Hardware,Baixa,Fábrica,Resolvido,72,42.9,sim
+CH-00824,2026-06-16 15:09,2026-06-17 11:33,Software/Office,Baixa,Loja Centro,Resolvido,72,20.4,sim
+CH-01202,2026-06-16 17:28,2026-06-19 06:28,Acesso,Média,Loja Jundiaí,Resolvido,24,61.0,nao
+CH-00016,2026-06-17 08:15,2026-06-20 21:27,Impressão,Baixa,Comercial,Resolvido,72,85.2,nao
+CH-00135,2026-06-17 09:36,2026-06-17 11:42,Impressão,Crítica,Loja Shopping,Resolvido,4,2.1,sim
+CH-01106,2026-06-17 09:43,2026-06-18 06:07,Acesso,Média,Fábrica,Resolvido,24,20.4,sim
+CH-01297,2026-06-17 11:20,2026-06-19 06:08,Software/Office,Baixa,Fábrica,Resolvido,72,42.8,sim
+CH-00142,2026-06-17 11:25,,Software/Office,Média,Loja Sul,Aberto,24,,
+CH-01144,2026-06-17 11:46,2026-06-19 04:46,Acesso,Média,RH,Resolvido,24,41.0,nao
+CH-01163,2026-06-17 12:45,2026-06-19 04:39,Software/Office,Baixa,Loja Sul,Resolvido,72,39.9,sim
+CH-01128,2026-06-17 14:43,2026-06-19 07:19,Acesso,Média,Fábrica,Resolvido,24,40.6,nao
+CH-00972,2026-06-17 14:48,2026-06-17 20:06,Outros,Média,Loja Campinas,Resolvido,24,5.3,sim
+CH-00322,2026-06-17 16:58,2026-06-19 14:10,Acesso,Média,Loja Shopping,Resolvido,24,45.2,nao
+CH-01486,2026-06-18 08:39,2026-06-18 23:33,Hardware,Média,Financeiro,Resolvido,24,14.9,sim
+CH-01303,2026-06-18 10:09,2026-06-21 14:21,Hardware,Baixa,Loja Sul,Resolvido,72,76.2,nao
+CH-00980,2026-06-18 11:23,2026-06-18 16:05,Rede,Média,Loja Shopping,Resolvido,24,4.7,sim
+CH-01327,2026-06-18 11:53,2026-06-18 22:29,Software/Office,Alta,Loja Centro,Resolvido,8,10.6,nao
+CH-00867,2026-06-18 12:05,2026-06-18 18:53,Acesso,Média,Comercial,Resolvido,24,6.8,sim
+CH-00733,2026-06-18 12:17,2026-06-18 14:05,Software/Office,Alta,Loja Shopping,Resolvido,8,1.8,sim
+CH-00177,2026-06-18 12:32,2026-06-23 20:56,Hardware,Baixa,Expedição,Resolvido,72,128.4,nao
+CH-01154,2026-06-18 13:25,2026-06-19 02:31,Impressão,Média,Loja Shopping,Resolvido,24,13.1,sim
+CH-00779,2026-06-18 14:30,2026-06-21 00:24,Acesso,Média,Marketing,Resolvido,24,57.9,nao
+CH-00869,2026-06-18 14:57,2026-06-18 18:09,Hardware,Crítica,Loja Campinas,Resolvido,4,3.2,sim
+CH-00277,2026-06-18 15:36,2026-06-18 18:36,Acesso,Alta,Loja Campinas,Resolvido,8,3.0,sim
+CH-00623,2026-06-18 15:42,2026-06-18 18:42,Rede,Alta,Loja Shopping,Resolvido,8,3.0,sim
+CH-00428,2026-06-18 15:47,2026-06-18 19:35,Acesso,Alta,Loja Sul,Resolvido,8,3.8,sim
+CH-01110,2026-06-18 17:31,2026-06-18 19:25,Software/Office,Alta,Loja Shopping,Resolvido,8,1.9,sim
+CH-01296,2026-06-18 17:38,2026-06-19 10:32,Rede,Média,Loja Centro,Resolvido,24,16.9,sim
+CH-00786,2026-06-19 08:48,2026-06-21 07:54,Acesso,Baixa,Fábrica,Resolvido,72,47.1,sim
+CH-01430,2026-06-19 10:54,2026-06-19 17:00,Outros,Média,Fábrica,Resolvido,24,6.1,sim
+CH-00099,2026-06-19 11:44,2026-06-20 07:44,Acesso,Média,Loja Campinas,Resolvido,24,20.0,sim
+CH-01208,2026-06-19 11:49,2026-06-19 19:55,Software/Office,Média,Financeiro,Resolvido,24,8.1,sim
+CH-00467,2026-06-19 12:44,2026-06-19 16:14,Hardware,Alta,Loja Sul,Resolvido,8,3.5,sim
+CH-01342,2026-06-19 12:52,2026-06-25 11:04,Rede,Baixa,Loja Campinas,Resolvido,72,142.2,nao
+CH-01156,2026-06-19 14:14,2026-06-19 17:44,Hardware,Crítica,Loja Jundiaí,Resolvido,4,3.5,sim
+CH-00931,2026-06-19 14:25,2026-06-20 04:19,Acesso,Média,Loja Jundiaí,Resolvido,24,13.9,sim
+CH-00941,2026-06-19 15:31,2026-06-19 20:55,Hardware,Alta,Expedição,Resolvido,8,5.4,sim
+CH-01009,2026-06-19 16:11,2026-06-20 03:23,Software/Office,Média,Loja Jundiaí,Resolvido,24,11.2,sim
+CH-01290,2026-06-19 16:47,2026-06-20 00:17,Hardware,Média,Loja Shopping,Resolvido,24,7.5,sim
+CH-00711,2026-06-19 17:42,2026-06-21 11:30,Acesso,Média,Fábrica,Resolvido,24,41.8,nao
+CH-00415,2026-06-20 08:00,2026-06-21 02:48,Acesso,Alta,Marketing,Resolvido,8,18.8,nao
+CH-01219,2026-06-20 08:08,2026-06-21 21:38,Hardware,Média,Loja Shopping,Resolvido,24,37.5,nao
+CH-00175,2026-06-20 08:22,2026-06-24 07:28,Software/Office,Baixa,Financeiro,Resolvido,72,95.1,nao
+CH-01050,2026-06-20 09:06,2026-06-21 03:30,Acesso,Média,Loja Sul,Resolvido,24,18.4,sim
+CH-00362,2026-06-20 09:15,2026-06-20 14:33,Software/Office,Alta,Loja Sul,Resolvido,8,5.3,sim
+CH-00247,2026-06-20 09:59,2026-06-20 23:53,Acesso,Média,Loja Centro,Resolvido,24,13.9,sim
+CH-01072,2026-06-20 10:15,2026-06-21 01:51,Acesso,Média,Loja Centro,Resolvido,24,15.6,sim
+CH-00990,2026-06-20 11:59,2026-06-21 15:35,Software/Office,Média,Comercial,Resolvido,24,27.6,nao
+CH-00717,2026-06-20 12:30,,Hardware,Baixa,Estilo,Aberto,72,,
+CH-00358,2026-06-20 13:08,,Software/Office,Média,Fábrica,Em andamento,24,,
+CH-00046,2026-06-20 13:42,2026-06-20 16:48,Rede,Alta,Fábrica,Resolvido,8,3.1,sim
+CH-00688,2026-06-20 15:02,2026-06-21 04:56,Software/Office,Média,Loja Campinas,Resolvido,24,13.9,sim
+CH-00072,2026-06-20 15:54,2026-06-21 02:18,Software/Office,Média,Fábrica,Resolvido,24,10.4,sim
+CH-01097,2026-06-20 16:06,2026-06-20 17:30,Rede,Alta,Financeiro,Resolvido,8,1.4,sim
+CH-00611,2026-06-20 16:51,2026-06-21 15:15,Software/Office,Baixa,Loja Campinas,Resolvido,72,22.4,sim
+CH-00764,2026-06-20 16:51,2026-06-20 21:57,Software/Office,Alta,Financeiro,Resolvido,8,5.1,sim
+CH-01469,2026-06-20 17:34,2026-06-24 22:34,Software/Office,Baixa,Comercial,Resolvido,72,101.0,nao
+CH-01158,2026-06-20 17:50,2026-06-21 14:26,Hardware,Baixa,Loja Jundiaí,Resolvido,72,20.6,sim
+CH-00308,2026-06-21 08:02,2026-06-21 20:26,Acesso,Média,Loja Sul,Resolvido,24,12.4,sim
+CH-00862,2026-06-21 08:42,,Software/Office,Média,Expedição,Em andamento,24,,
+CH-00718,2026-06-21 09:46,2026-06-23 11:40,Software/Office,Baixa,Expedição,Resolvido,72,49.9,sim
+CH-00502,2026-06-21 09:51,2026-06-21 23:45,Acesso,Média,Loja Sul,Resolvido,24,13.9,sim
+CH-00286,2026-06-21 11:33,2026-06-22 23:33,Impressão,Baixa,Loja Shopping,Resolvido,72,36.0,sim
+CH-01388,2026-06-21 12:13,2026-06-21 15:19,Impressão,Crítica,Marketing,Resolvido,4,3.1,sim
+CH-00536,2026-06-21 12:50,2026-06-22 02:56,Rede,Alta,Loja Sul,Resolvido,8,14.1,nao
+CH-00860,2026-06-21 14:30,2026-06-22 20:36,Acesso,Média,Loja Campinas,Resolvido,24,30.1,nao
+CH-00581,2026-06-21 14:42,2026-06-23 07:30,Outros,Baixa,Loja Centro,Resolvido,72,40.8,sim
+CH-00367,2026-06-21 17:57,2026-06-24 11:03,Hardware,Baixa,Estilo,Resolvido,72,65.1,sim
+CH-00032,2026-06-22 09:56,2026-06-22 21:56,Acesso,Média,Loja Jundiaí,Resolvido,24,12.0,sim
+CH-00148,2026-06-22 10:15,2026-06-22 12:33,Acesso,Alta,RH,Resolvido,8,2.3,sim
+CH-00138,2026-06-22 10:55,2026-06-23 01:43,Rede,Baixa,Expedição,Resolvido,72,14.8,sim
+CH-01435,2026-06-22 11:05,2026-06-22 18:29,Software/Office,Alta,Loja Jundiaí,Resolvido,8,7.4,sim
+CH-00829,2026-06-22 14:01,2026-06-23 02:37,Acesso,Média,Marketing,Resolvido,24,12.6,sim
+CH-01115,2026-06-22 14:30,2026-06-23 10:36,Rede,Baixa,Loja Centro,Resolvido,72,20.1,sim
+CH-01363,2026-06-22 15:09,2026-06-22 16:27,Impressão,Crítica,Loja Shopping,Resolvido,4,1.3,sim
+CH-00571,2026-06-22 15:39,2026-06-25 01:33,Software/Office,Baixa,Loja Centro,Resolvido,72,57.9,sim
+CH-00354,2026-06-22 17:36,2026-06-25 01:54,Rede,Média,Financeiro,Resolvido,24,56.3,nao
+CH-00835,2026-06-23 08:49,2026-06-23 15:19,Rede,Média,Loja Shopping,Resolvido,24,6.5,sim
+CH-00228,2026-06-23 11:03,2026-06-23 17:45,Software/Office,Média,Loja Shopping,Resolvido,24,6.7,sim
+CH-00926,2026-06-23 11:26,2026-06-24 05:38,Software/Office,Média,Fábrica,Resolvido,24,18.2,sim
+CH-00692,2026-06-23 12:12,2026-06-24 02:42,Rede,Média,Loja Centro,Resolvido,24,14.5,sim
+CH-00251,2026-06-23 12:23,2026-06-23 17:53,Software/Office,Média,Loja Sul,Resolvido,24,5.5,sim
+CH-01096,2026-06-23 12:25,2026-06-24 21:43,Rede,Baixa,Loja Jundiaí,Resolvido,72,33.3,sim
+CH-00004,2026-06-23 13:38,2026-06-23 17:44,Software/Office,Alta,Loja Campinas,Resolvido,8,4.1,sim
+CH-00260,2026-06-23 14:05,2026-06-24 04:29,Rede,Média,Loja Centro,Resolvido,24,14.4,sim
+CH-01213,2026-06-23 14:36,2026-06-24 12:06,Hardware,Baixa,Expedição,Resolvido,72,21.5,sim
+CH-01259,2026-06-23 14:44,2026-06-24 08:26,Impressão,Baixa,Expedição,Resolvido,72,17.7,sim
+CH-01004,2026-06-23 15:11,,Software/Office,Alta,Loja Jundiaí,Aberto,8,,
+CH-00505,2026-06-23 16:00,2026-06-24 19:18,Software/Office,Baixa,Loja Campinas,Resolvido,72,27.3,sim
+CH-01254,2026-06-23 16:04,,Software/Office,Baixa,Loja Shopping,Em andamento,72,,
+CH-01421,2026-06-23 17:09,2026-06-24 21:45,Software/Office,Baixa,Fábrica,Resolvido,72,28.6,sim
+CH-00605,2026-06-24 08:05,2026-06-26 22:35,Acesso,Baixa,RH,Resolvido,72,62.5,sim
+CH-00410,2026-06-24 08:24,2026-06-24 22:18,Software/Office,Média,Loja Centro,Resolvido,24,13.9,sim
+CH-01445,2026-06-24 08:34,2026-06-24 20:58,Rede,Média,Loja Jundiaí,Resolvido,24,12.4,sim
+CH-01141,2026-06-24 11:01,2026-06-26 15:43,Acesso,Baixa,Loja Centro,Resolvido,72,52.7,sim
+CH-01413,2026-06-24 11:43,,Hardware,Média,Loja Centro,Em andamento,24,,
+CH-01105,2026-06-24 12:25,2026-06-26 14:25,Impressão,Baixa,Loja Sul,Resolvido,72,50.0,sim
+CH-00746,2026-06-24 12:35,2026-06-25 01:41,Acesso,Média,Loja Sul,Resolvido,24,13.1,sim
+CH-00492,2026-06-24 12:43,2026-06-26 07:19,Rede,Baixa,Loja Campinas,Resolvido,72,42.6,sim
+CH-00319,2026-06-24 13:08,2026-06-29 15:44,Hardware,Baixa,Loja Jundiaí,Resolvido,72,122.6,nao
+CH-00918,2026-06-24 15:20,2026-06-25 03:26,Rede,Média,Loja Campinas,Resolvido,24,12.1,sim
+CH-01253,2026-06-24 15:20,2026-06-24 23:32,Rede,Média,RH,Resolvido,24,8.2,sim
+CH-01379,2026-06-24 16:40,2026-06-25 10:34,Acesso,Baixa,RH,Resolvido,72,17.9,sim
+CH-00760,2026-06-24 17:01,2026-06-25 03:55,Hardware,Média,Loja Jundiaí,Resolvido,24,10.9,sim
+CH-01437,2026-06-24 17:42,2026-06-24 23:42,Impressão,Alta,Fábrica,Resolvido,8,6.0,sim
+CH-00174,2026-06-25 08:22,2026-06-25 11:16,Impressão,Crítica,Loja Campinas,Resolvido,4,2.9,sim
+CH-00488,2026-06-25 08:44,2026-06-26 03:44,Software/Office,Média,Loja Sul,Resolvido,24,19.0,sim
+CH-01086,2026-06-25 09:42,2026-06-25 12:12,Rede,Crítica,Marketing,Resolvido,4,2.5,sim
+CH-01006,2026-06-25 09:49,2026-06-30 08:01,Software/Office,Baixa,Fábrica,Resolvido,72,118.2,nao
+CH-00909,2026-06-25 10:33,,Hardware,Média,Loja Shopping,Em andamento,24,,
+CH-00419,2026-06-25 13:11,2026-06-26 01:35,Outros,Média,Financeiro,Resolvido,24,12.4,sim
+CH-01406,2026-06-25 13:27,2026-06-27 08:33,Hardware,Baixa,Loja Shopping,Resolvido,72,43.1,sim
+CH-01138,2026-06-25 13:40,,Outros,Alta,Financeiro,Aberto,8,,
+CH-00840,2026-06-25 14:23,2026-06-26 08:29,Rede,Média,Loja Jundiaí,Resolvido,24,18.1,sim
+CH-00121,2026-06-25 15:28,,Acesso,Baixa,Loja Jundiaí,Em andamento,72,,
+CH-00059,2026-06-26 08:22,2026-06-28 22:34,Software/Office,Baixa,RH,Resolvido,72,62.2,sim
+CH-00313,2026-06-26 09:06,2026-06-26 19:12,Acesso,Alta,Loja Jundiaí,Resolvido,8,10.1,nao
+CH-01367,2026-06-26 09:06,2026-06-26 14:48,Outros,Média,Loja Sul,Resolvido,24,5.7,sim
+CH-01091,2026-06-26 10:47,2026-06-26 18:35,Impressão,Média,Loja Jundiaí,Resolvido,24,7.8,sim
+CH-00759,2026-06-26 13:49,,Hardware,Média,Fábrica,Em andamento,24,,
+CH-00063,2026-06-26 14:16,2026-06-27 08:16,Hardware,Média,RH,Resolvido,24,18.0,sim
+CH-01371,2026-06-26 14:26,2026-06-26 19:38,Acesso,Alta,Expedição,Resolvido,8,5.2,sim
+CH-00216,2026-06-26 14:52,2026-06-26 16:58,Rede,Alta,Financeiro,Resolvido,8,2.1,sim
+CH-01425,2026-06-26 15:28,2026-06-28 00:10,Acesso,Baixa,Financeiro,Resolvido,72,32.7,sim
+CH-00012,2026-06-26 15:33,2026-06-27 13:15,Software/Office,Média,Loja Jundiaí,Resolvido,24,21.7,sim
+CH-00503,2026-06-26 15:49,2026-06-27 10:19,Software/Office,Média,Loja Campinas,Resolvido,24,18.5,sim
+CH-00722,2026-06-27 08:18,2026-06-28 20:48,Acesso,Baixa,Loja Campinas,Resolvido,72,36.5,sim
+CH-01116,2026-06-27 08:35,2026-06-27 13:41,Software/Office,Média,Financeiro,Resolvido,24,5.1,sim
+CH-01201,2026-06-27 09:29,2026-06-27 13:35,Outros,Média,Fábrica,Resolvido,24,4.1,sim
+CH-00350,2026-06-27 10:01,2026-06-30 00:25,Acesso,Baixa,Loja Sul,Resolvido,72,62.4,sim
+CH-00576,2026-06-27 12:42,2026-06-28 08:54,Hardware,Média,Loja Jundiaí,Resolvido,24,20.2,sim
+CH-00270,2026-06-27 13:06,2026-07-02 18:18,Rede,Baixa,Loja Centro,Resolvido,72,125.2,nao
+CH-00445,2026-06-27 13:35,2026-06-27 21:05,Rede,Média,Expedição,Resolvido,24,7.5,sim
+CH-00532,2026-06-27 14:14,2026-06-27 16:56,Acesso,Alta,Financeiro,Resolvido,8,2.7,sim
+CH-00052,2026-06-27 14:15,2026-06-28 10:57,Impressão,Média,Financeiro,Resolvido,24,20.7,sim
+CH-00316,2026-06-27 14:20,2026-06-29 14:14,Hardware,Baixa,Fábrica,Resolvido,72,47.9,sim
+CH-00374,2026-06-27 16:26,,Software/Office,Alta,Loja Jundiaí,Em andamento,8,,
+CH-00549,2026-06-27 16:43,2026-06-28 08:07,Software/Office,Média,Loja Sul,Resolvido,24,15.4,sim
+CH-01149,2026-06-27 17:13,2026-06-28 20:01,Software/Office,Baixa,Fábrica,Resolvido,72,26.8,sim
+CH-00375,2026-06-28 08:32,2026-06-28 13:26,Acesso,Alta,Loja Shopping,Resolvido,8,4.9,sim
+CH-00110,2026-06-28 08:36,2026-06-28 12:18,Software/Office,Crítica,Comercial,Resolvido,4,3.7,sim
+CH-01228,2026-06-28 09:42,2026-06-30 03:48,Impressão,Baixa,Loja Jundiaí,Resolvido,72,42.1,sim
+CH-01279,2026-06-28 10:49,,Outros,Média,Loja Shopping,Em andamento,24,,
+CH-01132,2026-06-28 12:53,2026-06-28 23:47,Hardware,Alta,Fábrica,Resolvido,8,10.9,nao
+CH-01193,2026-06-29 08:29,2026-07-04 15:29,Rede,Baixa,Loja Campinas,Resolvido,72,127.0,nao
+CH-01357,2026-06-29 10:47,2026-06-30 07:23,Rede,Média,Loja Shopping,Resolvido,24,20.6,sim
+CH-01288,2026-06-29 12:55,2026-07-01 17:19,Software/Office,Baixa,Loja Campinas,Resolvido,72,52.4,sim
+CH-00775,2026-06-29 13:42,2026-07-02 06:48,Software/Office,Baixa,Expedição,Resolvido,72,65.1,sim
+CH-01027,2026-06-29 13:54,2026-07-01 18:42,Rede,Baixa,Marketing,Resolvido,72,52.8,sim
+CH-00226,2026-06-29 14:32,2026-06-29 19:56,Hardware,Média,Fábrica,Resolvido,24,5.4,sim
+CH-00025,2026-06-29 15:13,2026-07-03 13:13,Hardware,Baixa,Loja Centro,Resolvido,72,94.0,nao
+CH-00405,2026-06-29 15:24,2026-06-30 09:00,Hardware,Média,Fábrica,Resolvido,24,17.6,sim
+CH-00854,2026-06-29 16:33,2026-06-30 08:09,Hardware,Alta,Financeiro,Resolvido,8,15.6,nao
+CH-01118,2026-06-29 16:46,2026-06-29 23:16,Impressão,Alta,Marketing,Resolvido,8,6.5,sim
+CH-01386,2026-06-29 17:57,2026-06-30 13:45,Software/Office,Baixa,Estilo,Resolvido,72,19.8,sim
+CH-00258,2026-06-30 08:33,2026-06-30 10:03,Software/Office,Crítica,Loja Sul,Resolvido,4,1.5,sim
+CH-01191,2026-06-30 08:58,2026-07-02 01:52,Acesso,Média,Loja Campinas,Resolvido,24,40.9,nao
+CH-00857,2026-06-30 09:23,2026-07-01 04:59,Rede,Baixa,Fábrica,Resolvido,72,19.6,sim
+CH-01405,2026-06-30 10:29,2026-07-02 13:53,Hardware,Baixa,Loja Jundiaí,Resolvido,72,51.4,sim
+CH-01487,2026-06-30 10:46,2026-07-01 04:46,Software/Office,Alta,Loja Jundiaí,Resolvido,8,18.0,nao
+CH-01427,2026-06-30 11:05,2026-06-30 19:35,Software/Office,Média,Estilo,Resolvido,24,8.5,sim
+CH-00141,2026-06-30 11:48,2026-06-30 17:30,Acesso,Média,Fábrica,Resolvido,24,5.7,sim
+CH-00058,2026-06-30 11:53,2026-07-02 10:47,Hardware,Média,Fábrica,Resolvido,24,46.9,nao
+CH-00817,2026-06-30 15:42,2026-07-02 06:06,Impressão,Média,Loja Sul,Resolvido,24,38.4,nao
+CH-01013,2026-07-01 08:15,2026-07-03 04:45,Acesso,Média,Fábrica,Resolvido,24,44.5,nao
+CH-00736,2026-07-01 09:07,2026-07-06 18:13,Software/Office,Baixa,Comercial,Resolvido,72,129.1,nao
+CH-00456,2026-07-01 09:13,2026-07-04 04:13,Software/Office,Baixa,Comercial,Resolvido,72,67.0,sim
+CH-00785,2026-07-01 09:52,2026-07-02 00:28,Software/Office,Baixa,Loja Shopping,Resolvido,72,14.6,sim
+CH-00420,2026-07-01 10:07,2026-07-02 08:31,Impressão,Média,Loja Sul,Resolvido,24,22.4,sim
+CH-00693,2026-07-01 13:14,,Rede,Alta,Loja Sul,Aberto,8,,
+CH-00828,2026-07-01 13:35,2026-07-06 15:47,Acesso,Baixa,Loja Sul,Resolvido,72,122.2,nao
+CH-00379,2026-07-01 14:09,2026-07-02 08:21,Software/Office,Média,Loja Sul,Resolvido,24,18.2,sim
+CH-00396,2026-07-01 14:47,2026-07-03 10:29,Software/Office,Baixa,Loja Centro,Resolvido,72,43.7,sim
+CH-00069,2026-07-01 15:06,2026-07-02 11:48,Hardware,Média,Loja Jundiaí,Resolvido,24,20.7,sim
+CH-00844,2026-07-01 16:55,2026-07-04 08:07,Software/Office,Baixa,Estilo,Resolvido,72,63.2,sim
+CH-00582,2026-07-01 17:09,2026-07-03 14:51,Software/Office,Baixa,Financeiro,Resolvido,72,45.7,sim
+CH-00962,2026-07-01 17:47,2026-07-02 15:41,Rede,Média,Loja Sul,Resolvido,24,21.9,sim
+CH-00437,2026-07-01 17:58,2026-07-02 05:10,Software/Office,Média,Expedição,Resolvido,24,11.2,sim
+CH-00289,2026-07-02 08:47,2026-07-02 13:47,Acesso,Alta,Fábrica,Resolvido,8,5.0,sim
+CH-01298,2026-07-02 09:24,2026-07-04 02:06,Software/Office,Baixa,Expedição,Resolvido,72,40.7,sim
+CH-00626,2026-07-02 10:45,2026-07-02 17:21,Software/Office,Alta,Loja Jundiaí,Resolvido,8,6.6,sim
+CH-00701,2026-07-02 12:44,,Impressão,Média,Loja Jundiaí,Aberto,24,,
+CH-01167,2026-07-02 13:03,2026-07-02 14:33,Rede,Alta,Loja Campinas,Resolvido,8,1.5,sim
+CH-01264,2026-07-02 13:24,2026-07-02 19:42,Impressão,Média,Comercial,Resolvido,24,6.3,sim
+CH-00515,2026-07-02 14:12,2026-07-03 21:00,Hardware,Média,Loja Centro,Resolvido,24,30.8,nao
+CH-00633,2026-07-02 14:36,2026-07-02 17:18,Hardware,Alta,Financeiro,Resolvido,8,2.7,sim
+CH-00145,2026-07-02 14:45,2026-07-02 18:33,Acesso,Alta,Loja Shopping,Resolvido,8,3.8,sim
+CH-00841,2026-07-02 14:57,2026-07-09 11:15,Acesso,Baixa,Loja Jundiaí,Resolvido,72,164.3,nao
+CH-00960,2026-07-02 15:19,2026-07-02 19:13,Software/Office,Alta,Loja Sul,Resolvido,8,3.9,sim
+CH-00271,2026-07-02 16:35,2026-07-02 18:23,Software/Office,Alta,Loja Jundiaí,Resolvido,8,1.8,sim
+CH-00893,2026-07-03 09:40,2026-07-03 17:04,Rede,Alta,Fábrica,Resolvido,8,7.4,sim
+CH-01266,2026-07-03 10:18,,Rede,Alta,Loja Shopping,Em andamento,8,,
+CH-00408,2026-07-03 10:21,,Acesso,Média,Loja Sul,Em andamento,24,,
+CH-01384,2026-07-03 12:09,2026-07-03 18:33,Hardware,Média,Loja Sul,Resolvido,24,6.4,sim
+CH-00967,2026-07-03 12:49,,Acesso,Média,Loja Centro,Em andamento,24,,
+CH-01345,2026-07-03 13:24,2026-07-03 16:24,Hardware,Alta,Loja Centro,Resolvido,8,3.0,sim
+CH-00529,2026-07-03 13:26,2026-07-03 17:02,Rede,Média,Comercial,Resolvido,24,3.6,sim
+CH-00044,2026-07-03 13:27,2026-07-04 00:27,Outros,Média,Loja Jundiaí,Resolvido,24,11.0,sim
+CH-00108,2026-07-03 13:37,2026-07-05 16:31,Impressão,Média,Loja Centro,Resolvido,24,50.9,nao
+CH-01188,2026-07-03 13:51,2026-07-03 21:15,Impressão,Média,Loja Centro,Resolvido,24,7.4,sim
+CH-00839,2026-07-03 14:49,2026-07-03 21:13,Rede,Alta,Comercial,Resolvido,8,6.4,sim
+CH-01215,2026-07-03 14:55,2026-07-05 22:49,Impressão,Baixa,Comercial,Resolvido,72,55.9,sim
+CH-01241,2026-07-03 15:02,,Rede,Alta,Loja Sul,Em andamento,8,,
+CH-01275,2026-07-03 15:35,2026-07-04 04:35,Acesso,Baixa,Loja Centro,Resolvido,72,13.0,sim
+CH-01482,2026-07-03 17:27,2026-07-06 23:33,Rede,Baixa,Loja Sul,Resolvido,72,78.1,nao
+CH-01334,2026-07-03 17:29,2026-07-04 11:05,Hardware,Média,RH,Resolvido,24,17.6,sim
+CH-00590,2026-07-03 17:31,2026-07-04 12:55,Hardware,Alta,Marketing,Resolvido,8,19.4,nao
+CH-01436,2026-07-03 17:51,2026-07-04 06:27,Acesso,Média,Expedição,Resolvido,24,12.6,sim
+CH-00093,2026-07-04 08:13,2026-07-04 17:19,Acesso,Média,Loja Sul,Resolvido,24,9.1,sim
+CH-00944,2026-07-04 08:53,2026-07-06 09:53,Software/Office,Baixa,Loja Sul,Resolvido,72,49.0,sim
+CH-01055,2026-07-04 09:58,2026-07-06 02:58,Impressão,Baixa,Expedição,Resolvido,72,41.0,sim
+CH-00345,2026-07-04 10:05,,Hardware,Alta,Expedição,Em andamento,8,,
+CH-00494,2026-07-04 10:06,2026-07-04 20:12,Impressão,Média,RH,Resolvido,24,10.1,sim
+CH-00376,2026-07-04 10:13,2026-07-04 14:07,Outros,Alta,Marketing,Resolvido,8,3.9,sim
+CH-01370,2026-07-04 10:25,2026-07-04 20:25,Acesso,Média,Comercial,Resolvido,24,10.0,sim
+CH-01269,2026-07-04 10:53,2026-07-10 22:23,Rede,Baixa,Loja Campinas,Resolvido,72,155.5,nao
+CH-00684,2026-07-04 11:11,2026-07-04 13:35,Hardware,Alta,Loja Shopping,Resolvido,8,2.4,sim
+CH-01282,2026-07-04 11:36,2026-07-05 06:12,Hardware,Média,Loja Jundiaí,Resolvido,24,18.6,sim
+CH-00661,2026-07-04 11:46,2026-07-04 13:10,Hardware,Alta,Loja Jundiaí,Resolvido,8,1.4,sim
+CH-00882,2026-07-04 11:47,2026-07-05 09:05,Hardware,Média,Marketing,Resolvido,24,21.3,sim
+CH-01375,2026-07-04 11:50,2026-07-05 03:44,Acesso,Média,Financeiro,Resolvido,24,15.9,sim
+CH-01190,2026-07-04 13:32,,Impressão,Média,Loja Jundiaí,Em andamento,24,,
+CH-01349,2026-07-04 13:49,2026-07-05 03:43,Software/Office,Média,Comercial,Resolvido,24,13.9,sim
+CH-01079,2026-07-04 15:52,2026-07-04 23:10,Software/Office,Alta,Loja Centro,Resolvido,8,7.3,sim
+CH-00945,2026-07-04 17:00,2026-07-04 19:30,Software/Office,Alta,Financeiro,Resolvido,8,2.5,sim
+CH-00186,2026-07-04 17:18,2026-07-06 01:54,Acesso,Média,Loja Shopping,Resolvido,24,32.6,nao
+CH-00257,2026-07-05 08:39,2026-07-06 04:21,Hardware,Alta,Loja Centro,Resolvido,8,19.7,nao
+CH-01389,2026-07-05 08:53,2026-07-07 15:23,Software/Office,Média,Loja Shopping,Resolvido,24,54.5,nao
+CH-01304,2026-07-05 09:03,2026-07-05 10:39,Software/Office,Alta,Loja Jundiaí,Resolvido,8,1.6,sim
+CH-00171,2026-07-05 09:53,,Hardware,Média,Comercial,Aberto,24,,
+CH-01103,2026-07-05 10:59,2026-07-07 06:59,Software/Office,Baixa,Loja Sul,Resolvido,72,44.0,sim
+CH-00929,2026-07-05 12:05,2026-07-05 14:23,Hardware,Alta,Fábrica,Resolvido,8,2.3,sim
+CH-01017,2026-07-05 12:43,2026-07-06 02:37,Rede,Média,Loja Centro,Resolvido,24,13.9,sim
+CH-01134,2026-07-05 13:11,2026-07-10 01:53,Acesso,Baixa,Loja Jundiaí,Resolvido,72,108.7,nao
+CH-00559,2026-07-05 14:00,2026-07-11 12:06,Acesso,Baixa,Loja Shopping,Resolvido,72,142.1,nao
+CH-00981,2026-07-05 14:46,2026-07-06 16:58,Rede,Média,Loja Jundiaí,Resolvido,24,26.2,nao
+CH-00324,2026-07-05 17:03,2026-07-05 22:57,Hardware,Alta,Loja Campinas,Resolvido,8,5.9,sim
+CH-00699,2026-07-05 17:47,2026-07-07 12:17,Hardware,Média,Loja Centro,Resolvido,24,42.5,nao
+CH-00695,2026-07-06 08:46,2026-07-06 20:16,Impressão,Alta,Loja Sul,Resolvido,8,11.5,nao
+CH-00095,2026-07-06 09:41,2026-07-08 13:47,Hardware,Baixa,Expedição,Resolvido,72,52.1,sim
+CH-01324,2026-07-06 09:58,2026-07-06 17:10,Acesso,Média,Fábrica,Resolvido,24,7.2,sim
+CH-00146,2026-07-06 13:05,2026-07-06 17:05,Outros,Alta,Marketing,Resolvido,8,4.0,sim
+CH-00198,2026-07-06 13:38,2026-07-07 02:02,Software/Office,Alta,Loja Campinas,Resolvido,8,12.4,nao
+CH-00469,2026-07-06 13:49,2026-07-07 10:43,Hardware,Baixa,Expedição,Resolvido,72,20.9,sim
+CH-00594,2026-07-06 14:18,2026-07-07 03:48,Acesso,Média,Comercial,Resolvido,24,13.5,sim
+CH-00387,2026-07-06 14:40,,Rede,Alta,Loja Shopping,Aberto,8,,
+CH-00821,2026-07-06 14:55,2026-07-06 17:49,Acesso,Crítica,Fábrica,Resolvido,4,2.9,sim
+CH-01104,2026-07-06 15:16,2026-07-06 22:22,Rede,Alta,Financeiro,Resolvido,8,7.1,sim
+CH-00527,2026-07-06 16:59,2026-07-09 11:35,Rede,Baixa,Comercial,Resolvido,72,66.6,sim
+CH-00763,2026-07-07 08:20,2026-07-07 22:56,Acesso,Média,Loja Jundiaí,Resolvido,24,14.6,sim
+CH-00879,2026-07-07 08:43,2026-07-08 01:43,Software/Office,Média,Loja Jundiaí,Resolvido,24,17.0,sim
+CH-00530,2026-07-07 08:44,,Software/Office,Baixa,Loja Shopping,Em andamento,72,,
+CH-01483,2026-07-07 10:04,2026-07-08 03:28,Acesso,Média,Expedição,Resolvido,24,17.4,sim
+CH-01024,2026-07-07 10:16,2026-07-07 16:52,Acesso,Média,Comercial,Resolvido,24,6.6,sim
+CH-00472,2026-07-07 10:23,2026-07-09 09:29,Acesso,Média,Estilo,Resolvido,24,47.1,nao
+CH-01434,2026-07-07 10:58,2026-07-07 13:58,Hardware,Crítica,Loja Jundiaí,Resolvido,4,3.0,sim
+CH-01374,2026-07-07 11:20,2026-07-07 23:56,Acesso,Baixa,Loja Centro,Resolvido,72,12.6,sim
+CH-01026,2026-07-07 12:17,,Acesso,Média,Loja Shopping,Aberto,24,,
+CH-01173,2026-07-07 13:01,2026-07-07 14:43,Impressão,Alta,Loja Jundiaí,Resolvido,8,1.7,sim
+CH-00748,2026-07-07 13:11,2026-07-07 18:41,Hardware,Alta,Comercial,Resolvido,8,5.5,sim
+CH-00797,2026-07-07 13:38,,Acesso,Crítica,Marketing,Aberto,4,,
+CH-01377,2026-07-07 14:04,2026-07-10 00:10,Software/Office,Média,Loja Sul,Resolvido,24,58.1,nao
+CH-00074,2026-07-07 15:28,2026-07-07 23:22,Acesso,Média,Loja Centro,Resolvido,24,7.9,sim
+CH-00825,2026-07-07 15:37,2026-07-10 02:13,Hardware,Baixa,Marketing,Resolvido,72,58.6,sim
+CH-00426,2026-07-07 15:55,2026-07-08 21:13,Hardware,Baixa,Loja Sul,Resolvido,72,29.3,sim
+CH-00476,2026-07-07 15:56,2026-07-12 07:44,Hardware,Baixa,Loja Shopping,Resolvido,72,111.8,nao
+CH-00075,2026-07-07 16:22,2026-07-08 02:22,Software/Office,Média,Fábrica,Resolvido,24,10.0,sim
+CH-01166,2026-07-07 16:28,2026-07-08 06:40,Hardware,Média,Loja Shopping,Resolvido,24,14.2,sim
+CH-00169,2026-07-07 17:00,,Acesso,Baixa,RH,Aberto,72,,
+CH-00744,2026-07-07 17:11,2026-07-11 16:59,Impressão,Baixa,Comercial,Resolvido,72,95.8,nao
+CH-00513,2026-07-07 17:21,2026-07-08 00:57,Rede,Média,Loja Centro,Resolvido,24,7.6,sim
+CH-00646,2026-07-08 09:09,2026-07-10 21:27,Acesso,Baixa,Loja Jundiaí,Resolvido,72,60.3,sim
+CH-00348,2026-07-08 09:17,2026-07-09 01:11,Software/Office,Média,Expedição,Resolvido,24,15.9,sim
+CH-00274,2026-07-08 09:23,2026-07-09 00:59,Hardware,Média,Loja Campinas,Resolvido,24,15.6,sim
+CH-00858,2026-07-08 10:09,2026-07-11 02:57,Rede,Baixa,Loja Shopping,Resolvido,72,64.8,sim
+CH-00832,2026-07-08 10:12,2026-07-09 05:00,Hardware,Média,Loja Jundiaí,Resolvido,24,18.8,sim
+CH-00214,2026-07-08 11:17,2026-07-11 06:05,Software/Office,Baixa,Loja Shopping,Resolvido,72,66.8,sim
+CH-00504,2026-07-08 12:04,2026-07-09 11:34,Software/Office,Baixa,Comercial,Resolvido,72,23.5,sim
+CH-00493,2026-07-08 12:36,2026-07-08 18:30,Acesso,Alta,Fábrica,Resolvido,8,5.9,sim
+CH-01442,2026-07-08 13:12,2026-07-10 11:54,Rede,Média,Loja Jundiaí,Resolvido,24,46.7,nao
+CH-00871,2026-07-08 14:40,2026-07-10 01:52,Hardware,Média,Loja Campinas,Resolvido,24,35.2,nao
+CH-01160,2026-07-08 15:17,2026-07-08 23:11,Software/Office,Média,Loja Centro,Resolvido,24,7.9,sim
+CH-00230,2026-07-08 15:47,,Rede,Alta,Marketing,Em andamento,8,,
+CH-01029,2026-07-08 16:43,,Acesso,Média,Financeiro,Aberto,24,,
+CH-00421,2026-07-08 17:43,2026-07-08 23:55,Impressão,Alta,Expedição,Resolvido,8,6.2,sim
+CH-00827,2026-07-08 17:46,2026-07-09 13:04,Acesso,Média,Loja Sul,Resolvido,24,19.3,sim
+CH-00984,2026-07-08 17:50,2026-07-09 15:20,Software/Office,Média,Loja Centro,Resolvido,24,21.5,sim
+CH-00035,2026-07-09 08:05,2026-07-10 10:53,Hardware,Média,Loja Shopping,Resolvido,24,26.8,nao
+CH-00079,2026-07-09 08:36,2026-07-09 12:00,Software/Office,Alta,Comercial,Resolvido,8,3.4,sim
+CH-00630,2026-07-09 09:30,2026-07-11 21:00,Rede,Baixa,Loja Shopping,Resolvido,72,59.5,sim
+CH-01155,2026-07-09 09:53,2026-07-09 14:05,Hardware,Média,Estilo,Resolvido,24,4.2,sim
+CH-01270,2026-07-09 09:55,2026-07-09 15:25,Impressão,Alta,Expedição,Resolvido,8,5.5,sim
+CH-00579,2026-07-09 10:01,2026-07-11 08:49,Hardware,Baixa,Loja Shopping,Resolvido,72,46.8,sim
+CH-01037,2026-07-09 10:49,2026-07-09 14:31,Acesso,Alta,Loja Jundiaí,Resolvido,8,3.7,sim
+CH-00666,2026-07-09 11:39,2026-07-09 17:21,Outros,Média,Loja Campinas,Resolvido,24,5.7,sim
+CH-00755,2026-07-09 12:34,2026-07-10 03:46,Software/Office,Alta,Fábrica,Resolvido,8,15.2,nao
+CH-00268,2026-07-09 13:35,,Hardware,Média,Estilo,Em andamento,24,,
+CH-01277,2026-07-09 14:38,2026-07-10 07:02,Impressão,Baixa,Fábrica,Resolvido,72,16.4,sim
+CH-00727,2026-07-09 15:14,2026-07-09 23:50,Impressão,Média,Fábrica,Resolvido,24,8.6,sim
+CH-00975,2026-07-09 16:07,2026-07-10 02:49,Hardware,Alta,Loja Jundiaí,Resolvido,8,10.7,nao
+CH-00546,2026-07-09 17:11,2026-07-10 05:47,Software/Office,Média,Fábrica,Resolvido,24,12.6,sim
+CH-01328,2026-07-09 17:23,2026-07-10 05:35,Rede,Média,Loja Shopping,Resolvido,24,12.2,sim
+CH-00563,2026-07-09 17:52,,Hardware,Média,Loja Sul,Em andamento,24,,
+CH-01220,2026-07-09 17:57,2026-07-16 15:39,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,165.7,nao
+CH-00331,2026-07-10 08:11,2026-07-10 09:41,Rede,Alta,Loja Campinas,Resolvido,8,1.5,sim
+CH-00668,2026-07-10 08:59,2026-07-11 04:29,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,19.5,sim
+CH-00834,2026-07-10 09:21,2026-07-10 11:21,Software/Office,Alta,Comercial,Resolvido,8,2.0,sim
+CH-00566,2026-07-10 11:09,2026-07-10 22:15,Hardware,Média,Loja Centro,Resolvido,24,11.1,sim
+CH-01214,2026-07-10 11:36,2026-07-11 18:54,Software/Office,Baixa,Fábrica,Resolvido,72,31.3,sim
+CH-00407,2026-07-10 12:10,2026-07-11 09:58,Impressão,Média,Loja Jundiaí,Resolvido,24,21.8,sim
+CH-00800,2026-07-10 12:47,2026-07-11 09:41,Rede,Média,Estilo,Resolvido,24,20.9,sim
+CH-00144,2026-07-10 13:04,2026-07-11 01:04,Hardware,Média,Financeiro,Resolvido,24,12.0,sim
+CH-00645,2026-07-10 14:59,2026-07-13 10:05,Acesso,Baixa,Loja Centro,Resolvido,72,67.1,sim
+CH-00769,2026-07-10 15:17,,Software/Office,Média,Loja Centro,Em andamento,24,,
+CH-00742,2026-07-10 17:15,2026-07-11 12:33,Outros,Média,Loja Centro,Resolvido,24,19.3,sim
+CH-00011,2026-07-11 09:48,2026-07-11 15:00,Acesso,Alta,Estilo,Resolvido,8,5.2,sim
+CH-00416,2026-07-11 09:57,2026-07-11 17:27,Software/Office,Alta,Loja Jundiaí,Resolvido,8,7.5,sim
+CH-00598,2026-07-11 10:24,2026-07-11 17:18,Acesso,Média,Comercial,Resolvido,24,6.9,sim
+CH-00612,2026-07-11 13:49,2026-07-12 20:19,Rede,Baixa,Loja Shopping,Resolvido,72,30.5,sim
+CH-00631,2026-07-11 14:52,2026-07-12 05:10,Rede,Média,Fábrica,Resolvido,24,14.3,sim
+CH-01399,2026-07-11 15:10,2026-07-11 17:58,Hardware,Crítica,Expedição,Resolvido,4,2.8,sim
+CH-00234,2026-07-11 15:36,2026-07-14 00:54,Acesso,Baixa,Loja Campinas,Resolvido,72,57.3,sim
+CH-00814,2026-07-11 15:43,2026-07-11 22:19,Hardware,Média,Loja Jundiaí,Resolvido,24,6.6,sim
+CH-00619,2026-07-11 15:57,2026-07-11 23:03,Hardware,Alta,Loja Jundiaí,Resolvido,8,7.1,sim
+CH-00206,2026-07-11 16:02,2026-07-12 22:02,Impressão,Baixa,Loja Centro,Resolvido,72,30.0,sim
+CH-01146,2026-07-11 17:26,2026-07-12 09:50,Hardware,Alta,Loja Jundiaí,Resolvido,8,16.4,nao
+CH-00233,2026-07-12 09:43,2026-07-12 11:31,Acesso,Alta,Loja Shopping,Resolvido,8,1.8,sim
+CH-01432,2026-07-12 10:47,2026-07-12 21:23,Impressão,Média,Loja Centro,Resolvido,24,10.6,sim
+CH-00070,2026-07-12 12:39,2026-07-12 16:57,Acesso,Alta,Loja Centro,Resolvido,8,4.3,sim
+CH-00979,2026-07-12 12:59,2026-07-14 10:35,Hardware,Baixa,Loja Campinas,Resolvido,72,45.6,sim
+CH-00734,2026-07-12 13:49,2026-07-15 05:07,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,63.3,sim
+CH-00207,2026-07-12 13:59,2026-07-13 12:35,Acesso,Média,Fábrica,Resolvido,24,22.6,sim
+CH-00273,2026-07-12 14:10,2026-07-14 05:22,Acesso,Baixa,Loja Centro,Resolvido,72,39.2,sim
+CH-00801,2026-07-12 14:57,2026-07-14 06:03,Rede,Baixa,Expedição,Resolvido,72,39.1,sim
+CH-00478,2026-07-12 14:58,2026-07-13 10:16,Rede,Média,Comercial,Resolvido,24,19.3,sim
+CH-00592,2026-07-12 15:29,2026-07-15 11:41,Acesso,Baixa,RH,Resolvido,72,68.2,sim
+CH-00128,2026-07-12 15:41,,Hardware,Baixa,Comercial,Aberto,72,,
+CH-01177,2026-07-12 17:30,2026-07-13 11:06,Impressão,Média,Loja Shopping,Resolvido,24,17.6,sim
+CH-00028,2026-07-13 08:32,2026-07-13 23:32,Hardware,Média,Expedição,Resolvido,24,15.0,sim
+CH-00435,2026-07-13 08:35,,Outros,Alta,Loja Sul,Em andamento,8,,
+CH-00406,2026-07-13 08:43,2026-07-14 08:31,Outros,Baixa,RH,Resolvido,72,23.8,sim
+CH-00550,2026-07-13 09:02,2026-07-14 05:26,Rede,Média,Loja Jundiaí,Resolvido,24,20.4,sim
+CH-00706,2026-07-13 09:30,2026-07-13 23:18,Hardware,Média,Loja Sul,Resolvido,24,13.8,sim
+CH-00856,2026-07-13 11:29,2026-07-16 04:41,Acesso,Baixa,Loja Sul,Resolvido,72,65.2,sim
+CH-01000,2026-07-13 12:18,2026-07-16 00:24,Outros,Baixa,Loja Campinas,Resolvido,72,60.1,sim
+CH-01059,2026-07-13 12:54,2026-07-14 03:06,Software/Office,Média,Financeiro,Resolvido,24,14.2,sim
+CH-00139,2026-07-13 14:26,2026-07-14 19:14,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,28.8,sim
+CH-00245,2026-07-13 14:26,2026-07-14 08:32,Rede,Média,Loja Campinas,Resolvido,24,18.1,sim
+CH-01350,2026-07-13 14:55,2026-07-14 21:07,Rede,Baixa,Estilo,Resolvido,72,30.2,sim
+CH-01252,2026-07-13 15:20,2026-07-13 21:20,Acesso,Crítica,Loja Sul,Resolvido,4,6.0,nao
+CH-00697,2026-07-13 15:51,2026-07-18 21:57,Acesso,Baixa,Loja Jundiaí,Resolvido,72,126.1,nao
+CH-00647,2026-07-13 17:05,2026-07-14 09:23,Software/Office,Média,Loja Sul,Resolvido,24,16.3,sim
+CH-00351,2026-07-13 17:14,,Software/Office,Crítica,Estilo,Aberto,4,,
+CH-00057,2026-07-14 10:09,2026-07-15 03:21,Rede,Média,Loja Shopping,Resolvido,24,17.2,sim
+CH-00461,2026-07-14 10:47,2026-07-15 00:53,Acesso,Média,Loja Sul,Resolvido,24,14.1,sim
+CH-00873,2026-07-14 10:50,2026-07-22 01:44,Acesso,Baixa,Loja Centro,Resolvido,72,182.9,nao
+CH-01268,2026-07-14 11:00,2026-07-19 07:48,Hardware,Baixa,Marketing,Resolvido,72,116.8,nao
+CH-00018,2026-07-14 11:45,2026-07-16 13:09,Impressão,Média,Loja Centro,Resolvido,24,49.4,nao
+CH-00231,2026-07-14 11:48,2026-07-15 08:12,Acesso,Média,Loja Sul,Resolvido,24,20.4,sim
+CH-00078,2026-07-14 12:02,,Rede,Alta,Loja Jundiaí,Em andamento,8,,
+CH-00397,2026-07-14 15:58,,Hardware,Baixa,Loja Centro,Em andamento,72,,
+CH-01153,2026-07-14 16:02,2026-07-16 05:56,Hardware,Baixa,Loja Jundiaí,Resolvido,72,37.9,sim
+CH-00459,2026-07-14 17:04,2026-07-14 19:52,Acesso,Crítica,Financeiro,Resolvido,4,2.8,sim
+CH-01450,2026-07-14 17:27,2026-07-17 11:27,Rede,Baixa,Financeiro,Resolvido,72,66.0,sim
+CH-00048,2026-07-15 08:19,2026-07-15 23:01,Impressão,Média,Loja Shopping,Resolvido,24,14.7,sim
+CH-00349,2026-07-15 08:24,2026-07-15 22:30,Software/Office,Média,Estilo,Resolvido,24,14.1,sim
+CH-01218,2026-07-15 09:37,2026-07-16 20:37,Software/Office,Média,Fábrica,Resolvido,24,35.0,nao
+CH-01443,2026-07-15 09:47,2026-07-15 16:53,Acesso,Alta,Fábrica,Resolvido,8,7.1,sim
+CH-00194,2026-07-15 10:40,2026-07-15 23:52,Impressão,Média,Fábrica,Resolvido,24,13.2,sim
+CH-01500,2026-07-15 11:18,2026-07-15 18:42,Acesso,Média,Loja Campinas,Resolvido,24,7.4,sim
+CH-00490,2026-07-15 12:12,2026-07-15 13:24,Impressão,Alta,Fábrica,Resolvido,8,1.2,sim
+CH-00920,2026-07-15 13:12,2026-07-15 19:12,Rede,Alta,Loja Shopping,Resolvido,8,6.0,sim
+CH-00680,2026-07-15 13:53,,Acesso,Alta,Financeiro,Aberto,8,,
+CH-01071,2026-07-15 13:54,2026-07-15 16:00,Software/Office,Crítica,Comercial,Resolvido,4,2.1,sim
+CH-01123,2026-07-15 14:18,2026-07-15 18:18,Acesso,Alta,Fábrica,Resolvido,8,4.0,sim
+CH-00427,2026-07-15 14:25,2026-07-16 02:31,Rede,Média,Loja Sul,Resolvido,24,12.1,sim
+CH-00833,2026-07-16 08:22,,Outros,Média,Loja Centro,Em andamento,24,,
+CH-00872,2026-07-16 10:19,2026-07-17 06:07,Outros,Média,Loja Centro,Resolvido,24,19.8,sim
+CH-00506,2026-07-16 10:30,2026-07-18 06:18,Acesso,Baixa,Loja Shopping,Resolvido,72,43.8,sim
+CH-01314,2026-07-16 11:24,2026-07-24 06:06,Software/Office,Baixa,Loja Centro,Resolvido,72,186.7,nao
+CH-01161,2026-07-16 11:42,2026-07-18 14:48,Rede,Média,Loja Jundiaí,Resolvido,24,51.1,nao
+CH-00518,2026-07-16 12:22,2026-07-17 08:40,Acesso,Média,Loja Shopping,Resolvido,24,20.3,sim
+CH-00158,2026-07-16 13:52,2026-07-19 07:16,Hardware,Baixa,Loja Jundiaí,Resolvido,72,65.4,sim
+CH-00644,2026-07-16 15:24,2026-07-16 20:30,Acesso,Alta,Loja Sul,Resolvido,8,5.1,sim
+CH-00758,2026-07-16 16:36,2026-07-16 23:12,Software/Office,Média,Loja Sul,Resolvido,24,6.6,sim
+CH-01468,2026-07-16 16:41,2026-07-17 23:35,Software/Office,Baixa,Loja Centro,Resolvido,72,30.9,sim
+CH-00593,2026-07-16 16:48,2026-07-17 02:00,Acesso,Média,Financeiro,Resolvido,24,9.2,sim
+CH-00561,2026-07-16 17:09,2026-07-16 23:45,Software/Office,Média,Fábrica,Resolvido,24,6.6,sim
+CH-00124,2026-07-16 17:13,2026-07-16 23:25,Software/Office,Alta,Comercial,Resolvido,8,6.2,sim
+CH-01462,2026-07-16 17:24,2026-07-22 23:30,Hardware,Baixa,Financeiro,Resolvido,72,150.1,nao
+CH-00137,2026-07-16 17:59,2026-07-16 22:11,Software/Office,Média,Financeiro,Resolvido,24,4.2,sim
+CH-00790,2026-07-17 08:01,,Acesso,Média,Comercial,Aberto,24,,
+CH-00927,2026-07-17 08:59,2026-07-19 23:11,Software/Office,Média,Fábrica,Resolvido,24,62.2,nao
+CH-00223,2026-07-17 09:59,,Impressão,Baixa,Loja Jundiaí,Em andamento,72,,
+CH-00361,2026-07-17 10:38,2026-07-23 10:26,Acesso,Baixa,RH,Resolvido,72,143.8,nao
+CH-01067,2026-07-17 10:41,2026-07-20 00:29,Acesso,Baixa,Loja Centro,Resolvido,72,61.8,sim
+CH-01307,2026-07-17 10:51,2026-07-17 14:33,Hardware,Alta,Loja Centro,Resolvido,8,3.7,sim
+CH-01255,2026-07-17 10:59,2026-07-17 22:23,Software/Office,Média,Loja Campinas,Resolvido,24,11.4,sim
+CH-00587,2026-07-17 11:38,2026-07-17 22:08,Software/Office,Média,Loja Shopping,Resolvido,24,10.5,sim
+CH-01034,2026-07-17 11:59,2026-07-18 04:23,Rede,Alta,Financeiro,Resolvido,8,16.4,nao
+CH-00204,2026-07-17 13:35,2026-07-17 15:35,Acesso,Crítica,Loja Jundiaí,Resolvido,4,2.0,sim
+CH-01477,2026-07-17 14:11,2026-07-18 05:47,Impressão,Média,Fábrica,Resolvido,24,15.6,sim
+CH-00551,2026-07-17 14:42,2026-07-18 05:36,Hardware,Média,Loja Jundiaí,Resolvido,24,14.9,sim
+CH-00964,2026-07-17 15:04,2026-07-17 22:28,Acesso,Média,Loja Shopping,Resolvido,24,7.4,sim
+CH-00164,2026-07-17 15:29,2026-07-17 19:53,Impressão,Alta,Financeiro,Resolvido,8,4.4,sim
+CH-00609,2026-07-17 16:46,2026-07-17 23:52,Outros,Média,Loja Jundiaí,Resolvido,24,7.1,sim
+CH-01139,2026-07-17 17:54,2026-07-18 04:18,Hardware,Crítica,Loja Centro,Resolvido,4,10.4,nao
+CH-00890,2026-07-18 08:47,2026-07-18 16:05,Hardware,Alta,Loja Jundiaí,Resolvido,8,7.3,sim
+CH-01001,2026-07-18 08:54,,Acesso,Alta,RH,Em andamento,8,,
+CH-01165,2026-07-18 09:09,2026-07-18 14:51,Acesso,Média,Marketing,Resolvido,24,5.7,sim
+CH-01242,2026-07-18 09:17,,Software/Office,Média,Loja Campinas,Em andamento,24,,
+CH-01003,2026-07-18 10:24,,Software/Office,Crítica,Financeiro,Em andamento,4,,
+CH-00196,2026-07-18 11:49,2026-07-18 12:31,Hardware,Crítica,Fábrica,Resolvido,4,0.7,sim
+CH-00021,2026-07-18 11:50,2026-07-19 04:02,Acesso,Baixa,Expedição,Resolvido,72,16.2,sim
+CH-00583,2026-07-18 11:55,2026-07-18 18:55,Acesso,Alta,Fábrica,Resolvido,8,7.0,sim
+CH-00458,2026-07-18 11:58,2026-07-20 11:04,Hardware,Baixa,Fábrica,Resolvido,72,47.1,sim
+CH-00863,2026-07-18 12:35,2026-07-19 04:17,Software/Office,Baixa,Financeiro,Resolvido,72,15.7,sim
+CH-01411,2026-07-18 12:35,2026-07-18 13:53,Hardware,Alta,Loja Centro,Resolvido,8,1.3,sim
+CH-01014,2026-07-18 13:33,,Software/Office,Média,Loja Campinas,Em andamento,24,,
+CH-00253,2026-07-18 14:18,2026-07-19 01:12,Hardware,Média,Marketing,Resolvido,24,10.9,sim
+CH-00928,2026-07-18 14:24,2026-07-20 08:00,Acesso,Baixa,Expedição,Resolvido,72,41.6,sim
+CH-01082,2026-07-18 14:33,2026-07-20 20:27,Acesso,Baixa,Loja Campinas,Resolvido,72,53.9,sim
+CH-00634,2026-07-18 15:07,2026-07-18 19:55,Software/Office,Alta,Marketing,Resolvido,8,4.8,sim
+CH-00284,2026-07-18 15:23,2026-07-19 06:17,Acesso,Média,Fábrica,Resolvido,24,14.9,sim
+CH-01417,2026-07-18 15:39,2026-07-18 20:39,Hardware,Média,Comercial,Resolvido,24,5.0,sim
+CH-01494,2026-07-18 15:45,2026-07-20 07:45,Impressão,Baixa,Fábrica,Resolvido,72,40.0,sim
+CH-00337,2026-07-18 16:08,2026-07-19 07:08,Impressão,Média,RH,Resolvido,24,15.0,sim
+CH-00221,2026-07-18 16:47,2026-07-26 02:17,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,177.5,nao
+CH-01206,2026-07-18 16:49,2026-07-19 09:49,Rede,Média,Fábrica,Resolvido,24,17.0,sim
+CH-00648,2026-07-18 17:03,,Software/Office,Média,Loja Sul,Aberto,24,,
+CH-01332,2026-07-19 08:20,2026-07-20 04:38,Software/Office,Média,Loja Campinas,Resolvido,24,20.3,sim
+CH-00209,2026-07-19 08:38,2026-07-21 14:56,Rede,Média,Estilo,Resolvido,24,54.3,nao
+CH-00101,2026-07-19 09:55,2026-07-19 13:25,Acesso,Crítica,Loja Sul,Resolvido,4,3.5,sim
+CH-01250,2026-07-19 10:24,2026-07-22 04:12,Software/Office,Baixa,Loja Campinas,Resolvido,72,65.8,sim
+CH-00192,2026-07-19 10:27,2026-07-26 10:51,Hardware,Baixa,Fábrica,Resolvido,72,168.4,nao
+CH-00210,2026-07-19 10:33,2026-07-20 06:21,Software/Office,Média,Financeiro,Resolvido,24,19.8,sim
+CH-00120,2026-07-19 10:56,2026-07-19 23:56,Outros,Média,Fábrica,Resolvido,24,13.0,sim
+CH-00632,2026-07-19 11:39,2026-07-20 00:33,Hardware,Média,Loja Sul,Resolvido,24,12.9,sim
+CH-00117,2026-07-19 13:06,2026-07-20 04:36,Acesso,Média,Financeiro,Resolvido,24,15.5,sim
+CH-01315,2026-07-19 13:06,,Hardware,Média,Loja Centro,Em andamento,24,,
+CH-00725,2026-07-19 14:05,2026-07-19 22:53,Acesso,Média,Marketing,Resolvido,24,8.8,sim
+CH-00870,2026-07-19 15:32,2026-07-19 17:26,Hardware,Alta,RH,Resolvido,8,1.9,sim
+CH-01458,2026-07-19 15:48,2026-07-19 17:36,Impressão,Alta,Loja Sul,Resolvido,8,1.8,sim
+CH-00098,2026-07-19 15:55,2026-07-20 02:07,Impressão,Média,Loja Shopping,Resolvido,24,10.2,sim
+CH-00866,2026-07-19 15:55,,Hardware,Média,Loja Shopping,Em andamento,24,,
+CH-00933,2026-07-19 16:45,2026-07-19 20:27,Acesso,Média,Marketing,Resolvido,24,3.7,sim
+CH-01395,2026-07-19 17:31,2026-07-20 05:25,Acesso,Média,Loja Jundiaí,Resolvido,24,11.9,sim
+CH-00531,2026-07-20 08:35,2026-07-22 03:41,Rede,Baixa,Comercial,Resolvido,72,43.1,sim
+CH-01133,2026-07-20 08:39,2026-07-21 12:45,Hardware,Média,Fábrica,Resolvido,24,28.1,nao
+CH-00485,2026-07-20 09:14,2026-07-20 13:08,Hardware,Média,Expedição,Resolvido,24,3.9,sim
+CH-01456,2026-07-20 11:42,2026-07-22 09:00,Acesso,Média,RH,Resolvido,24,45.3,nao
+CH-00992,2026-07-20 11:47,,Rede,Alta,Loja Shopping,Em andamento,8,,
+CH-00084,2026-07-20 12:02,2026-07-20 14:50,Hardware,Crítica,Loja Campinas,Resolvido,4,2.8,sim
+CH-01016,2026-07-20 12:08,2026-07-20 16:50,Hardware,Alta,Fábrica,Resolvido,8,4.7,sim
+CH-00617,2026-07-20 12:45,2026-07-20 21:33,Impressão,Média,Loja Campinas,Resolvido,24,8.8,sim
+CH-00851,2026-07-20 13:19,2026-07-21 06:37,Impressão,Média,Loja Sul,Resolvido,24,17.3,sim
+CH-00777,2026-07-20 13:21,2026-07-21 08:27,Acesso,Média,Loja Jundiaí,Resolvido,24,19.1,sim
+CH-01372,2026-07-20 14:01,2026-07-21 04:31,Hardware,Média,Estilo,Resolvido,24,14.5,sim
+CH-00152,2026-07-20 14:29,2026-07-27 04:35,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,158.1,nao
+CH-01335,2026-07-20 15:43,2026-07-21 13:07,Acesso,Média,Financeiro,Resolvido,24,21.4,sim
+CH-01499,2026-07-20 16:05,2026-07-21 05:47,Impressão,Média,RH,Resolvido,24,13.7,sim
+CH-01337,2026-07-20 16:12,,Hardware,Alta,Loja Shopping,Aberto,8,,
+CH-00884,2026-07-21 08:12,,Hardware,Média,Financeiro,Em andamento,24,,
+CH-00248,2026-07-21 08:55,2026-07-21 16:43,Impressão,Crítica,Loja Campinas,Resolvido,4,7.8,nao
+CH-01210,2026-07-21 08:59,2026-07-21 13:05,Impressão,Alta,RH,Resolvido,8,4.1,sim
+CH-00384,2026-07-21 09:12,2026-07-23 01:30,Software/Office,Média,Financeiro,Resolvido,24,40.3,nao
+CH-00205,2026-07-21 10:06,2026-07-22 16:24,Acesso,Baixa,Fábrica,Resolvido,72,30.3,sim
+CH-01076,2026-07-21 10:27,2026-07-23 12:21,Impressão,Baixa,Expedição,Resolvido,72,49.9,sim
+CH-00921,2026-07-21 10:54,2026-07-24 02:18,Software/Office,Baixa,Loja Centro,Resolvido,72,63.4,sim
+CH-00165,2026-07-21 12:03,2026-07-22 03:21,Acesso,Alta,Loja Centro,Resolvido,8,15.3,nao
+CH-01216,2026-07-21 13:01,2026-07-22 08:49,Rede,Alta,Loja Centro,Resolvido,8,19.8,nao
+CH-00588,2026-07-21 13:11,2026-07-21 19:23,Software/Office,Média,Loja Sul,Resolvido,24,6.2,sim
+CH-01235,2026-07-21 13:59,2026-07-22 08:05,Acesso,Média,Loja Jundiaí,Resolvido,24,18.1,sim
+CH-01145,2026-07-21 14:12,2026-07-23 13:24,Software/Office,Baixa,Fábrica,Resolvido,72,47.2,sim
+CH-00601,2026-07-21 15:15,2026-07-22 03:33,Acesso,Média,Comercial,Resolvido,24,12.3,sim
+CH-00721,2026-07-21 16:03,,Outros,Média,Loja Sul,Em andamento,24,,
+CH-00002,2026-07-21 16:12,2026-07-21 20:06,Hardware,Alta,Loja Centro,Resolvido,8,3.9,sim
+CH-00429,2026-07-21 17:40,2026-07-21 18:58,Acesso,Crítica,Loja Jundiaí,Resolvido,4,1.3,sim
+CH-01260,2026-07-22 08:04,2026-07-23 20:46,Impressão,Baixa,Fábrica,Resolvido,72,36.7,sim
+CH-00954,2026-07-22 09:19,2026-07-23 10:07,Software/Office,Baixa,Loja Centro,Resolvido,72,24.8,sim
+CH-00050,2026-07-22 09:52,,Software/Office,Média,Fábrica,Aberto,24,,
+CH-00913,2026-07-22 10:32,2026-07-29 01:56,Software/Office,Baixa,Comercial,Resolvido,72,159.4,nao
+CH-00703,2026-07-22 13:23,2026-07-22 14:59,Impressão,Alta,Loja Shopping,Resolvido,8,1.6,sim
+CH-00625,2026-07-22 13:34,2026-07-23 02:10,Rede,Média,Loja Jundiaí,Resolvido,24,12.6,sim
+CH-00521,2026-07-22 14:54,,Software/Office,Baixa,Loja Campinas,Aberto,72,,
+CH-01035,2026-07-22 15:03,2026-07-22 16:45,Impressão,Crítica,Loja Sul,Resolvido,4,1.7,sim
+CH-00637,2026-07-22 15:12,2026-07-24 03:36,Software/Office,Média,Loja Shopping,Resolvido,24,36.4,nao
+CH-00520,2026-07-22 15:40,,Software/Office,Média,Loja Jundiaí,Aberto,24,,
+CH-00218,2026-07-22 17:15,2026-07-23 07:03,Impressão,Média,Loja Jundiaí,Resolvido,24,13.8,sim
+CH-00267,2026-07-22 17:25,,Rede,Alta,Fábrica,Em andamento,8,,
+CH-01273,2026-07-23 08:15,2026-07-24 05:57,Hardware,Média,Comercial,Resolvido,24,21.7,sim
+CH-00766,2026-07-23 09:45,2026-07-23 19:51,Rede,Média,Comercial,Resolvido,24,10.1,sim
+CH-00754,2026-07-23 09:48,2026-07-24 04:06,Acesso,Média,Loja Centro,Resolvido,24,18.3,sim
+CH-00555,2026-07-23 10:35,2026-07-23 16:11,Hardware,Média,Loja Centro,Resolvido,24,5.6,sim
+CH-00997,2026-07-23 11:31,2026-07-26 21:43,Rede,Baixa,Fábrica,Resolvido,72,82.2,nao
+CH-00094,2026-07-23 11:45,2026-07-24 01:57,Impressão,Média,Loja Jundiaí,Resolvido,24,14.2,sim
+CH-00104,2026-07-23 12:14,2026-07-23 13:08,Impressão,Crítica,Loja Jundiaí,Resolvido,4,0.9,sim
+CH-00651,2026-07-23 12:31,2026-07-26 00:19,Hardware,Baixa,Comercial,Resolvido,72,59.8,sim
+CH-00150,2026-07-23 13:09,2026-07-24 04:51,Impressão,Média,Fábrica,Resolvido,24,15.7,sim
+CH-01397,2026-07-23 13:32,2026-07-24 05:32,Rede,Média,Loja Shopping,Resolvido,24,16.0,sim
+CH-00787,2026-07-23 13:36,2026-07-23 18:06,Software/Office,Alta,Loja Campinas,Resolvido,8,4.5,sim
+CH-01236,2026-07-23 14:50,2026-07-23 15:38,Hardware,Crítica,Financeiro,Resolvido,4,0.8,sim
+CH-00370,2026-07-23 15:12,2026-07-23 20:30,Hardware,Alta,Comercial,Resolvido,8,5.3,sim
+CH-01125,2026-07-23 16:06,2026-07-23 22:30,Impressão,Alta,RH,Resolvido,8,6.4,sim
+CH-00614,2026-07-23 16:57,2026-07-24 04:27,Software/Office,Média,Loja Sul,Resolvido,24,11.5,sim
+CH-01052,2026-07-23 17:07,2026-07-24 12:31,Software/Office,Alta,Loja Jundiaí,Resolvido,8,19.4,nao
+CH-00377,2026-07-23 17:16,2026-07-24 12:22,Outros,Média,Estilo,Resolvido,24,19.1,sim
+CH-00528,2026-07-23 17:27,2026-07-23 20:39,Software/Office,Alta,Fábrica,Resolvido,8,3.2,sim
+CH-00182,2026-07-24 08:04,2026-07-24 21:34,Impressão,Média,Loja Campinas,Resolvido,24,13.5,sim
+CH-00732,2026-07-24 09:32,2026-07-24 12:32,Outros,Crítica,Loja Shopping,Resolvido,4,3.0,sim
+CH-01416,2026-07-24 09:36,2026-07-24 15:24,Software/Office,Média,Fábrica,Resolvido,24,5.8,sim
+CH-00176,2026-07-24 10:04,2026-07-25 12:40,Software/Office,Média,Financeiro,Resolvido,24,26.6,nao
+CH-00425,2026-07-24 10:53,2026-07-26 10:53,Software/Office,Média,Fábrica,Resolvido,24,48.0,nao
+CH-01441,2026-07-24 11:11,2026-07-26 22:05,Impressão,Baixa,Comercial,Resolvido,72,58.9,sim
+CH-00586,2026-07-24 12:09,2026-07-25 09:33,Rede,Baixa,Comercial,Resolvido,72,21.4,sim
+CH-01247,2026-07-24 12:09,2026-07-25 19:45,Rede,Baixa,Loja Campinas,Resolvido,72,31.6,sim
+CH-00394,2026-07-24 12:16,2026-07-25 04:46,Hardware,Alta,Estilo,Resolvido,8,16.5,nao
+CH-01312,2026-07-24 12:45,2026-07-24 16:45,Software/Office,Alta,Loja Centro,Resolvido,8,4.0,sim
+CH-00983,2026-07-24 13:01,2026-07-27 02:19,Acesso,Média,Loja Jundiaí,Resolvido,24,61.3,nao
+CH-01470,2026-07-24 13:39,2026-07-24 17:15,Impressão,Alta,Financeiro,Resolvido,8,3.6,sim
+CH-00802,2026-07-24 15:03,2026-07-24 22:09,Outros,Média,Expedição,Resolvido,24,7.1,sim
+CH-00130,2026-07-24 16:45,2026-07-25 07:45,Software/Office,Alta,Loja Shopping,Resolvido,8,15.0,nao
+CH-00123,2026-07-24 17:01,2026-07-25 15:37,Impressão,Média,Fábrica,Resolvido,24,22.6,sim
+CH-00534,2026-07-24 17:28,2026-07-24 19:52,Impressão,Alta,Loja Shopping,Resolvido,8,2.4,sim
+CH-01130,2026-07-25 08:51,,Rede,Baixa,Loja Centro,Em andamento,72,,
+CH-01333,2026-07-25 09:11,,Hardware,Média,Loja Shopping,Em andamento,24,,
+CH-01463,2026-07-25 09:36,2026-07-25 21:00,Hardware,Alta,Comercial,Resolvido,8,11.4,nao
+CH-00294,2026-07-25 10:35,2026-07-25 17:47,Hardware,Média,Financeiro,Resolvido,24,7.2,sim
+CH-00519,2026-07-25 10:49,2026-07-25 15:19,Outros,Alta,Fábrica,Resolvido,8,4.5,sim
+CH-00062,2026-07-25 10:55,2026-07-25 21:49,Acesso,Média,Loja Jundiaí,Resolvido,24,10.9,sim
+CH-00663,2026-07-25 10:57,2026-07-25 20:15,Software/Office,Média,RH,Resolvido,24,9.3,sim
+CH-00915,2026-07-25 11:14,,Software/Office,Média,Comercial,Em andamento,24,,
+CH-00318,2026-07-25 11:31,2026-07-25 16:49,Software/Office,Alta,Loja Campinas,Resolvido,8,5.3,sim
+CH-00683,2026-07-25 12:26,2026-07-25 16:38,Hardware,Alta,Loja Jundiaí,Resolvido,8,4.2,sim
+CH-01472,2026-07-25 12:48,2026-07-26 04:18,Hardware,Média,Loja Sul,Resolvido,24,15.5,sim
+CH-01194,2026-07-25 13:38,2026-07-25 15:44,Hardware,Crítica,Comercial,Resolvido,4,2.1,sim
+CH-01222,2026-07-25 14:30,2026-07-26 00:42,Hardware,Crítica,Loja Sul,Resolvido,4,10.2,nao
+CH-00643,2026-07-25 14:55,2026-07-27 12:31,Acesso,Baixa,Loja Jundiaí,Resolvido,72,45.6,sim
+CH-01316,2026-07-25 15:25,2026-07-25 16:49,Acesso,Crítica,Loja Shopping,Resolvido,4,1.4,sim
+CH-00118,2026-07-25 15:58,2026-07-25 21:46,Outros,Média,Fábrica,Resolvido,24,5.8,sim
+CH-00390,2026-07-25 16:01,2026-07-26 08:55,Rede,Alta,Loja Centro,Resolvido,8,16.9,nao
+CH-01481,2026-07-25 16:52,,Software/Office,Baixa,Financeiro,Em andamento,72,,
+CH-01152,2026-07-25 17:00,,Acesso,Média,Loja Shopping,Em andamento,24,,
+CH-00276,2026-07-25 17:08,2026-07-26 10:02,Acesso,Média,Comercial,Resolvido,24,16.9,sim
+CH-01089,2026-07-25 17:48,2026-07-25 21:30,Hardware,Alta,Loja Jundiaí,Resolvido,8,3.7,sim
+CH-01396,2026-07-25 17:51,2026-07-28 13:51,Impressão,Baixa,Loja Campinas,Resolvido,72,68.0,sim
+CH-00411,2026-07-26 08:03,2026-07-27 16:45,Hardware,Baixa,Fábrica,Resolvido,72,32.7,sim
+CH-01015,2026-07-26 08:15,2026-07-27 04:15,Software/Office,Média,Financeiro,Resolvido,24,20.0,sim
+CH-01320,2026-07-26 08:21,2026-07-27 21:21,Impressão,Média,Comercial,Resolvido,24,37.0,nao
+CH-00423,2026-07-26 08:45,2026-07-27 02:39,Impressão,Média,Loja Jundiaí,Resolvido,24,17.9,sim
+CH-01178,2026-07-26 10:22,2026-07-28 15:52,Hardware,Baixa,Comercial,Resolvido,72,53.5,sim
+CH-01244,2026-07-26 10:43,2026-07-26 20:25,Impressão,Média,Loja Centro,Resolvido,24,9.7,sim
+CH-00843,2026-07-26 10:57,2026-07-27 07:33,Hardware,Alta,RH,Resolvido,8,20.6,nao
+CH-01074,2026-07-26 11:58,2026-07-27 08:34,Hardware,Média,Loja Centro,Resolvido,24,20.6,sim
+CH-00335,2026-07-26 12:06,2026-07-31 14:36,Impressão,Baixa,Loja Jundiaí,Resolvido,72,122.5,nao
+CH-00728,2026-07-26 12:26,2026-08-01 16:02,Outros,Baixa,Loja Sul,Resolvido,72,147.6,nao
+CH-00238,2026-07-26 13:07,2026-07-27 02:55,Software/Office,Média,Loja Sul,Resolvido,24,13.8,sim
+CH-01204,2026-07-26 13:41,2026-07-27 06:59,Software/Office,Média,Loja Jundiaí,Resolvido,24,17.3,sim
+CH-00042,2026-07-26 14:21,2026-07-28 21:39,Impressão,Baixa,Loja Centro,Resolvido,72,55.3,sim
+CH-01348,2026-07-26 14:27,2026-07-26 23:03,Acesso,Média,Loja Jundiaí,Resolvido,24,8.6,sim
+CH-00659,2026-07-26 14:29,2026-07-27 08:11,Rede,Média,Loja Jundiaí,Resolvido,24,17.7,sim
+CH-00091,2026-07-26 14:52,2026-07-26 20:10,Hardware,Média,Loja Sul,Resolvido,24,5.3,sim
+CH-00161,2026-07-26 17:08,2026-07-27 14:20,Acesso,Baixa,Loja Sul,Resolvido,72,21.2,sim
+CH-00195,2026-07-26 17:21,2026-07-29 03:39,Hardware,Baixa,Loja Centro,Resolvido,72,58.3,sim
+CH-00943,2026-07-27 08:43,2026-07-28 05:43,Hardware,Baixa,Loja Centro,Resolvido,72,21.0,sim
+CH-00556,2026-07-27 09:10,2026-07-27 22:28,Software/Office,Média,Loja Campinas,Resolvido,24,13.3,sim
+CH-01267,2026-07-27 10:06,2026-08-03 01:54,Outros,Baixa,Expedição,Resolvido,72,159.8,nao
+CH-00861,2026-07-27 10:55,2026-07-28 02:31,Hardware,Média,RH,Resolvido,24,15.6,sim
+CH-00805,2026-07-27 11:37,,Software/Office,Baixa,Fábrica,Aberto,72,,
+CH-01475,2026-07-27 12:01,2026-07-27 22:19,Acesso,Crítica,Fábrica,Resolvido,4,10.3,nao
+CH-00243,2026-07-27 13:15,2026-07-28 05:33,Software/Office,Média,Fábrica,Resolvido,24,16.3,sim
+CH-00134,2026-07-27 14:22,2026-08-01 17:10,Hardware,Baixa,Fábrica,Resolvido,72,122.8,nao
+CH-01341,2026-07-27 15:45,2026-07-29 07:21,Software/Office,Média,Expedição,Resolvido,24,39.6,nao
+CH-01162,2026-07-27 15:52,2026-07-28 01:58,Hardware,Média,Loja Centro,Resolvido,24,10.1,sim
+CH-00159,2026-07-27 16:23,2026-07-30 09:59,Outros,Baixa,Loja Jundiaí,Resolvido,72,65.6,sim
+CH-00312,2026-07-28 08:00,2026-07-29 04:42,Acesso,Alta,Loja Centro,Resolvido,8,20.7,nao
+CH-00897,2026-07-28 08:29,2026-07-28 10:23,Software/Office,Alta,Fábrica,Resolvido,8,1.9,sim
+CH-01195,2026-07-28 08:44,2026-07-28 14:38,Rede,Alta,RH,Resolvido,8,5.9,sim
+CH-00323,2026-07-28 09:19,2026-07-29 05:13,Acesso,Média,Comercial,Resolvido,24,19.9,sim
+CH-00106,2026-07-28 10:10,2026-07-28 21:04,Acesso,Média,Loja Campinas,Resolvido,24,10.9,sim
+CH-00112,2026-07-28 10:40,2026-07-28 23:46,Rede,Baixa,RH,Resolvido,72,13.1,sim
+CH-01099,2026-07-28 10:49,2026-07-29 01:25,Outros,Alta,Loja Centro,Resolvido,8,14.6,nao
+CH-01101,2026-07-28 11:13,,Outros,Crítica,Financeiro,Aberto,4,,
+CH-01360,2026-07-28 12:00,2026-07-28 23:36,Software/Office,Média,Expedição,Resolvido,24,11.6,sim
+CH-00156,2026-07-28 12:16,2026-07-28 19:16,Software/Office,Alta,Loja Jundiaí,Resolvido,8,7.0,sim
+CH-01485,2026-07-28 13:14,2026-07-31 01:38,Hardware,Média,Loja Sul,Resolvido,24,60.4,nao
+CH-00453,2026-07-28 13:24,,Software/Office,Média,Marketing,Aberto,24,,
+CH-00399,2026-07-28 13:41,2026-07-30 19:23,Software/Office,Baixa,Loja Centro,Resolvido,72,53.7,sim
+CH-00875,2026-07-28 13:53,2026-07-29 03:17,Impressão,Média,Loja Centro,Resolvido,24,13.4,sim
+CH-01398,2026-07-28 16:19,2026-07-29 10:25,Rede,Média,Loja Shopping,Resolvido,24,18.1,sim
+CH-00103,2026-07-28 16:24,,Acesso,Alta,Loja Shopping,Em andamento,8,,
+CH-01237,2026-07-28 16:29,2026-07-29 10:53,Hardware,Média,Financeiro,Resolvido,24,18.4,sim
+CH-01033,2026-07-28 16:54,2026-07-29 20:54,Hardware,Baixa,Loja Shopping,Resolvido,72,28.0,sim
+CH-01199,2026-07-28 17:07,2026-07-29 00:13,Impressão,Média,Comercial,Resolvido,24,7.1,sim
+CH-00105,2026-07-29 08:02,2026-07-30 15:26,Software/Office,Baixa,Loja Campinas,Resolvido,72,31.4,sim
+CH-00517,2026-07-29 08:13,2026-07-29 23:55,Acesso,Média,Loja Campinas,Resolvido,24,15.7,sim
+CH-01272,2026-07-29 08:27,2026-07-29 22:03,Software/Office,Média,Loja Jundiaí,Resolvido,24,13.6,sim
+CH-00573,2026-07-29 09:19,2026-07-30 08:07,Impressão,Baixa,Loja Jundiaí,Resolvido,72,22.8,sim
+CH-01008,2026-07-29 09:50,2026-08-01 06:14,Software/Office,Baixa,Loja Sul,Resolvido,72,68.4,sim
+CH-00894,2026-07-29 10:03,,Impressão,Média,Expedição,Em andamento,24,,
+CH-01400,2026-07-29 10:12,2026-07-30 09:18,Hardware,Baixa,Loja Shopping,Resolvido,72,23.1,sim
+CH-00660,2026-07-29 10:20,2026-07-29 16:50,Software/Office,Alta,Loja Shopping,Resolvido,8,6.5,sim
+CH-00436,2026-07-29 10:46,2026-07-31 11:28,Impressão,Baixa,Expedição,Resolvido,72,48.7,sim
+CH-00781,2026-07-29 11:16,2026-07-30 09:16,Impressão,Média,Marketing,Resolvido,24,22.0,sim
+CH-00008,2026-07-29 11:43,2026-07-29 16:25,Acesso,Média,Expedição,Resolvido,24,4.7,sim
+CH-01352,2026-07-29 12:27,2026-07-30 07:45,Acesso,Média,Expedição,Resolvido,24,19.3,sim
+CH-00533,2026-07-29 12:41,2026-08-03 14:23,Software/Office,Baixa,Comercial,Resolvido,72,121.7,nao
+CH-00254,2026-07-29 12:48,2026-07-31 13:54,Impressão,Média,Fábrica,Resolvido,24,49.1,nao
+CH-00731,2026-07-29 13:10,2026-07-29 18:28,Software/Office,Alta,Loja Sul,Resolvido,8,5.3,sim
+CH-01382,2026-07-29 13:50,2026-07-30 16:32,Software/Office,Baixa,Loja Shopping,Resolvido,72,26.7,sim
+CH-00789,2026-07-29 13:51,2026-07-30 21:51,Acesso,Baixa,Loja Shopping,Resolvido,72,32.0,sim
+CH-00543,2026-07-29 13:59,,Software/Office,Média,Loja Sul,Aberto,24,,
+CH-00822,2026-07-29 14:51,2026-07-30 02:27,Rede,Baixa,Fábrica,Resolvido,72,11.6,sim
+CH-00747,2026-07-29 15:14,2026-07-30 11:14,Acesso,Média,Financeiro,Resolvido,24,20.0,sim
+CH-00687,2026-07-29 15:31,2026-07-29 17:01,Rede,Alta,Comercial,Resolvido,8,1.5,sim
+CH-01057,2026-07-29 16:04,2026-07-31 00:58,Software/Office,Baixa,Loja Campinas,Resolvido,72,32.9,sim
+CH-00293,2026-07-29 16:24,2026-07-30 03:24,Hardware,Média,Loja Centro,Resolvido,24,11.0,sim
+CH-00887,2026-07-29 16:39,2026-07-30 04:57,Hardware,Média,Estilo,Resolvido,24,12.3,sim
+CH-00830,2026-07-29 17:54,2026-07-30 00:00,Acesso,Média,Fábrica,Resolvido,24,6.1,sim
+CH-00412,2026-07-30 08:19,2026-07-30 21:55,Acesso,Média,Loja Centro,Resolvido,24,13.6,sim
+CH-00628,2026-07-30 09:29,2026-07-30 15:35,Acesso,Alta,Comercial,Resolvido,8,6.1,sim
+CH-00791,2026-07-30 10:03,2026-07-31 11:51,Impressão,Baixa,Loja Centro,Resolvido,72,25.8,sim
+CH-01489,2026-07-30 10:54,2026-07-30 21:18,Outros,Média,Loja Campinas,Resolvido,24,10.4,sim
+CH-01047,2026-07-30 11:14,2026-07-31 00:38,Impressão,Média,Loja Sul,Resolvido,24,13.4,sim
+CH-01018,2026-07-30 11:45,2026-08-01 21:51,Hardware,Baixa,Estilo,Resolvido,72,58.1,sim
+CH-00302,2026-07-30 12:36,2026-08-02 02:30,Rede,Média,Loja Shopping,Resolvido,24,61.9,nao
+CH-01002,2026-07-30 12:57,2026-07-30 18:57,Acesso,Alta,Loja Jundiaí,Resolvido,8,6.0,sim
+CH-00215,2026-07-30 13:30,2026-08-01 20:18,Rede,Média,Loja Centro,Resolvido,24,54.8,nao
+CH-00640,2026-07-30 14:40,2026-07-31 23:28,Impressão,Baixa,Loja Centro,Resolvido,72,32.8,sim
+CH-01224,2026-07-30 14:44,2026-07-30 16:44,Acesso,Crítica,RH,Resolvido,4,2.0,sim
+CH-00968,2026-07-30 14:59,2026-07-31 03:47,Acesso,Média,Financeiro,Resolvido,24,12.8,sim
+CH-00131,2026-07-30 16:46,2026-07-31 13:28,Acesso,Média,Loja Jundiaí,Resolvido,24,20.7,sim
+CH-01039,2026-07-31 09:12,2026-07-31 11:06,Software/Office,Crítica,Expedição,Resolvido,4,1.9,sim
+CH-00187,2026-07-31 09:51,2026-07-31 22:15,Hardware,Alta,Loja Centro,Resolvido,8,12.4,nao
+CH-00440,2026-07-31 10:32,2026-08-02 14:14,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,51.7,sim
+CH-01090,2026-07-31 12:58,2026-08-01 12:52,Acesso,Baixa,Loja Campinas,Resolvido,72,23.9,sim
+CH-01311,2026-07-31 13:19,2026-07-31 18:25,Rede,Média,RH,Resolvido,24,5.1,sim
+CH-00715,2026-07-31 13:22,2026-08-01 11:40,Acesso,Média,Loja Centro,Resolvido,24,22.3,sim
+CH-01478,2026-07-31 13:51,2026-08-01 21:39,Impressão,Baixa,RH,Resolvido,72,31.8,sim
+CH-01412,2026-07-31 13:54,2026-07-31 19:54,Software/Office,Alta,RH,Resolvido,8,6.0,sim
+CH-01484,2026-07-31 15:27,2026-08-08 09:09,Acesso,Baixa,Financeiro,Resolvido,72,185.7,nao
+CH-00669,2026-07-31 15:30,2026-08-02 21:48,Rede,Média,Loja Jundiaí,Resolvido,24,54.3,nao
+CH-00296,2026-07-31 15:31,2026-08-01 10:25,Software/Office,Média,Loja Sul,Resolvido,24,18.9,sim
+CH-00836,2026-07-31 15:51,2026-08-01 21:09,Software/Office,Média,Fábrica,Resolvido,24,29.3,nao
+CH-00246,2026-07-31 15:58,2026-08-02 02:46,Acesso,Baixa,Loja Shopping,Resolvido,72,34.8,sim
+CH-00838,2026-07-31 16:31,2026-08-01 08:31,Hardware,Média,Financeiro,Resolvido,24,16.0,sim
+CH-00914,2026-07-31 16:44,2026-08-02 11:32,Rede,Média,Loja Centro,Resolvido,24,42.8,nao
+CH-00327,2026-07-31 17:40,2026-08-01 04:10,Software/Office,Média,Loja Jundiaí,Resolvido,24,10.5,sim
+CH-00162,2026-08-01 08:26,2026-08-02 06:38,Software/Office,Média,Expedição,Resolvido,24,22.2,sim
+CH-00225,2026-08-01 08:47,2026-08-03 10:23,Rede,Baixa,Fábrica,Resolvido,72,49.6,sim
+CH-00595,2026-08-01 09:11,2026-08-07 18:29,Hardware,Baixa,Loja Campinas,Resolvido,72,153.3,nao
+CH-00480,2026-08-01 09:42,2026-08-02 03:00,Hardware,Alta,Loja Shopping,Resolvido,8,17.3,nao
+CH-00219,2026-08-01 09:43,2026-08-01 12:07,Software/Office,Crítica,Loja Campinas,Resolvido,4,2.4,sim
+CH-00422,2026-08-01 10:30,,Software/Office,Baixa,Expedição,Aberto,72,,
+CH-00181,2026-08-01 10:44,2026-08-02 04:20,Rede,Média,Loja Campinas,Resolvido,24,17.6,sim
+CH-00794,2026-08-01 11:26,2026-08-01 12:50,Hardware,Alta,Comercial,Resolvido,8,1.4,sim
+CH-00311,2026-08-01 11:27,2026-08-01 12:03,Software/Office,Crítica,Fábrica,Resolvido,4,0.6,sim
+CH-00483,2026-08-01 12:05,2026-08-02 00:47,Software/Office,Média,Loja Jundiaí,Resolvido,24,12.7,sim
+CH-00615,2026-08-01 13:35,2026-08-03 15:53,Software/Office,Baixa,Loja Shopping,Resolvido,72,50.3,sim
+CH-00819,2026-08-01 15:39,2026-08-04 07:21,Acesso,Baixa,Loja Shopping,Resolvido,72,63.7,sim
+CH-00170,2026-08-01 16:27,2026-08-02 20:33,Rede,Baixa,Fábrica,Resolvido,72,28.1,sim
+CH-00077,2026-08-01 16:38,2026-08-01 19:02,Hardware,Alta,Loja Sul,Resolvido,8,2.4,sim
+CH-00991,2026-08-01 16:54,2026-08-02 18:36,Rede,Baixa,RH,Resolvido,72,25.7,sim
+CH-01295,2026-08-01 17:48,2026-08-02 02:12,Hardware,Média,Loja Sul,Resolvido,24,8.4,sim
+CH-00958,2026-08-01 17:55,2026-08-02 06:01,Software/Office,Média,Financeiro,Resolvido,24,12.1,sim
+CH-00702,2026-08-02 08:32,,Software/Office,Alta,Expedição,Em andamento,8,,
+CH-00548,2026-08-02 08:39,2026-08-03 09:15,Acesso,Baixa,Loja Sul,Resolvido,72,24.6,sim
+CH-00539,2026-08-02 09:33,2026-08-03 18:45,Rede,Baixa,Loja Centro,Resolvido,72,33.2,sim
+CH-00776,2026-08-02 09:33,2026-08-02 15:45,Software/Office,Alta,Loja Jundiaí,Resolvido,8,6.2,sim
+CH-00326,2026-08-02 09:49,,Rede,Baixa,Expedição,Em andamento,72,,
+CH-00698,2026-08-02 11:08,2026-08-03 09:56,Rede,Média,Loja Jundiaí,Resolvido,24,22.8,sim
+CH-00993,2026-08-02 12:03,2026-08-02 23:09,Hardware,Média,Loja Campinas,Resolvido,24,11.1,sim
+CH-01460,2026-08-02 12:40,2026-08-04 23:40,Hardware,Baixa,Comercial,Resolvido,72,59.0,sim
+CH-00132,2026-08-02 13:27,2026-08-05 07:09,Acesso,Baixa,Loja Campinas,Resolvido,72,65.7,sim
+CH-00363,2026-08-02 13:28,2026-08-04 16:10,Outros,Baixa,Financeiro,Resolvido,72,50.7,sim
+CH-00965,2026-08-02 13:31,2026-08-02 15:25,Impressão,Crítica,Comercial,Resolvido,4,1.9,sim
+CH-00649,2026-08-02 14:22,,Acesso,Média,Loja Sul,Em andamento,24,,
+CH-01066,2026-08-02 14:23,2026-08-03 03:29,Impressão,Média,Loja Campinas,Resolvido,24,13.1,sim
+CH-01186,2026-08-02 14:37,,Outros,Baixa,Loja Centro,Em andamento,72,,
+CH-01176,2026-08-02 16:16,2026-08-04 05:28,Rede,Baixa,Loja Campinas,Resolvido,72,37.2,sim
+CH-00540,2026-08-02 16:33,2026-08-03 20:33,Outros,Baixa,Loja Centro,Resolvido,72,28.0,sim
+CH-00439,2026-08-02 16:40,2026-08-03 09:58,Impressão,Média,Loja Shopping,Resolvido,24,17.3,sim
+CH-00859,2026-08-03 08:07,2026-08-03 12:37,Rede,Média,Loja Centro,Resolvido,24,4.5,sim
+CH-01221,2026-08-03 09:56,2026-08-03 21:44,Rede,Alta,Loja Campinas,Resolvido,8,11.8,nao
+CH-00457,2026-08-03 10:01,2026-08-03 15:19,Software/Office,Média,Marketing,Resolvido,24,5.3,sim
+CH-00147,2026-08-03 11:21,2026-08-03 16:39,Acesso,Alta,Expedição,Resolvido,8,5.3,sim
+CH-00905,2026-08-03 11:25,2026-08-08 07:31,Software/Office,Baixa,Loja Shopping,Resolvido,72,116.1,nao
+CH-00330,2026-08-03 14:14,2026-08-04 07:38,Impressão,Média,Expedição,Resolvido,24,17.4,sim
+CH-01373,2026-08-03 14:35,2026-08-03 21:35,Acesso,Alta,Loja Campinas,Resolvido,8,7.0,sim
+CH-01030,2026-08-03 14:44,2026-08-04 13:26,Acesso,Média,Expedição,Resolvido,24,22.7,sim
+CH-00723,2026-08-03 14:51,2026-08-03 20:45,Acesso,Alta,Expedição,Resolvido,8,5.9,sim
+CH-00818,2026-08-03 15:11,2026-08-06 23:53,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,80.7,nao
+CH-01200,2026-08-03 16:12,2026-08-04 08:36,Software/Office,Média,Loja Centro,Resolvido,24,16.4,sim
+CH-00656,2026-08-03 16:14,2026-08-04 04:56,Hardware,Média,Loja Shopping,Resolvido,24,12.7,sim
+CH-01028,2026-08-03 16:59,2026-08-04 13:17,Outros,Alta,Loja Jundiaí,Resolvido,8,20.3,nao
+CH-00235,2026-08-03 17:04,2026-08-03 21:52,Software/Office,Média,Comercial,Resolvido,24,4.8,sim
+CH-00489,2026-08-03 17:06,2026-08-04 11:24,Software/Office,Média,Fábrica,Resolvido,24,18.3,sim
+CH-01051,2026-08-03 17:33,2026-08-04 02:27,Hardware,Média,Comercial,Resolvido,24,8.9,sim
+CH-00373,2026-08-04 09:05,2026-08-06 01:41,Rede,Média,Loja Jundiaí,Resolvido,24,40.6,nao
+CH-00290,2026-08-04 09:36,2026-08-08 10:06,Acesso,Baixa,Loja Centro,Resolvido,72,96.5,nao
+CH-01380,2026-08-04 09:46,2026-08-04 19:52,Hardware,Média,Comercial,Resolvido,24,10.1,sim
+CH-00003,2026-08-04 10:44,2026-08-04 18:26,Acesso,Média,Comercial,Resolvido,24,7.7,sim
+CH-00982,2026-08-04 11:23,2026-08-05 07:41,Hardware,Média,Marketing,Resolvido,24,20.3,sim
+CH-00039,2026-08-04 11:55,2026-08-05 08:55,Acesso,Baixa,Estilo,Resolvido,72,21.0,sim
+CH-00783,2026-08-04 12:13,2026-08-05 00:13,Impressão,Média,Marketing,Resolvido,24,12.0,sim
+CH-00013,2026-08-04 13:07,2026-08-04 14:19,Software/Office,Alta,Expedição,Resolvido,8,1.2,sim
+CH-01457,2026-08-04 13:56,2026-08-05 03:02,Software/Office,Alta,Expedição,Resolvido,8,13.1,nao
+CH-00940,2026-08-04 14:21,2026-08-05 03:39,Acesso,Alta,Financeiro,Resolvido,8,13.3,nao
+CH-01209,2026-08-04 14:59,2026-08-04 16:53,Impressão,Alta,Expedição,Resolvido,8,1.9,sim
+CH-00650,2026-08-04 17:16,2026-08-04 18:22,Rede,Crítica,Expedição,Resolvido,4,1.1,sim
+CH-00525,2026-08-05 09:06,2026-08-05 11:48,Acesso,Crítica,Loja Campinas,Resolvido,4,2.7,sim
+CH-00404,2026-08-05 10:36,2026-08-05 13:36,Software/Office,Crítica,Loja Shopping,Resolvido,4,3.0,sim
+CH-00017,2026-08-05 10:42,2026-08-05 13:36,Acesso,Alta,RH,Resolvido,8,2.9,sim
+CH-00083,2026-08-05 11:16,2026-08-06 08:04,Hardware,Baixa,Loja Jundiaí,Resolvido,72,20.8,sim
+CH-00939,2026-08-05 13:26,2026-08-05 17:50,Outros,Alta,Loja Jundiaí,Resolvido,8,4.4,sim
+CH-00304,2026-08-05 14:31,2026-08-07 13:31,Rede,Baixa,Comercial,Resolvido,72,47.0,sim
+CH-00305,2026-08-05 14:32,2026-08-05 21:20,Rede,Alta,Comercial,Resolvido,8,6.8,sim
+CH-00201,2026-08-05 15:32,2026-08-07 11:14,Rede,Média,Loja Shopping,Resolvido,24,43.7,nao
+CH-01100,2026-08-05 15:50,2026-08-06 07:26,Outros,Média,Loja Sul,Resolvido,24,15.6,sim
+CH-00686,2026-08-05 16:32,2026-08-05 21:56,Acesso,Alta,Loja Shopping,Resolvido,8,5.4,sim
+CH-00199,2026-08-05 16:35,2026-08-05 22:35,Outros,Média,Loja Campinas,Resolvido,24,6.0,sim
+CH-00014,2026-08-05 16:58,2026-08-08 04:16,Software/Office,Baixa,Estilo,Resolvido,72,59.3,sim
+CH-00911,2026-08-05 17:12,2026-08-05 23:42,Acesso,Média,Expedição,Resolvido,24,6.5,sim
+CH-00751,2026-08-05 17:17,2026-08-08 05:35,Acesso,Média,RH,Resolvido,24,60.3,nao
+CH-00229,2026-08-06 09:40,,Software/Office,Baixa,Expedição,Em andamento,72,,
+CH-00900,2026-08-06 10:30,2026-08-06 21:12,Software/Office,Média,Expedição,Resolvido,24,10.7,sim
+CH-01070,2026-08-06 12:09,,Impressão,Baixa,Loja Jundiaí,Aberto,72,,
+CH-00332,2026-08-06 12:20,2026-08-07 20:20,Acesso,Baixa,Comercial,Resolvido,72,32.0,sim
+CH-00269,2026-08-06 12:51,2026-08-06 21:33,Hardware,Média,Loja Campinas,Resolvido,24,8.7,sim
+CH-00974,2026-08-06 14:33,2026-08-07 02:27,Hardware,Média,Loja Jundiaí,Resolvido,24,11.9,sim
+CH-01126,2026-08-06 16:24,2026-08-14 06:06,Software/Office,Baixa,Loja Centro,Resolvido,72,181.7,nao
+CH-00127,2026-08-06 16:37,2026-08-09 09:55,Acesso,Baixa,Loja Sul,Resolvido,72,65.3,sim
+CH-00584,2026-08-06 17:58,2026-08-07 07:46,Impressão,Média,Expedição,Resolvido,24,13.8,sim
+CH-00303,2026-08-07 08:17,2026-08-07 14:59,Software/Office,Alta,Marketing,Resolvido,8,6.7,sim
+CH-00675,2026-08-07 08:25,2026-08-07 16:43,Outros,Crítica,Loja Jundiaí,Resolvido,4,8.3,nao
+CH-00026,2026-08-07 12:27,2026-08-08 07:03,Hardware,Média,Expedição,Resolvido,24,18.6,sim
+CH-00460,2026-08-07 12:38,2026-08-09 00:38,Hardware,Baixa,Loja Jundiaí,Resolvido,72,36.0,sim
+CH-01135,2026-08-07 12:42,2026-08-07 19:06,Acesso,Média,RH,Resolvido,24,6.4,sim
+CH-01243,2026-08-07 12:55,2026-08-07 19:55,Outros,Média,Loja Centro,Resolvido,24,7.0,sim
+CH-00902,2026-08-07 13:12,2026-08-07 20:42,Hardware,Alta,Expedição,Resolvido,8,7.5,sim
+CH-00564,2026-08-07 13:22,2026-08-10 05:46,Hardware,Baixa,Loja Campinas,Resolvido,72,64.4,sim
+CH-00685,2026-08-07 13:26,2026-08-08 07:02,Acesso,Baixa,Fábrica,Resolvido,72,17.6,sim
+CH-00922,2026-08-07 14:25,2026-08-07 18:13,Hardware,Média,Comercial,Resolvido,24,3.8,sim
+CH-00040,2026-08-07 14:51,2026-08-07 17:39,Acesso,Alta,Expedição,Resolvido,8,2.8,sim
+CH-00371,2026-08-07 15:31,,Outros,Média,Loja Jundiaí,Em andamento,24,,
+CH-00498,2026-08-07 16:33,2026-08-08 09:03,Impressão,Média,Loja Centro,Resolvido,24,16.5,sim
+CH-01480,2026-08-07 16:45,2026-08-07 23:09,Acesso,Alta,Estilo,Resolvido,8,6.4,sim
+CH-00896,2026-08-07 17:00,2026-08-08 04:48,Software/Office,Média,Comercial,Resolvido,24,11.8,sim
+CH-00085,2026-08-07 17:42,2026-08-07 23:30,Acesso,Média,Expedição,Resolvido,24,5.8,sim
+CH-01448,2026-08-07 17:55,2026-08-09 11:25,Hardware,Baixa,Loja Sul,Resolvido,72,41.5,sim
+CH-00899,2026-08-08 08:08,2026-08-09 06:08,Software/Office,Média,Loja Centro,Resolvido,24,22.0,sim
+CH-01498,2026-08-08 08:22,2026-08-13 17:34,Hardware,Baixa,Loja Sul,Resolvido,72,129.2,nao
+CH-00352,2026-08-08 08:48,,Rede,Média,Loja Sul,Aberto,24,,
+CH-00597,2026-08-08 09:05,2026-08-08 19:41,Rede,Média,Expedição,Resolvido,24,10.6,sim
+CH-00544,2026-08-08 10:31,2026-08-10 17:01,Hardware,Média,Financeiro,Resolvido,24,54.5,nao
+CH-01325,2026-08-08 11:40,2026-08-10 16:10,Software/Office,Baixa,RH,Resolvido,72,52.5,sim
+CH-00189,2026-08-08 11:50,2026-08-08 16:44,Rede,Alta,Estilo,Resolvido,8,4.9,sim
+CH-00674,2026-08-08 12:31,2026-08-09 02:31,Outros,Alta,Loja Campinas,Resolvido,8,14.0,nao
+CH-00784,2026-08-08 12:55,2026-08-10 04:01,Rede,Baixa,Fábrica,Resolvido,72,39.1,sim
+CH-01226,2026-08-08 17:02,,Rede,Baixa,Expedição,Aberto,72,,
+CH-00068,2026-08-08 17:50,2026-08-09 10:08,Rede,Média,Comercial,Resolvido,24,16.3,sim
+CH-00391,2026-08-09 11:16,2026-08-10 04:28,Acesso,Alta,Loja Centro,Resolvido,8,17.2,nao
+CH-01081,2026-08-09 11:24,2026-08-11 04:54,Acesso,Baixa,Loja Shopping,Resolvido,72,41.5,sim
+CH-00060,2026-08-09 11:31,2026-08-09 15:43,Impressão,Média,Financeiro,Resolvido,24,4.2,sim
+CH-01461,2026-08-09 11:37,2026-08-09 17:07,Outros,Alta,Loja Jundiaí,Resolvido,8,5.5,sim
+CH-00116,2026-08-09 13:05,2026-08-11 06:47,Software/Office,Baixa,Marketing,Resolvido,72,41.7,sim
+CH-00356,2026-08-09 13:45,2026-08-11 23:15,Acesso,Média,Fábrica,Resolvido,24,57.5,nao
+CH-01471,2026-08-09 13:48,2026-08-10 01:30,Rede,Baixa,Loja Shopping,Resolvido,72,11.7,sim
+CH-01465,2026-08-09 14:42,,Impressão,Crítica,Loja Campinas,Aberto,4,,
+CH-01428,2026-08-09 14:54,2026-08-10 00:30,Hardware,Média,Loja Jundiaí,Resolvido,24,9.6,sim
+CH-00115,2026-08-09 15:04,2026-08-12 00:16,Outros,Média,Expedição,Resolvido,24,57.2,nao
+CH-01391,2026-08-09 15:36,2026-08-10 10:30,Impressão,Média,Loja Jundiaí,Resolvido,24,18.9,sim
+CH-01464,2026-08-10 08:22,2026-08-11 21:40,Software/Office,Baixa,Fábrica,Resolvido,72,37.3,sim
+CH-00287,2026-08-10 09:01,2026-08-11 01:37,Software/Office,Média,Loja Shopping,Resolvido,24,16.6,sim
+CH-01038,2026-08-10 09:28,2026-08-10 15:46,Rede,Média,Loja Centro,Resolvido,24,6.3,sim
+CH-00999,2026-08-10 10:01,2026-08-12 11:49,Impressão,Baixa,Loja Shopping,Resolvido,72,49.8,sim
+CH-00580,2026-08-10 12:56,2026-08-18 07:02,Rede,Baixa,Loja Sul,Resolvido,72,186.1,nao
+CH-00924,2026-08-10 13:50,2026-08-12 07:02,Software/Office,Média,Loja Sul,Resolvido,24,41.2,nao
+CH-01281,2026-08-10 14:25,2026-08-11 03:19,Rede,Média,Loja Campinas,Resolvido,24,12.9,sim
+CH-01187,2026-08-10 14:27,2026-08-13 00:51,Hardware,Média,Loja Shopping,Resolvido,24,58.4,nao
+CH-01310,2026-08-10 14:42,2026-08-12 21:18,Hardware,Baixa,Loja Jundiaí,Resolvido,72,54.6,sim
+CH-00846,2026-08-10 14:49,2026-08-10 19:07,Software/Office,Média,Loja Shopping,Resolvido,24,4.3,sim
+CH-01274,2026-08-10 15:18,2026-08-10 20:36,Software/Office,Média,Loja Centro,Resolvido,24,5.3,sim
+CH-01351,2026-08-10 15:27,2026-08-10 21:21,Impressão,Média,Loja Centro,Resolvido,24,5.9,sim
+CH-01444,2026-08-10 15:49,2026-08-12 17:07,Rede,Baixa,Loja Centro,Resolvido,72,49.3,sim
+CH-00033,2026-08-10 16:00,2026-08-11 13:30,Acesso,Média,Estilo,Resolvido,24,21.5,sim
+CH-00934,2026-08-10 16:21,,Hardware,Alta,Loja Campinas,Em andamento,8,,
+CH-01223,2026-08-10 16:38,2026-08-10 19:38,Hardware,Crítica,RH,Resolvido,4,3.0,sim
+CH-01240,2026-08-10 17:00,2026-08-11 02:48,Rede,Média,RH,Resolvido,24,9.8,sim
+CH-00780,2026-08-11 08:41,,Impressão,Média,Financeiro,Aberto,24,,
+CH-01063,2026-08-11 11:46,,Rede,Crítica,Comercial,Aberto,4,,
+CH-00066,2026-08-11 12:06,2026-08-17 08:00,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,139.9,nao
+CH-00995,2026-08-11 12:53,2026-08-12 08:11,Hardware,Baixa,Loja Shopping,Resolvido,72,19.3,sim
+CH-00591,2026-08-11 13:25,2026-08-13 10:25,Acesso,Baixa,Fábrica,Resolvido,72,45.0,sim
+CH-00730,2026-08-11 13:32,2026-08-11 22:08,Rede,Média,Estilo,Resolvido,24,8.6,sim
+CH-00298,2026-08-11 13:34,2026-08-11 19:22,Hardware,Alta,RH,Resolvido,8,5.8,sim
+CH-01077,2026-08-11 13:56,2026-08-13 15:44,Hardware,Média,Loja Shopping,Resolvido,24,49.8,nao
+CH-01022,2026-08-11 15:06,2026-08-14 03:42,Hardware,Baixa,Loja Shopping,Resolvido,72,60.6,sim
+CH-00654,2026-08-11 15:48,,Outros,Baixa,Fábrica,Em andamento,72,,
+CH-00627,2026-08-11 16:05,,Software/Office,Média,Loja Shopping,Em andamento,24,,
+CH-01129,2026-08-11 17:20,2026-08-12 14:02,Hardware,Alta,Loja Campinas,Resolvido,8,20.7,nao
+CH-01344,2026-08-11 17:38,2026-08-13 18:50,Software/Office,Média,Loja Shopping,Resolvido,24,49.2,nao
+CH-00636,2026-08-11 17:57,2026-08-13 23:21,Acesso,Média,Loja Jundiaí,Resolvido,24,53.4,nao
+CH-00996,2026-08-12 08:38,2026-08-14 11:08,Rede,Baixa,Comercial,Resolvido,72,50.5,sim
+CH-01207,2026-08-12 09:02,2026-08-12 17:02,Software/Office,Média,Fábrica,Resolvido,24,8.0,sim
+CH-01184,2026-08-12 09:03,2026-08-12 19:27,Rede,Média,Loja Centro,Resolvido,24,10.4,sim
+CH-00538,2026-08-12 09:49,2026-08-15 04:49,Hardware,Baixa,Comercial,Resolvido,72,67.0,sim
+CH-00908,2026-08-12 10:24,2026-08-14 00:12,Hardware,Média,Loja Jundiaí,Resolvido,24,37.8,nao
+CH-00947,2026-08-12 10:46,2026-08-13 03:46,Rede,Baixa,Comercial,Resolvido,72,17.0,sim
+CH-00299,2026-08-12 11:19,2026-08-13 13:13,Acesso,Baixa,Loja Jundiaí,Resolvido,72,25.9,sim
+CH-00414,2026-08-12 11:22,2026-08-12 15:46,Acesso,Média,RH,Resolvido,24,4.4,sim
+CH-00618,2026-08-12 12:13,2026-08-13 20:37,Hardware,Baixa,Loja Campinas,Resolvido,72,32.4,sim
+CH-00881,2026-08-12 13:24,2026-08-13 06:24,Software/Office,Média,Comercial,Resolvido,24,17.0,sim
+CH-01404,2026-08-12 13:28,2026-08-13 07:40,Rede,Média,Financeiro,Resolvido,24,18.2,sim
+CH-00558,2026-08-12 13:38,2026-08-13 00:26,Impressão,Média,Fábrica,Resolvido,24,10.8,sim
+CH-01497,2026-08-12 15:07,2026-08-12 23:25,Rede,Média,Fábrica,Resolvido,24,8.3,sim
+CH-00055,2026-08-12 16:28,,Software/Office,Baixa,Loja Sul,Em andamento,72,,
+CH-00208,2026-08-12 16:31,2026-08-13 11:49,Software/Office,Média,Loja Shopping,Resolvido,24,19.3,sim
+CH-00486,2026-08-12 17:06,2026-08-18 15:36,Acesso,Baixa,Financeiro,Resolvido,72,142.5,nao
+CH-01362,2026-08-12 17:26,2026-08-13 04:32,Hardware,Média,Financeiro,Resolvido,24,11.1,sim
+CH-00365,2026-08-12 17:41,2026-08-13 05:59,Impressão,Média,Loja Campinas,Resolvido,24,12.3,sim
+CH-01289,2026-08-12 17:58,2026-08-13 12:46,Software/Office,Média,Loja Jundiaí,Resolvido,24,18.8,sim
+CH-00443,2026-08-13 12:13,2026-08-14 07:25,Hardware,Média,Loja Centro,Resolvido,24,19.2,sim
+CH-00477,2026-08-13 12:37,2026-08-14 04:49,Software/Office,Média,Comercial,Resolvido,24,16.2,sim
+CH-00831,2026-08-13 13:50,2026-08-17 11:32,Rede,Baixa,Marketing,Resolvido,72,93.7,nao
+CH-01137,2026-08-13 14:06,2026-08-13 19:06,Hardware,Média,Loja Shopping,Resolvido,24,5.0,sim
+CH-01329,2026-08-13 14:09,2026-08-15 17:21,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,51.2,sim
+CH-01175,2026-08-13 16:32,2026-08-13 21:56,Software/Office,Média,Estilo,Resolvido,24,5.4,sim
+CH-00724,2026-08-13 17:05,2026-08-16 12:47,Impressão,Baixa,Loja Campinas,Resolvido,72,67.7,sim
+CH-00434,2026-08-13 17:07,2026-08-14 09:19,Hardware,Média,Expedição,Resolvido,24,16.2,sim
+CH-00898,2026-08-13 17:08,2026-08-15 04:14,Hardware,Baixa,Fábrica,Resolvido,72,35.1,sim
+CH-00662,2026-08-13 17:40,2026-08-17 06:52,Hardware,Baixa,Fábrica,Resolvido,72,85.2,nao
+CH-00261,2026-08-14 08:05,2026-08-14 12:17,Outros,Alta,Financeiro,Resolvido,8,4.2,sim
+CH-00765,2026-08-14 09:53,2026-08-14 18:35,Rede,Média,Loja Sul,Resolvido,24,8.7,sim
+CH-00998,2026-08-14 11:44,2026-08-15 05:44,Software/Office,Alta,Financeiro,Resolvido,8,18.0,nao
+CH-00849,2026-08-14 12:40,2026-08-15 06:46,Acesso,Média,Financeiro,Resolvido,24,18.1,sim
+CH-01340,2026-08-14 13:00,2026-08-15 01:36,Hardware,Média,Financeiro,Resolvido,24,12.6,sim
+CH-00043,2026-08-14 13:01,2026-08-15 20:49,Rede,Média,Financeiro,Resolvido,24,31.8,nao
+CH-00262,2026-08-14 13:36,,Software/Office,Baixa,Loja Jundiaí,Aberto,72,,
+CH-00826,2026-08-14 14:26,2026-08-15 05:26,Acesso,Média,Loja Jundiaí,Resolvido,24,15.0,sim
+CH-00788,2026-08-14 14:50,,Outros,Baixa,RH,Em andamento,72,,
+CH-00183,2026-08-14 15:02,2026-08-14 20:20,Software/Office,Alta,Loja Jundiaí,Resolvido,8,5.3,sim
+CH-01092,2026-08-14 15:30,2026-08-17 01:54,Hardware,Baixa,Fábrica,Resolvido,72,58.4,sim
+CH-00925,2026-08-15 08:23,2026-08-16 20:59,Outros,Média,Loja Campinas,Resolvido,24,36.6,nao
+CH-00565,2026-08-15 08:40,2026-08-16 13:04,Hardware,Baixa,RH,Resolvido,72,28.4,sim
+CH-00024,2026-08-15 09:03,2026-08-15 10:21,Impressão,Alta,Comercial,Resolvido,8,1.3,sim
+CH-01407,2026-08-15 09:04,2026-08-15 13:22,Hardware,Alta,Loja Sul,Resolvido,8,4.3,sim
+CH-00109,2026-08-15 09:15,2026-08-15 18:33,Acesso,Média,Estilo,Resolvido,24,9.3,sim
+CH-00071,2026-08-15 09:17,,Acesso,Baixa,Loja Shopping,Aberto,72,,
+CH-00572,2026-08-15 09:47,2026-08-17 21:29,Hardware,Média,RH,Resolvido,24,59.7,nao
+CH-01124,2026-08-15 09:51,2026-08-15 13:45,Rede,Média,Expedição,Resolvido,24,3.9,sim
+CH-00951,2026-08-15 10:16,,Hardware,Média,Estilo,Em andamento,24,,
+CH-00738,2026-08-15 10:44,2026-08-16 05:02,Hardware,Baixa,Loja Centro,Resolvido,72,18.3,sim
+CH-01196,2026-08-15 12:40,2026-08-15 21:10,Acesso,Alta,Financeiro,Resolvido,8,8.5,nao
+CH-00392,2026-08-15 15:16,2026-08-16 04:52,Software/Office,Média,Expedição,Resolvido,24,13.6,sim
+CH-00378,2026-08-15 16:29,,Hardware,Média,Fábrica,Aberto,24,,
+CH-01402,2026-08-15 17:42,2026-08-23 10:48,Hardware,Baixa,RH,Resolvido,72,185.1,nao
+CH-00272,2026-08-16 08:18,2026-08-17 01:48,Acesso,Média,RH,Resolvido,24,17.5,sim
+CH-00092,2026-08-16 08:42,2026-08-16 10:12,Rede,Alta,RH,Resolvido,8,1.5,sim
+CH-00022,2026-08-16 08:43,2026-08-16 13:31,Software/Office,Média,Loja Campinas,Resolvido,24,4.8,sim
+CH-00652,2026-08-16 08:47,2026-08-16 13:47,Rede,Alta,Loja Shopping,Resolvido,8,5.0,sim
+CH-00178,2026-08-16 08:55,2026-08-17 03:49,Hardware,Média,Loja Shopping,Resolvido,24,18.9,sim
+CH-00621,2026-08-16 09:00,2026-08-16 12:18,Hardware,Crítica,Loja Campinas,Resolvido,4,3.3,sim
+CH-00383,2026-08-16 09:55,2026-08-17 03:49,Software/Office,Média,Comercial,Resolvido,24,17.9,sim
+CH-01285,2026-08-16 11:18,2026-08-16 23:48,Hardware,Alta,Loja Sul,Resolvido,8,12.5,nao
+CH-00823,2026-08-16 11:30,2026-08-16 13:30,Hardware,Crítica,Estilo,Resolvido,4,2.0,sim
+CH-01317,2026-08-16 15:38,2026-08-18 05:44,Software/Office,Baixa,Comercial,Resolvido,72,38.1,sim
+CH-00444,2026-08-16 16:24,2026-08-19 01:12,Hardware,Baixa,Financeiro,Resolvido,72,56.8,sim
+CH-00291,2026-08-16 16:40,2026-08-17 03:46,Rede,Média,Loja Shopping,Resolvido,24,11.1,sim
+CH-01159,2026-08-16 17:56,2026-08-18 18:50,Hardware,Média,Loja Jundiaí,Resolvido,24,48.9,nao
+CH-00306,2026-08-17 09:46,,Acesso,Média,Fábrica,Em andamento,24,,
+CH-01084,2026-08-17 10:18,2026-08-19 08:00,Hardware,Média,Comercial,Resolvido,24,45.7,nao
+CH-00932,2026-08-17 10:55,2026-08-17 16:37,Acesso,Alta,Marketing,Resolvido,8,5.7,sim
+CH-00923,2026-08-17 11:14,2026-08-18 11:32,Software/Office,Baixa,Marketing,Resolvido,72,24.3,sim
+CH-01217,2026-08-17 12:04,2026-08-19 04:40,Rede,Baixa,Loja Jundiaí,Resolvido,72,40.6,sim
+CH-01258,2026-08-17 14:01,2026-08-18 20:07,Software/Office,Média,Loja Jundiaí,Resolvido,24,30.1,nao
+CH-00281,2026-08-17 14:34,2026-08-19 17:52,Software/Office,Média,Expedição,Resolvido,24,51.3,nao
+CH-00782,2026-08-17 15:24,2026-08-25 02:30,Rede,Baixa,Loja Jundiaí,Resolvido,72,179.1,nao
+CH-01387,2026-08-17 15:41,2026-08-17 22:41,Impressão,Média,Loja Campinas,Resolvido,24,7.0,sim
+CH-00700,2026-08-17 15:45,2026-08-21 03:15,Hardware,Baixa,Loja Centro,Resolvido,72,83.5,nao
+CH-01064,2026-08-17 17:06,2026-08-17 20:42,Rede,Crítica,Fábrica,Resolvido,4,3.6,sim
+CH-00880,2026-08-18 09:34,2026-08-20 11:46,Acesso,Média,Loja Jundiaí,Resolvido,24,50.2,nao
+CH-00310,2026-08-18 09:41,2026-08-19 02:05,Impressão,Média,Expedição,Resolvido,24,16.4,sim
+CH-01180,2026-08-18 10:16,,Acesso,Baixa,Estilo,Em andamento,72,,
+CH-00398,2026-08-18 10:18,2026-08-19 12:00,Acesso,Baixa,Comercial,Resolvido,72,25.7,sim
+CH-01446,2026-08-18 12:28,2026-08-19 16:46,Hardware,Média,Loja Shopping,Resolvido,24,28.3,nao
+CH-00220,2026-08-18 15:41,2026-08-20 04:47,Impressão,Média,Marketing,Resolvido,24,37.1,nao
+CH-00424,2026-08-18 16:33,2026-08-18 20:33,Software/Office,Alta,Marketing,Resolvido,8,4.0,sim
+CH-01185,2026-08-18 16:42,,Impressão,Crítica,Loja Jundiaí,Aberto,4,,
+CH-01394,2026-08-19 08:20,2026-08-19 21:08,Software/Office,Média,Loja Jundiaí,Resolvido,24,12.8,sim
+CH-00167,2026-08-19 08:26,2026-08-20 08:50,Hardware,Baixa,Comercial,Resolvido,72,24.4,sim
+CH-00190,2026-08-19 09:19,2026-08-20 23:43,Acesso,Baixa,Loja Jundiaí,Resolvido,72,38.4,sim
+CH-00140,2026-08-19 10:10,2026-08-20 01:40,Rede,Baixa,Fábrica,Resolvido,72,15.5,sim
+CH-00907,2026-08-19 10:21,2026-08-19 12:51,Hardware,Alta,Loja Centro,Resolvido,8,2.5,sim
+CH-01339,2026-08-19 12:19,2026-08-19 13:37,Hardware,Crítica,Loja Centro,Resolvido,4,1.3,sim
+CH-00602,2026-08-19 12:39,2026-08-20 21:33,Acesso,Média,Loja Jundiaí,Resolvido,24,32.9,nao
+CH-00372,2026-08-19 13:11,2026-08-20 01:41,Hardware,Média,Loja Centro,Resolvido,24,12.5,sim
+CH-01170,2026-08-19 14:25,2026-08-20 09:49,Rede,Média,Loja Shopping,Resolvido,24,19.4,sim
+CH-01356,2026-08-19 14:32,,Hardware,Baixa,Fábrica,Aberto,72,,
+CH-00673,2026-08-19 15:47,2026-08-19 19:53,Hardware,Média,Loja Sul,Resolvido,24,4.1,sim
+CH-00073,2026-08-19 16:00,2026-08-20 00:12,Rede,Média,Fábrica,Resolvido,24,8.2,sim
+CH-01041,2026-08-19 16:46,,Software/Office,Média,RH,Em andamento,24,,
+CH-01418,2026-08-20 10:41,2026-08-22 06:35,Software/Office,Baixa,Loja Sul,Resolvido,72,43.9,sim
+CH-00188,2026-08-20 10:45,2026-08-20 13:03,Rede,Alta,Fábrica,Resolvido,8,2.3,sim
+CH-00224,2026-08-20 10:54,2026-08-21 06:00,Acesso,Média,Loja Sul,Resolvido,24,19.1,sim
+CH-00029,2026-08-20 11:37,2026-08-20 15:31,Software/Office,Alta,Loja Jundiaí,Resolvido,8,3.9,sim
+CH-00401,2026-08-20 16:07,2026-08-21 20:07,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,28.0,sim
+CH-00034,2026-08-20 16:09,2026-08-22 20:15,Hardware,Baixa,Loja Shopping,Resolvido,72,52.1,sim
+CH-00848,2026-08-20 16:37,2026-08-22 05:07,Rede,Média,Loja Jundiaí,Resolvido,24,36.5,nao
+CH-00916,2026-08-20 17:10,,Impressão,Média,Loja Shopping,Em andamento,24,,
+CH-00737,2026-08-20 17:33,2026-08-21 10:45,Rede,Média,Comercial,Resolvido,24,17.2,sim
+CH-00629,2026-08-21 12:58,2026-08-24 04:34,Acesso,Baixa,Loja Centro,Resolvido,72,63.6,sim
+CH-01313,2026-08-21 13:11,2026-08-22 01:41,Software/Office,Média,Loja Jundiaí,Resolvido,24,12.5,sim
+CH-01440,2026-08-21 13:27,2026-08-23 18:39,Acesso,Baixa,Loja Shopping,Resolvido,72,53.2,sim
+CH-01257,2026-08-21 15:00,2026-08-22 09:18,Acesso,Média,RH,Resolvido,24,18.3,sim
+CH-00413,2026-08-21 16:46,2026-08-24 00:46,Software/Office,Baixa,Loja Campinas,Resolvido,72,56.0,sim
+CH-01262,2026-08-21 17:37,2026-08-23 02:19,Impressão,Baixa,Loja Jundiaí,Resolvido,72,32.7,sim
+CH-00639,2026-08-22 08:00,2026-08-27 03:42,Impressão,Baixa,Loja Jundiaí,Resolvido,72,115.7,nao
+CH-00111,2026-08-22 11:38,2026-08-23 09:26,Impressão,Baixa,Comercial,Resolvido,72,21.8,sim
+CH-01326,2026-08-22 11:47,2026-08-23 01:41,Rede,Baixa,Fábrica,Resolvido,72,13.9,sim
+CH-00020,2026-08-22 13:04,2026-08-23 01:58,Hardware,Média,Loja Centro,Resolvido,24,12.9,sim
+CH-00985,2026-08-22 14:18,2026-08-25 03:12,Impressão,Baixa,Comercial,Resolvido,72,60.9,sim
+CH-00938,2026-08-22 15:26,,Software/Office,Alta,Financeiro,Aberto,8,,
+CH-00263,2026-08-22 17:30,2026-08-29 01:30,Impressão,Baixa,Loja Centro,Resolvido,72,152.0,nao
+CH-00740,2026-08-23 08:04,2026-08-23 13:34,Software/Office,Média,Loja Sul,Resolvido,24,5.5,sim
+CH-01376,2026-08-23 11:29,2026-08-25 17:23,Software/Office,Baixa,Expedição,Resolvido,72,53.9,sim
+CH-00771,2026-08-23 11:54,2026-08-25 13:06,Impressão,Média,Comercial,Resolvido,24,49.2,nao
+CH-00082,2026-08-23 12:55,2026-08-25 08:31,Software/Office,Baixa,Loja Campinas,Resolvido,72,43.6,sim
+CH-00249,2026-08-23 12:58,2026-08-24 09:16,Software/Office,Alta,Loja Centro,Resolvido,8,20.3,nao
+CH-00454,2026-08-23 13:32,2026-08-23 17:56,Acesso,Média,Loja Shopping,Resolvido,24,4.4,sim
+CH-01127,2026-08-23 14:00,,Rede,Baixa,Loja Sul,Aberto,72,,
+CH-00971,2026-08-23 14:10,2026-08-24 18:22,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,28.2,sim
+CH-01284,2026-08-23 16:04,2026-08-23 19:34,Software/Office,Alta,Financeiro,Resolvido,8,3.5,sim
+CH-01231,2026-08-23 16:14,2026-08-23 22:14,Outros,Média,Loja Jundiaí,Resolvido,24,6.0,sim
+CH-00677,2026-08-23 17:02,2026-08-23 20:56,Software/Office,Média,Loja Jundiaí,Resolvido,24,3.9,sim
+CH-00114,2026-08-24 10:16,,Acesso,Baixa,Loja Sul,Em andamento,72,,
+CH-00726,2026-08-24 11:11,2026-08-25 00:11,Hardware,Média,Fábrica,Resolvido,24,13.0,sim
+CH-01229,2026-08-24 11:28,2026-08-31 06:10,Acesso,Baixa,Loja Shopping,Resolvido,72,162.7,nao
+CH-00462,2026-08-24 13:00,2026-08-24 15:00,Outros,Alta,Financeiro,Resolvido,8,2.0,sim
+CH-00252,2026-08-24 13:20,2026-08-24 21:08,Outros,Média,Comercial,Resolvido,24,7.8,sim
+CH-00409,2026-08-24 14:01,2026-08-24 16:01,Rede,Alta,Marketing,Resolvido,8,2.0,sim
+CH-00100,2026-08-24 14:24,,Acesso,Média,Loja Sul,Aberto,24,,
+CH-00756,2026-08-24 14:28,2026-08-24 16:34,Outros,Crítica,Loja Campinas,Resolvido,4,2.1,sim
+CH-01473,2026-08-24 14:54,2026-08-24 19:30,Hardware,Alta,Financeiro,Resolvido,8,4.6,sim
+CH-01426,2026-08-24 16:07,2026-08-24 23:19,Software/Office,Alta,Loja Centro,Resolvido,8,7.2,sim
+CH-00212,2026-08-25 08:45,2026-08-25 18:33,Software/Office,Média,RH,Resolvido,24,9.8,sim
+CH-00910,2026-08-25 11:12,2026-08-25 14:24,Impressão,Alta,Loja Centro,Resolvido,8,3.2,sim
+CH-00217,2026-08-25 12:47,2026-08-27 06:35,Hardware,Baixa,Loja Jundiaí,Resolvido,72,41.8,sim
+CH-00845,2026-08-25 14:28,2026-08-27 14:52,Hardware,Média,Loja Sul,Resolvido,24,48.4,nao
+CH-00222,2026-08-25 14:50,2026-09-02 05:50,Hardware,Baixa,Loja Centro,Resolvido,72,183.0,nao
+CH-00346,2026-08-25 14:52,2026-08-26 23:40,Hardware,Baixa,Loja Jundiaí,Resolvido,72,32.8,sim
+CH-00500,2026-08-25 16:18,2026-08-25 18:48,Hardware,Crítica,Financeiro,Resolvido,4,2.5,sim
+CH-00812,2026-08-25 17:08,2026-08-27 01:08,Rede,Baixa,Financeiro,Resolvido,72,32.0,sim
+CH-01488,2026-08-26 09:21,2026-09-01 05:03,Outros,Baixa,Loja Jundiaí,Resolvido,72,139.7,nao
+CH-00807,2026-08-26 09:53,2026-08-26 13:59,Outros,Alta,Loja Campinas,Resolvido,8,4.1,sim
+CH-00657,2026-08-26 15:24,2026-09-01 23:12,Hardware,Baixa,Loja Jundiaí,Resolvido,72,151.8,nao
+CH-01157,2026-08-27 08:16,,Rede,Baixa,Estilo,Aberto,72,,
+CH-00236,2026-08-27 08:18,2026-08-29 15:12,Outros,Baixa,Loja Jundiaí,Resolvido,72,54.9,sim
+CH-00353,2026-08-27 10:11,2026-08-29 15:29,Acesso,Baixa,Loja Campinas,Resolvido,72,53.3,sim
+CH-00716,2026-08-27 10:29,,Acesso,Alta,Loja Jundiaí,Aberto,8,,
+CH-00994,2026-08-27 10:33,2026-08-28 03:27,Acesso,Baixa,Comercial,Resolvido,72,16.9,sim
+CH-00193,2026-08-27 11:22,,Acesso,Média,Loja Centro,Em andamento,24,,
+CH-00557,2026-08-27 13:35,,Software/Office,Média,Fábrica,Em andamento,24,,
+CH-00168,2026-08-27 13:50,2026-08-28 11:02,Outros,Média,Loja Jundiaí,Resolvido,24,21.2,sim
+CH-00433,2026-08-27 14:13,2026-08-28 07:37,Hardware,Média,Loja Centro,Resolvido,24,17.4,sim
+CH-00799,2026-08-27 15:08,2026-08-28 03:02,Software/Office,Média,Loja Sul,Resolvido,24,11.9,sim
+CH-00465,2026-08-27 16:29,2026-08-29 17:59,Software/Office,Baixa,Comercial,Resolvido,72,49.5,sim
+CH-01306,2026-08-27 16:34,2026-08-28 07:34,Software/Office,Média,RH,Resolvido,24,15.0,sim
+CH-01495,2026-08-28 09:51,,Software/Office,Média,Fábrica,Em andamento,24,,
+CH-00259,2026-08-28 10:06,,Acesso,Média,Loja Campinas,Aberto,24,,
+CH-00638,2026-08-28 13:05,2026-08-29 02:29,Software/Office,Média,Expedição,Resolvido,24,13.4,sim
+CH-00553,2026-08-28 14:52,2026-08-28 21:22,Software/Office,Alta,Fábrica,Resolvido,8,6.5,sim
+CH-01263,2026-08-29 09:14,2026-08-29 23:38,Acesso,Média,Fábrica,Resolvido,24,14.4,sim
+CH-01424,2026-08-29 09:53,,Software/Office,Crítica,Expedição,Aberto,4,,
+CH-01248,2026-08-29 12:39,2026-08-30 16:15,Outros,Baixa,Loja Campinas,Resolvido,72,27.6,sim
+CH-00441,2026-08-29 14:43,2026-08-31 02:31,Software/Office,Média,Fábrica,Resolvido,24,35.8,nao
+CH-01321,2026-08-29 16:00,,Software/Office,Baixa,Fábrica,Em andamento,72,,
+CH-01447,2026-08-29 16:12,2026-08-30 10:42,Impressão,Média,Loja Campinas,Resolvido,24,18.5,sim
+CH-01031,2026-08-29 17:02,2026-09-04 23:56,Software/Office,Baixa,Estilo,Resolvido,72,150.9,nao
+CH-01419,2026-08-30 08:25,2026-09-01 18:55,Acesso,Baixa,Financeiro,Resolvido,72,58.5,sim
+CH-00211,2026-08-30 09:12,2026-08-30 15:42,Hardware,Média,Loja Jundiaí,Resolvido,24,6.5,sim
+CH-00707,2026-08-30 09:12,,Rede,Média,Comercial,Em andamento,24,,
+CH-00244,2026-08-30 10:40,2026-08-30 15:10,Rede,Média,Loja Jundiaí,Resolvido,24,4.5,sim
+CH-00497,2026-08-30 10:40,2026-09-01 22:28,Acesso,Baixa,Fábrica,Resolvido,72,59.8,sim
+CH-00455,2026-08-30 10:49,2026-08-30 12:25,Impressão,Alta,Loja Sul,Resolvido,8,1.6,sim
+CH-01040,2026-08-30 12:07,2026-08-30 15:19,Rede,Crítica,Fábrica,Resolvido,4,3.2,sim
+CH-00463,2026-08-30 12:13,2026-09-01 02:13,Hardware,Média,Loja Sul,Resolvido,24,38.0,nao
+CH-00793,2026-08-30 12:18,2026-08-30 16:18,Acesso,Alta,Loja Centro,Resolvido,8,4.0,sim
+CH-00855,2026-08-30 14:52,2026-09-01 05:34,Software/Office,Baixa,Financeiro,Resolvido,72,38.7,sim
+CH-01088,2026-08-30 15:26,2026-08-30 20:44,Acesso,Alta,Loja Sul,Resolvido,8,5.3,sim
+CH-00837,2026-08-30 16:02,2026-08-30 21:56,Hardware,Média,RH,Resolvido,24,5.9,sim
+CH-00200,2026-08-30 17:26,2026-08-31 03:50,Acesso,Alta,Loja Jundiaí,Resolvido,8,10.4,nao
+CH-00696,2026-08-30 17:57,2026-08-31 02:51,Acesso,Alta,Expedição,Resolvido,8,8.9,nao
+CH-00537,2026-08-31 08:17,2026-08-31 20:53,Software/Office,Média,Comercial,Resolvido,24,12.6,sim
+CH-00466,2026-08-31 13:08,2026-08-31 16:08,Rede,Alta,Fábrica,Resolvido,8,3.0,sim
+CH-01142,2026-08-31 13:45,2026-09-01 07:39,Impressão,Média,Loja Sul,Resolvido,24,17.9,sim
+CH-00810,2026-08-31 14:05,2026-08-31 17:47,Rede,Crítica,Loja Jundiaí,Resolvido,4,3.7,sim
+CH-00670,2026-08-31 15:07,2026-09-02 05:43,Software/Office,Média,Loja Jundiaí,Resolvido,24,38.6,nao
+CH-00295,2026-08-31 15:08,2026-09-01 05:32,Impressão,Média,Comercial,Resolvido,24,14.4,sim
+CH-00149,2026-08-31 15:29,2026-09-02 04:11,Hardware,Baixa,Loja Jundiaí,Resolvido,72,36.7,sim
+CH-00173,2026-08-31 16:32,2026-08-31 20:32,Software/Office,Média,Loja Shopping,Resolvido,24,4.0,sim
+CH-00708,2026-09-01 09:06,2026-09-01 15:30,Hardware,Média,Loja Centro,Resolvido,24,6.4,sim
+CH-01474,2026-09-01 12:39,2026-09-04 09:03,Acesso,Baixa,Loja Jundiaí,Resolvido,72,68.4,sim
+CH-00179,2026-09-01 13:11,2026-09-02 10:29,Acesso,Média,Loja Campinas,Resolvido,24,21.3,sim
+CH-00877,2026-09-01 13:56,2026-09-01 22:32,Rede,Média,Fábrica,Resolvido,24,8.6,sim
+CH-01346,2026-09-01 14:11,2026-09-04 01:05,Acesso,Baixa,Loja Jundiaí,Resolvido,72,58.9,sim
+CH-00658,2026-09-01 14:39,,Hardware,Baixa,Fábrica,Em andamento,72,,
+CH-00987,2026-09-01 15:42,2026-09-01 22:36,Outros,Média,Expedição,Resolvido,24,6.9,sim
+CH-00864,2026-09-01 16:12,2026-09-01 20:12,Outros,Média,RH,Resolvido,24,4.0,sim
+CH-00809,2026-09-01 17:08,2026-09-03 17:02,Rede,Baixa,Financeiro,Resolvido,72,47.9,sim
+CH-00671,2026-09-02 09:23,2026-09-03 13:35,Software/Office,Média,Fábrica,Resolvido,24,28.2,nao
+CH-00388,2026-09-02 15:37,2026-09-03 11:19,Rede,Média,Loja Campinas,Resolvido,24,19.7,sim
+CH-00874,2026-09-02 17:18,2026-09-02 18:06,Acesso,Crítica,Comercial,Resolvido,4,0.8,sim
+CH-00743,2026-09-03 10:57,2026-09-04 04:27,Software/Office,Média,Financeiro,Resolvido,24,17.5,sim
+CH-01454,2026-09-03 12:08,,Hardware,Baixa,Loja Jundiaí,Aberto,72,,
+CH-01467,2026-09-03 12:28,2026-09-04 05:28,Rede,Média,Loja Shopping,Resolvido,24,17.0,sim
+CH-00523,2026-09-03 14:10,2026-09-04 07:46,Impressão,Média,Fábrica,Resolvido,24,17.6,sim
+CH-00774,2026-09-03 15:50,2026-09-04 01:14,Software/Office,Alta,Comercial,Resolvido,8,9.4,nao
+CH-00501,2026-09-03 15:59,2026-09-04 12:53,Rede,Baixa,Loja Centro,Resolvido,72,20.9,sim
+CH-00903,2026-09-03 17:19,2026-09-04 05:37,Software/Office,Média,Fábrica,Resolvido,24,12.3,sim
+CH-01308,2026-09-03 17:42,,Acesso,Baixa,Fábrica,Aberto,72,,
+CH-01343,2026-09-04 08:14,,Acesso,Média,Fábrica,Aberto,24,,
+CH-00102,2026-09-04 09:30,2026-09-04 14:42,Hardware,Alta,Expedição,Resolvido,8,5.2,sim
+CH-00961,2026-09-04 11:17,2026-09-05 09:11,Software/Office,Média,Fábrica,Resolvido,24,21.9,sim
+CH-00307,2026-09-04 11:31,2026-09-09 04:49,Impressão,Baixa,Loja Campinas,Resolvido,72,113.3,nao
+CH-01338,2026-09-04 12:50,2026-09-06 07:08,Hardware,Média,Marketing,Resolvido,24,42.3,nao
+CH-00616,2026-09-04 12:53,2026-09-10 14:23,Software/Office,Baixa,Loja Shopping,Resolvido,72,145.5,nao
+CH-01182,2026-09-04 13:18,2026-09-05 10:42,Software/Office,Média,Loja Campinas,Resolvido,24,21.4,sim
+CH-00283,2026-09-04 13:50,2026-09-04 22:26,Acesso,Média,Fábrica,Resolvido,24,8.6,sim
+CH-01005,2026-09-04 14:15,2026-09-05 03:15,Outros,Média,Fábrica,Resolvido,24,13.0,sim
+CH-00090,2026-09-04 15:22,2026-09-04 20:58,Outros,Média,Comercial,Resolvido,24,5.6,sim
+CH-01174,2026-09-04 17:00,2026-09-05 10:06,Software/Office,Baixa,Fábrica,Resolvido,72,17.1,sim
+CH-00542,2026-09-04 17:50,2026-09-05 00:26,Software/Office,Média,Loja Centro,Resolvido,24,6.6,sim
+CH-00952,2026-09-05 10:21,2026-09-06 03:09,Outros,Média,Financeiro,Resolvido,24,16.8,sim
+CH-00541,2026-09-05 11:40,2026-09-05 14:46,Rede,Crítica,Fábrica,Resolvido,4,3.1,sim
+CH-01451,2026-09-05 15:29,2026-09-06 00:53,Outros,Média,Expedição,Resolvido,24,9.4,sim
+CH-00729,2026-09-05 17:47,2026-09-07 05:41,Hardware,Baixa,Loja Sul,Resolvido,72,35.9,sim
+CH-01361,2026-09-06 13:06,2026-09-06 22:54,Hardware,Média,Fábrica,Resolvido,24,9.8,sim
+CH-01122,2026-09-06 13:07,,Rede,Baixa,Loja Campinas,Em andamento,72,,
+CH-01095,2026-09-06 17:02,2026-09-06 17:44,Software/Office,Crítica,Loja Shopping,Resolvido,4,0.7,sim
+CH-01164,2026-09-06 17:32,2026-09-06 19:08,Impressão,Alta,Loja Shopping,Resolvido,8,1.6,sim
+CH-01112,2026-09-07 11:03,2026-09-09 17:33,Hardware,Baixa,RH,Resolvido,72,54.5,sim
+CH-00122,2026-09-07 13:03,2026-09-07 18:57,Hardware,Média,Fábrica,Resolvido,24,5.9,sim
+CH-00798,2026-09-07 13:08,,Hardware,Média,Loja Campinas,Aberto,24,,
+CH-00452,2026-09-08 08:07,2026-09-10 23:01,Acesso,Baixa,Comercial,Resolvido,72,62.9,sim
+CH-00096,2026-09-08 11:29,2026-09-09 08:47,Acesso,Média,Comercial,Resolvido,24,21.3,sim
+CH-00820,2026-09-08 12:55,2026-09-08 14:13,Software/Office,Alta,Loja Jundiaí,Resolvido,8,1.3,sim
+CH-01203,2026-09-08 13:32,2026-09-09 20:26,Acesso,Baixa,Loja Shopping,Resolvido,72,30.9,sim
+CH-01492,2026-09-09 08:00,2026-09-09 14:18,Software/Office,Alta,Loja Jundiaí,Resolvido,8,6.3,sim
+CH-00447,2026-09-09 09:11,,Software/Office,Alta,Loja Campinas,Aberto,8,,
+CH-00125,2026-09-09 10:34,2026-09-10 02:52,Software/Office,Média,Loja Shopping,Resolvido,24,16.3,sim
+CH-00878,2026-09-09 13:13,2026-09-09 17:07,Software/Office,Média,Loja Centro,Resolvido,24,3.9,sim
+CH-01368,2026-09-09 14:35,2026-09-11 01:29,Rede,Baixa,RH,Resolvido,72,34.9,sim
+CH-00510,2026-09-09 16:17,2026-09-10 10:29,Impressão,Baixa,Loja Sul,Resolvido,72,18.2,sim
+CH-00320,2026-09-10 09:01,2026-09-10 11:37,Acesso,Alta,Loja Sul,Resolvido,8,2.6,sim
+CH-00966,2026-09-10 09:26,,Software/Office,Média,Loja Shopping,Aberto,24,,
+CH-00608,2026-09-10 12:27,2026-09-11 02:09,Acesso,Média,Marketing,Resolvido,24,13.7,sim
+CH-01117,2026-09-10 13:00,2026-09-10 19:24,Software/Office,Média,Loja Shopping,Resolvido,24,6.4,sim
+CH-00752,2026-09-10 16:17,2026-09-10 22:11,Rede,Média,Marketing,Resolvido,24,5.9,sim
+CH-01378,2026-09-11 08:28,2026-09-12 12:10,Acesso,Baixa,Fábrica,Resolvido,72,27.7,sim
+CH-00054,2026-09-11 17:20,,Acesso,Baixa,Fábrica,Em andamento,72,,
+CH-00342,2026-09-12 08:25,2026-09-12 22:37,Acesso,Média,Loja Shopping,Resolvido,24,14.2,sim
+CH-01151,2026-09-12 14:07,2026-09-13 19:43,Hardware,Baixa,Loja Sul,Resolvido,72,29.6,sim
+CH-00988,2026-09-13 08:10,,Outros,Média,Loja Jundiaí,Em andamento,24,,
+CH-00314,2026-09-13 10:04,2026-09-15 10:16,Software/Office,Baixa,Loja Jundiaí,Resolvido,72,48.2,sim
+CH-01238,2026-09-13 11:08,,Rede,Baixa,Loja Sul,Em andamento,72,,
+CH-01245,2026-09-13 12:01,2026-09-14 00:49,Acesso,Alta,Marketing,Resolvido,8,12.8,nao
+CH-01019,2026-09-13 14:24,2026-09-13 19:30,Software/Office,Média,Loja Centro,Resolvido,24,5.1,sim
+CH-00237,2026-09-13 14:28,2026-09-15 05:40,Outros,Média,Loja Campinas,Resolvido,24,39.2,nao
+CH-01083,2026-09-14 08:23,2026-09-15 04:11,Software/Office,Alta,Loja Jundiaí,Resolvido,8,19.8,nao
+CH-01181,2026-09-14 12:12,2026-09-14 22:24,Impressão,Média,Loja Campinas,Resolvido,24,10.2,sim
+CH-01366,2026-09-15 08:48,,Hardware,Média,Loja Campinas,Em andamento,24,,
+CH-00664,2026-09-15 14:44,,Software/Office,Alta,Loja Campinas,Em andamento,8,,
+CH-00516,2026-09-15 16:34,2026-09-15 19:40,Software/Office,Alta,Loja Sul,Resolvido,8,3.1,sim
+CH-01251,2026-09-17 16:46,2026-09-20 04:22,Outros,Baixa,Fábrica,Resolvido,72,59.6,sim
+CH-00393,2026-09-19 13:35,2026-09-19 22:53,Software/Office,Média,Loja Jundiaí,Resolvido,24,9.3,sim
+CH-00160,2026-09-21 10:04,2026-09-21 18:00,Rede,Baixa,Loja Centro,Resolvido,72,7.9,sim
